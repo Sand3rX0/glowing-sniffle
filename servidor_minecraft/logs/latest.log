@@ -105,3 +105,194 @@
 [02:10:59] [Server thread/INFO]: SoySander issued server command: /tp un_randompro SoySander
 [02:10:59] [Server thread/INFO]: [SoySander: Teleported un_randompro to SoySander]
 [02:14:18] [Server thread/INFO]: un_randompro has made the advancement [Ice Bucket Challenge]
+[02:15:31] [User Authenticator #3/INFO]: UUID of player Jeiker45 is bc83c48d-239b-3c9d-8ef1-19b53d610ac4
+[02:15:31] [Server thread/INFO]: Jeiker45 joined the game
+[02:15:31] [Server thread/INFO]: Jeiker45[/127.103.243.65:37539] logged in with entity id 1566 at ([world]42.5, 70.0, 60.5)
+[02:16:03] [Server thread/INFO]: Jeiker45 was slain by SoySander
+[02:16:11] [Server thread/INFO]: Jeiker45 lost connection: Disconnected
+[02:16:11] [Server thread/INFO]: Jeiker45 left the game
+[02:16:26] [User Authenticator #3/INFO]: UUID of player Jeiker45 is bc83c48d-239b-3c9d-8ef1-19b53d610ac4
+[02:16:26] [Server thread/INFO]: Jeiker45 joined the game
+[02:16:26] [Server thread/INFO]: Jeiker45[/127.103.243.65:34377] logged in with entity id 1869 at ([world]30.45150527988286, 68.0, 55.646408247425285)
+[02:17:14] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[02:17:14] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[02:17:16] [Server thread/INFO]: SoySander issued server command: /gamemode creative
+[02:17:16] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
+[02:17:27] [Server thread/INFO]: SoySander issued server command: /op Jeiker45
+[02:17:27] [Server thread/INFO]: [SoySander: Made Jeiker45 a server operator]
+[02:17:32] [Server thread/INFO]: SoySander issued server command: /tp Jeiker45
+[02:17:32] [Server thread/INFO]: [SoySander: Teleported SoySander to Jeiker45]
+[02:17:34] [Server thread/INFO]: Jeiker45 has completed the challenge [Cover Me in Debris]
+[02:17:36] [Server thread/INFO]: Jeiker45 has made the advancement [Ice Bucket Challenge]
+[02:17:44] [Server thread/INFO]: un_randompro issued server command: /gamemode survival
+[02:17:44] [Server thread/INFO]: [un_randompro: Set own game mode to Survival Mode]
+[02:18:19] [Server thread/INFO]: un_randompro issued server command: /give @a minecraft:totem_of_undying 10
+[02:18:19] [Server thread/INFO]: [un_randompro: Gave 10 [Totem of Undying] to 3]
+[02:19:27] [Server thread/INFO]: CONSOLE: Are you sure you wish to reload your server? Doing so may cause bugs and memory leaks. It is recommended to restart instead of using /reload. To confirm, please type /reload confirm
+[02:19:32] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[02:19:32] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[02:19:32] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:19:32] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:19:33] [Server thread/INFO]: Loaded 7 recipes
+[02:19:33] [Server thread/INFO]: [DTools3] Loading DTools3 v1.0.4-SNAPSHOT
+[02:19:33] [Server thread/INFO]: [lifesteal] Loading lifesteal v3.1.0-SNAPSHOT
+[02:19:33] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:19:33] [Server thread/INFO]: [DTools3] Enabling DTools3 v1.0.4-SNAPSHOT
+[02:19:34] [Server thread/INFO]: [DTools3] Loading tools...
+[02:19:34] [Server thread/INFO]: [DTools3] Loading icons tool...
+[02:19:34] [Server thread/INFO]: [DTools3] Loading icon: little-roulette
+[02:19:34] [Server thread/INFO]: [DTools3] Loading icon: little-roulette-off
+[02:19:34] [Server thread/INFO]: [DTools3] Loading icon: little-roulette-yellow
+[02:19:34] [Server thread/INFO]: [DTools3] Loading icon: little-roulette-red
+[02:19:34] [Server thread/INFO]: [DTools3] Loading icon: little-roulette-purple
+[02:19:34] [Server thread/INFO]: [DTools3] Loading icon: little-roulette-pink
+[02:19:34] [Server thread/INFO]: [DTools3] Loading icon: little-roulette-orange
+[02:19:34] [Server thread/INFO]: [DTools3] Loading icon: little-roulette-green
+[02:19:34] [Server thread/INFO]: [DTools3] Loading icon: little-roulette-cyan
+[02:19:34] [Server thread/INFO]: [DTools3] Loading icon: little-roulette-blue
+[02:19:34] [Server thread/INFO]: [DTools3] Loading icon: transition-icon
+[02:19:34] [Server thread/INFO]: [DTools3] Loading icon: menu-revive-icon
+[02:19:34] [Server thread/INFO]: [DTools3] Loading icon: menu-revive-space-icon
+[02:19:34] [Server thread/INFO]: [DTools3] Loading icon: menu-title-space-icon
+[02:19:34] [Server thread/INFO]: [DTools3] Loading death tool...
+[02:19:34] [Server thread/INFO]: [DTools3] Loading death: default
+[02:19:34] [Server thread/INFO]: [DTools3] Loading death: totem
+[02:19:34] [Server thread/INFO]: [DTools3] Loading death: totem_reviil
+[02:19:34] [Server thread/INFO]: [DTools3] Loading states tool...
+[02:19:34] [Server thread/INFO]: [DTools3] Loading state: join
+[02:19:34] [Server thread/INFO]: [DTools3] Loading state: leave
+[02:19:34] [Server thread/INFO]: [DTools3] Loading state: sun
+[02:19:34] [Server thread/INFO]: [DTools3] Loading state: eternal-fire
+[02:19:34] [Server thread/INFO]: [DTools3] Loading state: zombification
+[02:19:34] [Server thread/INFO]: [DTools3] Loading state: water_oxygen
+[02:19:34] [Server thread/INFO]: [DTools3] Loading events tool...
+[02:19:34] [Server thread/INFO]: [DTools3] Loading event: reviil_zombificacion
+[02:19:34] [Server thread/INFO]: [DTools3] Loading event: reviil_2k_entidades
+[02:19:34] [Server thread/INFO]: [DTools3] Loading event: reviil_1k_entidades
+[02:19:34] [Server thread/INFO]: [DTools3] Loading event: nutria_especial
+[02:19:34] [Server thread/INFO]: [DTools3] Loading roulette tool...
+[02:19:34] [Server thread/INFO]: [DTools3] Loading part: amarillo
+[02:19:34] [Server thread/INFO]: [DTools3] Loading part: azul
+[02:19:34] [Server thread/INFO]: [DTools3] Loading part: morado
+[02:19:34] [Server thread/INFO]: [DTools3] Loading part: naranja
+[02:19:34] [Server thread/INFO]: [DTools3] Loading part: rojo
+[02:19:34] [Server thread/INFO]: [DTools3] Loading part: rosado
+[02:19:34] [Server thread/INFO]: [DTools3] Loading part: cian
+[02:19:34] [Server thread/INFO]: [DTools3] Loading part: verde
+[02:19:34] [Server thread/INFO]: [DTools3] Loading items tool...
+[02:19:34] [Server thread/INFO]: [DTools3] Loading item: ender_bag
+[02:19:34] [Server thread/INFO]: [DTools3] Loading item: healing_infernal_sword
+[02:19:34] [Server thread/INFO]: [DTools3] Loading item: yunque_portatil_dorado
+[02:19:34] [Server thread/INFO]: [DTools3] Loading item: bloqueador
+[02:19:34] [Server thread/INFO]: [DTools3] Loading item: tenedor_de_resurreccion
+[02:19:34] [Server thread/INFO]: [DTools3] Loading item: cuchara
+[02:19:34] [Server thread/INFO]: [DTools3] Loading item: cuchara_de_resurreccion
+[02:19:34] [Server thread/INFO]: [DTools3] Loading item: pildora_del_experimento_110
+[02:19:34] [Server thread/INFO]: [DTools3] Loading item: nutritotem
+[02:19:34] [Server thread/INFO]: [DTools3] Loading item: totem_reviil
+[02:19:34] [Server thread/INFO]: [DTools3] Loading item: totem_ferreo
+[02:19:34] [Server thread/INFO]: [DTools3] Loading item: totem_100
+[02:19:34] [Server thread/INFO]: [DTools3] Loading item: totem_flashbang
+[02:19:34] [Server thread/INFO]: [DTools3] Loading item: fogata
+[02:19:34] [Server thread/INFO]: [DTools3] Loading item: menu-player
+[02:19:34] [Server thread/INFO]: [DTools3] Loading item: menu-flecha-derecha
+[02:19:34] [Server thread/INFO]: [DTools3] Loading item: menu-flecha-izquierda
+[02:19:34] [Server thread/INFO]: [DTools3] Loading item: menu-angel
+[02:19:34] [Server thread/INFO]: [DTools3] Loading player tool...
+[02:19:34] [Server thread/INFO]: [DTools3] Loading player: lives
+[02:19:34] [Server thread/INFO]: [DTools3] Loading player: win_life
+[02:19:34] [Server thread/INFO]: [DTools3] Loading player: loss_life
+[02:19:34] [Server thread/INFO]: [DTools3] Loading player: loss_final_life
+[02:19:34] [Server thread/INFO]: [DTools3] Loading player: souls
+[02:19:34] [Server thread/INFO]: [DTools3] Loading player: recover_soul
+[02:19:34] [Server thread/INFO]: [DTools3] Loading player: loss_soul
+[02:19:34] [Server thread/INFO]: [DTools3] Loading player: loss_soul_revive
+[02:19:34] [Server thread/INFO]: [DTools3] Loading player: revive
+[02:19:34] [Server thread/INFO]: [DTools3] Loading crafts tool...
+[02:19:34] [Server thread/INFO]: [DTools3] Loading craft: ender_bag
+[02:19:34] [Server thread/INFO]: [DTools3] Loading craft: cuchara_de_resurreccion
+[02:19:34] [Server thread/INFO]: [DTools3] Loading campfire tool...
+[02:19:34] [Server thread/INFO]: [DTools3] Loading campfire: default
+[02:19:34] [Server thread/INFO]: [DTools3] Loading transitions tool...
+[02:19:34] [Server thread/INFO]: [DTools3] Loading transition: default
+[02:19:34] [Server thread/INFO]: [DTools3] Tools loaded!
+[02:19:34] [Server thread/INFO]: [com.francobm.dtools3.libs.hikari.HikariDataSource] HikariPool-1 - Starting...
+[02:19:34] [Server thread/INFO]: [com.francobm.dtools3.libs.hikari.pool.HikariPool] HikariPool-1 - Added connection org.sqlite.jdbc4.JDBC4Connection@465bd2ef
+[02:19:34] [Server thread/INFO]: [com.francobm.dtools3.libs.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[02:19:34] [Server thread/INFO]: [DTools3] SQLite table created successfully
+[02:19:34] [Server thread/INFO]: [lifesteal] Enabling lifesteal v3.1.0-SNAPSHOT
+[02:19:34] [Server thread/ERROR]: [lifesteal] ========================
+[02:19:34] [Server thread/ERROR]: [lifesteal] Lifesteal requires Helix, please download it from: https://www.spigotmc.org/resources/helix.119149/
+[02:19:34] [Server thread/ERROR]: [lifesteal] To install Helix, simply add it to your plugins folder.
+[02:19:34] [Server thread/ERROR]: [lifesteal] The plugin will NOT work until that is done.
+[02:19:34] [Server thread/ERROR]: [lifesteal] ========================
+[02:19:34] [Server thread/INFO]: CONSOLE: Reload complete.
+[02:19:34] [Server thread/INFO]: Timings Reset
+[02:20:00] [Async Chat Thread - #0/INFO]: <SoySander> un_randompro
+[02:20:01] [Server thread/INFO]: un_randompro has reached the goal [Postmortal]
+[02:20:02] [Async Chat Thread - #0/INFO]: <SoySander> te saliste
+[02:20:06] [Server thread/INFO]: SoySander issued server command: /plugins
+[02:20:18] [Server thread/INFO]: SoySander issued server command: /plugins
+[02:20:20] [Async Chat Thread - #0/INFO]: <SoySander> un_randompro
+[02:20:20] [Async Chat Thread - #0/INFO]: <SoySander> un_randompro
+[02:20:20] [Async Chat Thread - #0/INFO]: <SoySander> un_randompro
+[02:20:20] [Async Chat Thread - #0/INFO]: <SoySander> un_randompro
+[02:20:26] [Server thread/INFO]: Jeiker45 has reached the goal [Postmortal]
+[02:20:32] [Server thread/INFO]: Jeiker45 has made the advancement [Stone Age]
+[02:20:33] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
+[02:20:33] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
+[02:20:36] [Server thread/INFO]: SoySander issued server command: /gamemode creative
+[02:20:36] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
+[02:20:48] [Server thread/INFO]: SoySander issued server command: /effect give SoySander minecraft:invisibility 8999 22 true
+[02:20:48] [Server thread/INFO]: [SoySander: Applied effect Invisibility to SoySander]
+[02:21:01] [Server thread/INFO]: SoySander has made the advancement [Stone Age]
+[02:21:21] [Server thread/INFO]: SoySander issued server command: /dt3
+[02:21:25] [Server thread/INFO]: un_randompro has made the advancement [Stone Age]
+[02:21:31] [Server thread/INFO]: SoySander issued server command: /dtools3:vidas Jeiker45
+[02:21:45] [Server thread/INFO]: SoySander issued server command: /dtools3:dtools play roulette
+[02:21:48] [Server thread/INFO]: SoySander issued server command: /dtools3:dtools play roulette all
+[02:22:04] [Server thread/INFO]: SoySander issued server command: /dtools3:dtools play roulette all
+[02:22:25] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[02:22:25] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[02:22:33] [Server thread/INFO]: un_randompro lost connection: Has sido eliminado: GG.
+
+[02:22:35] [Server thread/INFO]: SoySander issued server command: /gamemode creative
+[02:22:35] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
+[02:23:30] [Server thread/INFO]: Jeiker45 lost connection: Disconnected
+[02:23:34] [User Authenticator #4/INFO]: Disconnecting com.mojang.authlib.GameProfile@3fe69a8d[id=bc83c48d-239b-3c9d-8ef1-19b53d610ac4,name=Jeiker45,properties={},legacy=false] (/127.103.243.65:44667): Has sido eliminado: GG.
+
+[02:23:34] [Server thread/INFO]: com.mojang.authlib.GameProfile@3fe69a8d[id=bc83c48d-239b-3c9d-8ef1-19b53d610ac4,name=Jeiker45,properties={},legacy=false] (/127.103.243.65:44667) lost connection: Has sido eliminado: GG.
+
+[02:23:43] [User Authenticator #4/INFO]: Disconnecting com.mojang.authlib.GameProfile@7b8c99a[id=bc83c48d-239b-3c9d-8ef1-19b53d610ac4,name=Jeiker45,properties={},legacy=false] (/127.103.243.65:33263): Has sido eliminado: GG.
+
+[02:23:43] [Server thread/INFO]: com.mojang.authlib.GameProfile@7b8c99a[id=bc83c48d-239b-3c9d-8ef1-19b53d610ac4,name=Jeiker45,properties={},legacy=false] (/127.103.243.65:33263) lost connection: Has sido eliminado: GG.
+
+[02:23:47] [User Authenticator #4/INFO]: Disconnecting com.mojang.authlib.GameProfile@589537c2[id=bc83c48d-239b-3c9d-8ef1-19b53d610ac4,name=Jeiker45,properties={},legacy=false] (/127.103.243.65:41439): Has sido eliminado: GG.
+
+[02:23:47] [Server thread/INFO]: com.mojang.authlib.GameProfile@589537c2[id=bc83c48d-239b-3c9d-8ef1-19b53d610ac4,name=Jeiker45,properties={},legacy=false] (/127.103.243.65:41439) lost connection: Has sido eliminado: GG.
+
+[02:23:53] [User Authenticator #4/INFO]: Disconnecting com.mojang.authlib.GameProfile@65685bfa[id=bc83c48d-239b-3c9d-8ef1-19b53d610ac4,name=Jeiker45,properties={},legacy=false] (/127.103.243.65:35001): Has sido eliminado: GG.
+
+[02:23:53] [Server thread/INFO]: com.mojang.authlib.GameProfile@65685bfa[id=bc83c48d-239b-3c9d-8ef1-19b53d610ac4,name=Jeiker45,properties={},legacy=false] (/127.103.243.65:35001) lost connection: Has sido eliminado: GG.
+
+[02:23:56] [User Authenticator #4/INFO]: Disconnecting com.mojang.authlib.GameProfile@483ee7b6[id=4f2ddd44-221e-3406-80eb-bdd38f185eca,name=un_randompro,properties={},legacy=false] (/127.224.235.140:34855): Has sido eliminado: GG.
+
+[02:23:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@483ee7b6[id=4f2ddd44-221e-3406-80eb-bdd38f185eca,name=un_randompro,properties={},legacy=false] (/127.224.235.140:34855) lost connection: Has sido eliminado: GG.
+
+[02:24:06] [User Authenticator #4/INFO]: Disconnecting com.mojang.authlib.GameProfile@98b1332[id=bc83c48d-239b-3c9d-8ef1-19b53d610ac4,name=Jeiker45,properties={},legacy=false] (/127.103.243.65:36259): Has sido eliminado: GG.
+
+[02:24:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@98b1332[id=bc83c48d-239b-3c9d-8ef1-19b53d610ac4,name=Jeiker45,properties={},legacy=false] (/127.103.243.65:36259) lost connection: Has sido eliminado: GG.
+
+[02:24:09] [User Authenticator #4/INFO]: Disconnecting com.mojang.authlib.GameProfile@78d10ee6[id=4f2ddd44-221e-3406-80eb-bdd38f185eca,name=un_randompro,properties={},legacy=false] (/127.224.235.140:53093): Has sido eliminado: GG.
+
+[02:24:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@78d10ee6[id=4f2ddd44-221e-3406-80eb-bdd38f185eca,name=un_randompro,properties={},legacy=false] (/127.224.235.140:53093) lost connection: Has sido eliminado: GG.
+
+[02:24:15] [User Authenticator #4/INFO]: Disconnecting com.mojang.authlib.GameProfile@5f412d8d[id=bc83c48d-239b-3c9d-8ef1-19b53d610ac4,name=Jeiker45,properties={},legacy=false] (/127.103.243.65:40547): Has sido eliminado: GG.
+
+[02:24:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@5f412d8d[id=bc83c48d-239b-3c9d-8ef1-19b53d610ac4,name=Jeiker45,properties={},legacy=false] (/127.103.243.65:40547) lost connection: Has sido eliminado: GG.
+
+[02:24:28] [Server thread/INFO]: SoySander issued server command: /dtools3:dt revive
+[02:24:33] [Server thread/INFO]: SoySander issued server command: /dtools3:dt revive Jeiker45
+[02:24:33] [User Authenticator #4/INFO]: UUID of player Jeiker45 is bc83c48d-239b-3c9d-8ef1-19b53d610ac4
+[02:24:33] [Server thread/INFO]: Jeiker45[/127.103.243.65:60767] logged in with entity id 3692 at ([world]78.17804494391638, 79.39579068976258, 87.88795999335584)
+[02:24:43] [Server thread/INFO]: SoySander issued server command: /dtools3:dt revive un_randompro
