@@ -432,3 +432,21 @@
 [02:33:58] [Server thread/INFO]: SoySander issued server command: /dtools3:lives Jeiker45 11
 [02:34:17] [Server thread/INFO]: Jeiker45 issued server command: /gamemode creative
 [02:34:17] [Server thread/INFO]: [Jeiker45: Set own game mode to Creative Mode]
+[02:35:06] [Server thread/INFO]: Jeiker45 has made the advancement [You've Got a Friend in Me]
+[02:35:56] [Server thread/INFO]: SoySander issued server command: /dt play transitions SoySander default
+[02:36:32] [Server thread/INFO]: Jeiker45 has made the advancement [Acquire Hardware]
+[02:36:36] [Server thread/INFO]: Jeiker45 issued server command: /gamemode survival
+[02:36:36] [Server thread/INFO]: [Jeiker45: Set own game mode to Survival Mode]
+[02:36:47] [Server thread/INFO]: Jeiker45 issued server command: /gamemode creative
+[02:36:47] [Server thread/INFO]: [Jeiker45: Set own game mode to Creative Mode]
+[02:38:50] [Server thread/INFO]: Jeiker45 has completed the challenge [Serious Dedication]
+[02:38:58] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[02:38:58] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[02:38:59] [Server thread/INFO]: SoySander issued server command: /gamemode creative
+[02:38:59] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
+[02:39:03] [Server thread/INFO]: Jeiker45 issued server command: /gamemode survival
+[02:39:03] [Server thread/INFO]: [Jeiker45: Set own game mode to Survival Mode]
+[02:40:18] [Server thread/INFO]: Jeiker45 lost connection: Disconnected
+[02:43:10] [Server thread/INFO]: SoySander issued server command: /dtools3 play roulette all verde
+[02:43:52] [Server thread/INFO]: SoySander issued server command: /dtools3 play roulette all verde
+[02:44:43] [Server thread/INFO]: SoySander lost connection: Disconnected
