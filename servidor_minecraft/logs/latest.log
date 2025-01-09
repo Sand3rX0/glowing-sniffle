@@ -296,3 +296,139 @@
 [02:24:33] [User Authenticator #4/INFO]: UUID of player Jeiker45 is bc83c48d-239b-3c9d-8ef1-19b53d610ac4
 [02:24:33] [Server thread/INFO]: Jeiker45[/127.103.243.65:60767] logged in with entity id 3692 at ([world]78.17804494391638, 79.39579068976258, 87.88795999335584)
 [02:24:43] [Server thread/INFO]: SoySander issued server command: /dtools3:dt revive un_randompro
+[02:24:48] [Server thread/INFO]: SoySander issued server command: /tp Jeiker45
+[02:24:48] [Server thread/INFO]: [SoySander: Teleported SoySander to Jeiker45]
+[02:24:48] [User Authenticator #4/INFO]: UUID of player un_randompro is 4f2ddd44-221e-3406-80eb-bdd38f185eca
+[02:24:48] [Server thread/INFO]: un_randompro[/127.224.235.140:49569] logged in with entity id 3779 at ([world]83.996749754797, 57.49064397623702, 51.86469810620163)
+[02:24:54] [Server thread/INFO]: SoySander issued server command: /tp Jeiker45
+[02:24:54] [Server thread/INFO]: [SoySander: Teleported SoySander to Jeiker45]
+[02:25:00] [Server thread/INFO]: un_randompro issued server command: /kill SoySander
+[02:25:00] [Server thread/INFO]: [un_randompro: Killed SoySander]
+[02:25:01] [Server thread/INFO]: SoySander issued server command: /gamemode survival @a
+[02:25:01] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[02:25:01] [Server thread/INFO]: [SoySander: Set Jeiker45's game mode to Survival Mode]
+[02:25:01] [Server thread/INFO]: [SoySander: Set un_randompro's game mode to Survival Mode]
+[02:25:10] [Server thread/INFO]: SoySander lost connection: Has sido eliminado: GG.
+
+[02:25:29] [User Authenticator #4/INFO]: Disconnecting com.mojang.authlib.GameProfile@607d6284[id=2fdec197-58fd-3a92-a8c9-336e26aeae55,name=SoySander,properties={},legacy=false] (/127.87.61.29:42225): Has sido eliminado: GG.
+
+[02:25:29] [Server thread/INFO]: com.mojang.authlib.GameProfile@607d6284[id=2fdec197-58fd-3a92-a8c9-336e26aeae55,name=SoySander,properties={},legacy=false] (/127.87.61.29:42225) lost connection: Has sido eliminado: GG.
+
+[02:26:04] [Server thread/INFO]: un_randompro issued server command: /dtools Revive SoySander
+[02:26:14] [Server thread/INFO]: un_randompro issued server command: /gamemode creative
+[02:26:14] [Server thread/INFO]: [un_randompro: Set own game mode to Creative Mode]
+[02:26:20] [Server thread/INFO]: Jeiker45 issued server command: /gamemode creative
+[02:26:20] [Server thread/INFO]: [Jeiker45: Set own game mode to Creative Mode]
+[02:26:26] [User Authenticator #4/INFO]: Disconnecting com.mojang.authlib.GameProfile@31beef3a[id=2fdec197-58fd-3a92-a8c9-336e26aeae55,name=SoySander,properties={},legacy=false] (/127.87.61.29:34111): Has sido eliminado: GG.
+
+[02:26:26] [Server thread/INFO]: com.mojang.authlib.GameProfile@31beef3a[id=2fdec197-58fd-3a92-a8c9-336e26aeae55,name=SoySander,properties={},legacy=false] (/127.87.61.29:34111) lost connection: Has sido eliminado: GG.
+
+[02:26:28] [Server thread/INFO]: un_randompro issued server command: /deop
+[02:26:30] [Server thread/INFO]: un_randompro issued server command: /deop Jeiker45
+[02:26:30] [Server thread/INFO]: [un_randompro: Made Jeiker45 no longer a server operator]
+[02:26:35] [Server thread/INFO]: un_randompro issued server command: /dtools Revive SoySander
+[02:26:40] [Server thread/INFO]: Jeiker45 issued server command: /dtools Revive SoySander
+[02:26:47] [Server thread/INFO]: un_randompro issued server command: /dtools revive SoySander
+[02:26:53] [User Authenticator #4/INFO]: UUID of player SoySander is 2fdec197-58fd-3a92-a8c9-336e26aeae55
+[02:26:54] [Server thread/INFO]: SoySander[/127.87.61.29:38659] logged in with entity id 4483 at ([world]78.80915676993521, 76.80387917626314, 76.47393163826406)
+[02:26:55] [Server thread/INFO]: SoySander lost connection: Disconnected
+[02:26:58] [User Authenticator #4/INFO]: UUID of player SoySander is 2fdec197-58fd-3a92-a8c9-336e26aeae55
+[02:26:59] [Server thread/INFO]: SoySander[/127.251.247.108:33461] logged in with entity id 4492 at ([world]78.80915676993521, 76.80387917626314, 76.47393163826406)
+[02:26:59] [Server thread/INFO]: un_randompro issued server command: /gamemode survival Jeiker45
+[02:26:59] [Server thread/INFO]: [un_randompro: Set Jeiker45's game mode to Survival Mode]
+[02:27:03] [Server thread/INFO]: SoySander issued server command: /gamemode creative
+[02:27:03] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
+[02:27:10] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[02:27:10] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[02:27:11] [Server thread/INFO]: SoySander issued server command: /gamemode creative
+[02:27:11] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
+[02:27:13] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[02:27:13] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[02:27:14] [Server thread/INFO]: SoySander issued server command: /gamemode creative
+[02:27:14] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
+[02:27:17] [Server thread/INFO]: Jeiker45 lost connection: Disconnected
+[02:27:17] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[02:27:17] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[02:27:20] [User Authenticator #4/INFO]: UUID of player Jeiker45 is bc83c48d-239b-3c9d-8ef1-19b53d610ac4
+[02:27:20] [Server thread/INFO]: Jeiker45[/127.103.243.65:60671] logged in with entity id 4546 at ([world]110.09714315448159, 71.0, 82.49992779837459)
+[02:27:25] [Server thread/INFO]: SoySander issued server command: /dt3 revive SoySander
+[02:27:27] [Server thread/INFO]: SoySander lost connection: Has sido eliminado: GG.
+
+[02:27:38] [User Authenticator #4/INFO]: Disconnecting com.mojang.authlib.GameProfile@416871d5[id=2fdec197-58fd-3a92-a8c9-336e26aeae55,name=SoySander,properties={},legacy=false] (/127.251.247.108:36847): Has sido eliminado: GG.
+
+[02:27:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@416871d5[id=2fdec197-58fd-3a92-a8c9-336e26aeae55,name=SoySander,properties={},legacy=false] (/127.251.247.108:36847) lost connection: Has sido eliminado: GG.
+
+[02:27:44] [User Authenticator #4/INFO]: Disconnecting com.mojang.authlib.GameProfile@17931130[id=2fdec197-58fd-3a92-a8c9-336e26aeae55,name=SoySander,properties={},legacy=false] (/127.251.247.108:38997): Has sido eliminado: GG.
+
+[02:27:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@17931130[id=2fdec197-58fd-3a92-a8c9-336e26aeae55,name=SoySander,properties={},legacy=false] (/127.251.247.108:38997) lost connection: Has sido eliminado: GG.
+
+[02:27:47] [Async Chat Thread - #1/INFO]: <un_randompro> r
+[02:27:49] [Server thread/INFO]: un_randompro issued server command: /dtools revive SoySander
+[02:27:58] [User Authenticator #4/INFO]: UUID of player SoySander is 2fdec197-58fd-3a92-a8c9-336e26aeae55
+[02:27:58] [Server thread/INFO]: SoySander[/127.87.61.29:40341] logged in with entity id 4711 at ([world]87.51181707371728, 72.23214292393392, 109.53860705821255)
+[02:28:01] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[02:28:01] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[02:28:07] [Server thread/INFO]: un_randompro issued server command: /dtools revive SoySander
+[02:28:12] [Server thread/INFO]: SoySander lost connection: Has sido eliminado: GG.
+
+[02:28:31] [Server thread/INFO]: un_randompro issued server command: /dtools revive SoySander
+[02:28:37] [User Authenticator #4/INFO]: UUID of player SoySander is 2fdec197-58fd-3a92-a8c9-336e26aeae55
+[02:28:38] [Server thread/INFO]: SoySander[/127.251.247.108:43175] logged in with entity id 4934 at ([world]89.0561900049337, 72.16791791947449, 133.60638686183762)
+[02:28:41] [Server thread/INFO]: SoySander issued server command: /gamemode creative
+[02:28:41] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
+[02:28:50] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[02:28:50] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[02:28:55] [Server thread/INFO]: un_randompro issued server command: /kill Jeiker45
+[02:28:55] [Server thread/INFO]: Jeiker45 fell out of the world
+[02:28:55] [Server thread/INFO]: [un_randompro: Killed Jeiker45]
+[02:28:56] [Server thread/INFO]: SoySander issued server command: /gamemode creative
+[02:28:56] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
+[02:29:01] [Server thread/INFO]: SoySander issued server command: /tp un_randompro
+[02:29:01] [Server thread/INFO]: [SoySander: Teleported SoySander to un_randompro]
+[02:29:02] [Server thread/INFO]: un_randompro issued server command: /dtools revive Jeiker45
+[02:29:09] [Server thread/INFO]: SoySander has made the advancement [Ice Bucket Challenge]
+[02:29:35] [Server thread/INFO]: un_randompro issued server command: /dtools revive Jeiker45
+[02:29:38] [Server thread/INFO]: un_randompro issued server command: /dtools revive Jeiker45
+[02:29:38] [Server thread/INFO]: un_randompro issued server command: /dtools revive Jeiker45
+[02:29:39] [Server thread/INFO]: un_randompro issued server command: /dtools revive Jeiker45
+[02:29:39] [Server thread/INFO]: un_randompro issued server command: /dtools revive Jeiker45
+[02:29:39] [Server thread/INFO]: un_randompro issued server command: /dtools revive Jeiker45
+[02:29:39] [Server thread/INFO]: Jeiker45 lost connection: Disconnected
+[02:29:40] [Server thread/INFO]: un_randompro issued server command: /dtools revive Jeiker45
+[02:29:42] [Server thread/INFO]: un_randompro lost connection: Disconnected
+[02:29:42] [User Authenticator #5/INFO]: UUID of player Jeiker45 is bc83c48d-239b-3c9d-8ef1-19b53d610ac4
+[02:29:43] [Server thread/INFO]: Jeiker45[/127.103.243.65:37377] logged in with entity id 5217 at ([world]102.44919851456262, 80.9842716246398, 24.198961350362136)
+[02:30:08] [Server thread/INFO]: SoySander issued server command: /op Jeiker45
+[02:30:08] [Server thread/INFO]: [SoySander: Made Jeiker45 a server operator]
+[02:30:12] [Server thread/INFO]: Jeiker45 issued server command: /gamemode creative
+[02:30:12] [Server thread/INFO]: [Jeiker45: Set own game mode to Creative Mode]
+[02:30:26] [Server thread/INFO]: SoySander issued server command: /effect clear SoySander
+[02:30:26] [Server thread/INFO]: [SoySander: Removed every effect from SoySander]
+[02:30:41] [Server thread/INFO]: Jeiker45 issued server command: /gamemode survival
+[02:30:41] [Server thread/INFO]: [Jeiker45: Set own game mode to Survival Mode]
+[02:30:44] [Server thread/INFO]: Jeiker45 issued server command: /gamemode creative
+[02:30:44] [Server thread/INFO]: [Jeiker45: Set own game mode to Creative Mode]
+[02:30:59] [Server thread/INFO]: Jeiker45 issued server command: /gamemode survival
+[02:30:59] [Server thread/INFO]: [Jeiker45: Set own game mode to Survival Mode]
+[02:31:28] [Server thread/INFO]: Jeiker45 issued server command: /gamemode survival
+[02:31:28] [Server thread/INFO]: [Jeiker45: Set own game mode to Survival Mode]
+[02:31:30] [Server thread/INFO]: Jeiker45 lost connection: Has sido eliminado: GG.
+
+[02:31:32] [User Authenticator #6/INFO]: Disconnecting com.mojang.authlib.GameProfile@1514a9a4[id=bc83c48d-239b-3c9d-8ef1-19b53d610ac4,name=Jeiker45,properties={},legacy=false] (/127.103.243.65:57387): Has sido eliminado: GG.
+
+[02:31:32] [Server thread/INFO]: com.mojang.authlib.GameProfile@1514a9a4[id=bc83c48d-239b-3c9d-8ef1-19b53d610ac4,name=Jeiker45,properties={},legacy=false] (/127.103.243.65:57387) lost connection: Has sido eliminado: GG.
+
+[02:32:02] [User Authenticator #6/INFO]: Disconnecting com.mojang.authlib.GameProfile@1bd34576[id=bc83c48d-239b-3c9d-8ef1-19b53d610ac4,name=Jeiker45,properties={},legacy=false] (/127.103.243.65:55301): Has sido eliminado: GG.
+
+[02:32:02] [Server thread/INFO]: com.mojang.authlib.GameProfile@1bd34576[id=bc83c48d-239b-3c9d-8ef1-19b53d610ac4,name=Jeiker45,properties={},legacy=false] (/127.103.243.65:55301) lost connection: Has sido eliminado: GG.
+
+[02:32:06] [Server thread/INFO]: SoySander issued server command: /dt3 revive Jeiker45
+[02:32:17] [Server thread/INFO]: SoySander issued server command: /dtools3:dt play campfires
+[02:32:17] [Server thread/INFO]: SoySander has made the advancement [Into Fire]
+[02:32:29] [User Authenticator #6/INFO]: UUID of player Jeiker45 is bc83c48d-239b-3c9d-8ef1-19b53d610ac4
+[02:32:29] [Server thread/INFO]: Jeiker45[/127.103.243.65:57809] logged in with entity id 5831 at ([world]80.0045535690809, 68.17977553657329, 82.77398607921337)
+[02:32:34] [Server thread/INFO]: SoySander issued server command: /dtools3:dt play items SoySander
+[02:33:56] [Server thread/INFO]: SoySander issued server command: /dtools3:lives Jeiker45 11
+[02:33:58] [Server thread/INFO]: SoySander issued server command: /dtools3:lives Jeiker45 11
+[02:34:17] [Server thread/INFO]: Jeiker45 issued server command: /gamemode creative
+[02:34:17] [Server thread/INFO]: [Jeiker45: Set own game mode to Creative Mode]
