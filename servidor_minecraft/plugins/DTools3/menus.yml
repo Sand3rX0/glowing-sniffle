@@ -4,17 +4,17 @@ menus:
     subtitle-default: '#991a1aSin almas para revivir'
     subtitle-player: '#991a1a%player%'
     rows: 6
-    type: "DEATH_PLAYERS"
+    type: DEATH_PLAYERS
     buttons:
-      9:
-        item: 'menu-player'
-        action: 'REVIVE_IMAGE'
-      19:
-        item: 'menu-flecha-izquierda'
-        action: 'BACK_PAGE'
-      25:
-        item: 'menu-flecha-derecha'
-        action: 'NEXT_PAGE'
-      40:
-        item: 'menu-angel'
-        action: 'REVIVE'
+      '9':
+        item: menu-player
+        action: REVIVE_IMAGE
+      '19':
+        item: menu-flecha-izquierda
+        action: BACK_PAGE
+      '25':
+        item: menu-flecha-derecha
+        action: NEXT_PAGE
+      '40':
+        item: menu-angel
+        action: REVIVE

@@ -1,7 +1,7 @@
 enabled: true
 items:
   ender_bag:
-    name: 'Ender Bag'
+    name: Ender Bag
     item:
       display_name: '&eEnder Bag'
       material: PAPER
@@ -9,9 +9,9 @@ items:
       glow: false
       hide_attributes: false
       unbreakable: false
-    item-type: "ENDER_CHEST"
+    item-type: ENDER_CHEST
   healing_infernal_sword:
-    name: 'Healing Infernal Sword'
+    name: Healing Infernal Sword
     item:
       display_name: '&eHealing Infernal Sword'
       material: NETHERITE_SWORD
@@ -19,11 +19,11 @@ items:
       glow: false
       hide_attributes: false
       unbreakable: false
-    item-type: "HEALTH"
+    item-type: HEALTH
     data:
       heal-duration: 1
   yunque_portatil_dorado:
-    name: 'Yunque Portatil Dorado'
+    name: Yunque Portatil Dorado
     item:
       display_name: '&fYunque Portátil Dorado'
       material: PAPER
@@ -31,52 +31,52 @@ items:
       glow: false
       hide_attributes: false
       unbreakable: false
-    item-type: "REPAIR_ARMOR"
+    item-type: REPAIR_ARMOR
   bloqueador:
-    name: 'Bloqueador'
+    name: Bloqueador
     item:
       display_name: '&fBloqueador'
       material: PAPER
       custom_model_data: 3
-    item-type: "SUN_BLOCK"
+    item-type: SUN_BLOCK
     data:
       sun-block-time: 10
       interact-with-player: false
   tenedor_de_resurreccion:
-    name: 'Tenedor de Resurrección'
+    name: Tenedor de Resurrección
     item:
       display_name: '&fTenedor de Resurrección'
       material: PAPER
       custom_model_data: 4
-    item-type: "RESURRECT"
+    item-type: RESURRECT
     data:
       loss-soul: false
       menu: revive_player
   cuchara:
-    name: 'Cuchara de Madera'
+    name: Cuchara de Madera
     item:
       display_name: '&fCuchara de Madera'
       material: PAPER
       custom_model_data: 5
   cuchara_de_resurreccion:
-    name: 'Cuchara de Resurrección'
+    name: Cuchara de Resurrección
     item:
       display_name: '&fCuchara de Resurrección'
       material: PAPER
       custom_model_data: 6
-    item-type: "RESURRECT"
+    item-type: RESURRECT
     data:
       loss-soul: true
       menu: revive_player
   pildora_del_experimento_110:
-    name: 'Píldora del Experimento 110'
+    name: Píldora del Experimento 110
     item:
       display_name: '#6670eePíldora del #08139bExperimento 110'
       material: GOLDEN_APPLE
       custom_model_data: 1
-    item-type: 'RESET_ZOMBIFICATION'
+    item-type: RESET_ZOMBIFICATION
   nutritotem:
-    name: 'Nutritótem'
+    name: Nutritótem
     item:
       display_name: '&fNutritótem'
       material: TOTEM_OF_UNDYING
@@ -116,7 +116,7 @@ items:
       display_name: '&f'
       material: PLAYER_HEAD
       custom_model_data: 1
-      texture: "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDZiYTYzMzQ0ZjQ5ZGQxYzRmNTQ4OGU5MjZiZjNkOWUyYjI5OTE2YTZjNTBkNjEwYmI0MGE1MjczZGM4YzgyIn19fQ=="
+      texture: eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDZiYTYzMzQ0ZjQ5ZGQxYzRmNTQ4OGU5MjZiZjNkOWUyYjI5OTE2YTZjNTBkNjEwYmI0MGE1MjczZGM4YzgyIn19fQ==
   menu-flecha-derecha:
     name: '&eMenu Flecha Derecha'
     item:

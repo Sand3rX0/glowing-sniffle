@@ -1,0 +1,129 @@
+# This file is not intended to be manually modified! If you want to manually edit this file anyways, ensure that the server is not running currently and that you have prepared a backup of this file.
+
+data-version: 3|2|3105
+'1':
+  uniqueId: 3986314d-7aa9-43fc-b740-09fc64ce5847
+  world: world
+  x: 79
+  y: 66
+  z: 86
+  yaw: 25.239117
+  type: admin
+  name: pablito
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: SNOW
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3105
+        type: NETHER_STAR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"italic":false,"color":"red","text":"Heart"}'
+          lore:
+          - '{"italic":false,"color":"gray","text":"Rightclick to use"}'
+          custom-model-data: 100
+          ItemFlags:
+          - HIDE_ATTRIBUTES
+          PublicBukkitValues:
+            lifestealz:customitemid: defaultheart
+            lifestealz:customitemtype: heart
+            lifestealz:customheartvalue: 1i
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3105
+        type: NETHERITE_BLOCK
+  snapshots: []
+'2':
+  uniqueId: c094d890-5b0a-4e69-9028-142050c68996
+  world: world
+  x: -2035
+  y: 73
+  z: 1709
+  yaw: 158.44568
+  type: admin
+  name: Juanito
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: PLAINS
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3105
+        type: NETHER_STAR
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"italic":false,"color":"red","text":"Heart"}'
+          lore:
+          - '{"italic":false,"color":"gray","text":"Rightclick to use"}'
+          custom-model-data: 100
+          ItemFlags:
+          - HIDE_ATTRIBUTES
+          PublicBukkitValues:
+            lifestealz:customitemid: defaultheart
+            lifestealz:customitemtype: heart
+            lifestealz:customheartvalue: 1i
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3105
+        type: NETHERITE_INGOT
+  snapshots: []
+'3':
+  uniqueId: 6d7ac0ef-e262-489e-b032-b31b0b86b0d4
+  world: world
+  x: -2035
+  y: 73
+  z: 1708
+  yaw: 77.561745
+  type: admin
+  name: Pedrito
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: PLAINS
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3105
+        type: BREAD
+        amount: 6
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3105
+        type: IRON_INGOT
+        amount: 2
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3105
+        type: COOKED_PORKCHOP
+        amount: 4
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3105
+        type: IRON_INGOT
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3105
+        type: GOLDEN_APPLE
+        amount: 4
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3105
+        type: DIAMOND
+  snapshots: []

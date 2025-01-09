@@ -4,16 +4,16 @@ config:
   fade-in: 0
   stay: 5
   fade-out: 0
-  message-type: "TITLE"
+  message-type: TITLE
 campfires:
   default:
     name: '&eFogata'
-    item-template: 'fogata'
+    item-template: fogata
     items-allowed:
-      - 'cuchara_de_resurreccion'
-      - 'tenedor_de_resurreccion'
+    - cuchara_de_resurreccion
+    - tenedor_de_resurreccion
     action: OPEN_MENU
     data:
-      corn1: ""
-      corn2: ""
-      spawn: ""
+      corn1: ''
+      corn2: ''
+      spawn: ''
