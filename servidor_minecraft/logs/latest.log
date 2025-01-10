@@ -300,3 +300,98 @@ java.lang.NullPointerException: Cannot invoke "org.bukkit.configuration.file.Fil
 [05:27:27] [User Authenticator #2/INFO]: UUID of player SanderZeta is c9e13f7a-5e3c-33e8-b105-dd42619b5663
 [05:27:27] [Server thread/INFO]: SanderZeta joined the game
 [05:27:27] [Server thread/INFO]: SanderZeta[/127.251.247.108:45725] logged in with entity id 1081 at ([world]-2040.5678178310036, 63.5, 1622.5469234876243)
+[05:27:56] [Server thread/INFO]: [LifeStealZ] Player SanderZeta died!
+[05:27:56] [Server thread/INFO]: [LifeStealZ] [ALT WARNING] Player SoySander tried to kill SanderZeta with the same IP address! (Probably an alt account)
+[05:27:56] [Server thread/INFO]: SanderZeta was slain by SoySander
+[05:28:02] [Server thread/INFO]: SoySander issued server command: /tp SanderZeta
+[05:28:02] [Server thread/INFO]: [SoySander: Teleported SoySander to SanderZeta]
+[05:28:11] [Server thread/INFO]: SoySander issued server command: /kill SanderZeta
+[05:28:11] [Server thread/INFO]: [LifeStealZ] Player SanderZeta died!
+[05:28:11] [Server thread/INFO]: SanderZeta fell out of the world
+[05:28:11] [Server thread/INFO]: [SoySander: Killed SanderZeta]
+[05:28:12] [Server thread/INFO]: SoySander issued server command: /kill SanderZeta
+[05:28:12] [Server thread/INFO]: [LifeStealZ] Player SanderZeta died!
+[05:28:12] [Server thread/INFO]: SanderZeta fell out of the world
+[05:28:12] [Server thread/INFO]: [SoySander: Killed SanderZeta]
+[05:28:13] [Server thread/INFO]: SoySander issued server command: /kill SanderZeta
+[05:28:13] [Server thread/INFO]: [LifeStealZ] Player SanderZeta died!
+[05:28:13] [Server thread/INFO]: SanderZeta fell out of the world
+[05:28:13] [Server thread/INFO]: [SoySander: Killed SanderZeta]
+[05:28:13] [Server thread/INFO]: SoySander issued server command: /kill SanderZeta
+[05:28:13] [Server thread/INFO]: [LifeStealZ] Player SanderZeta died!
+[05:28:13] [Server thread/INFO]: SanderZeta fell out of the world
+[05:28:13] [Server thread/INFO]: [SoySander: Killed SanderZeta]
+[05:28:14] [Server thread/INFO]: SoySander issued server command: /kill SanderZeta
+[05:28:14] [Server thread/INFO]: [LifeStealZ] Player SanderZeta died!
+[05:28:14] [Server thread/INFO]: SanderZeta fell out of the world
+[05:28:14] [Server thread/INFO]: [SoySander: Killed SanderZeta]
+[05:28:20] [Server thread/INFO]: SoySander issued server command: /kill SanderZeta
+[05:28:20] [Server thread/INFO]: [LifeStealZ] Player SanderZeta died!
+[05:28:20] [Server thread/INFO]: SanderZeta fell out of the world
+[05:28:20] [Server thread/INFO]: [SoySander: Killed SanderZeta]
+[05:28:23] [Server thread/INFO]: SoySander issued server command: /kill SanderZeta
+[05:28:23] [Server thread/INFO]: [LifeStealZ] Player SanderZeta died!
+[05:28:23] [Server thread/INFO]: SanderZeta fell out of the world
+[05:28:23] [Server thread/INFO]: [SoySander: Killed SanderZeta]
+[05:28:25] [Server thread/INFO]: SoySander issued server command: /kill SanderZeta
+[05:28:25] [Server thread/INFO]: [LifeStealZ] Player SanderZeta died!
+[05:28:25] [Server thread/INFO]: SanderZeta fell out of the world
+[05:28:25] [Server thread/INFO]: [SoySander: Killed SanderZeta]
+[05:28:25] [Server thread/INFO]: SoySander issued server command: /kill SanderZeta
+[05:28:25] [Server thread/INFO]: [LifeStealZ] Player SanderZeta died!
+[05:28:25] [Server thread/INFO]: SanderZeta has been eliminated!
+[05:28:25] [Server thread/INFO]: [SoySander: Killed SanderZeta]
+[05:28:25] [Server thread/INFO]: SanderZeta lost connection: You don't have any hearts left!
+[05:28:25] [Server thread/INFO]: [LifeStealZ] Player SanderZeta died!
+[05:28:25] [Server thread/INFO]: SanderZeta has been eliminated!
+[05:28:25] [Server thread/INFO]: SanderZeta left the game
+[05:28:31] [User Authenticator #3/INFO]: UUID of player SanderZeta is c9e13f7a-5e3c-33e8-b105-dd42619b5663
+[05:28:31] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@5e575beb[id=c9e13f7a-5e3c-33e8-b105-dd42619b5663,name=SanderZeta,properties={},legacy=false] (/127.251.247.108:39953): You don't have any hearts left!
+[05:28:31] [Server thread/INFO]: com.mojang.authlib.GameProfile@5e575beb[id=c9e13f7a-5e3c-33e8-b105-dd42619b5663,name=SanderZeta,properties={},legacy=false] (/127.251.247.108:39953) lost connection: You don't have any hearts left!
+[05:28:34] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[05:28:34] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[05:28:41] [User Authenticator #3/INFO]: UUID of player SanderZeta is c9e13f7a-5e3c-33e8-b105-dd42619b5663
+[05:28:41] [Server thread/INFO]: SanderZeta joined the game
+[05:28:41] [Server thread/INFO]: SanderZeta[/127.124.220.85:47213] logged in with entity id 1239 at ([world]-2061.5, 72.0, 1708.5)
+[05:29:09] [Server thread/INFO]: SoySander issued server command: /kill SanderZeta
+[05:29:09] [Server thread/INFO]: [LifeStealZ] Player SanderZeta died!
+[05:29:09] [Server thread/INFO]: SanderZeta has been eliminated!
+[05:29:09] [Server thread/INFO]: [SoySander: Killed SanderZeta]
+[05:29:09] [Server thread/INFO]: SanderZeta lost connection: You don't have any hearts left!
+[05:29:09] [Server thread/INFO]: SanderZeta left the game
+[05:29:17] [Server thread/INFO]: SoySander issued server command: /lifestealz giveItem SoySander revive
+[05:29:25] [User Authenticator #3/INFO]: UUID of player SanderZeta is c9e13f7a-5e3c-33e8-b105-dd42619b5663
+[05:29:25] [Server thread/INFO]: SanderZeta joined the game
+[05:29:25] [Server thread/INFO]: SanderZeta[/127.251.247.108:57117] logged in with entity id 1300 at ([world]-2061.5031568719746, 72.0, 1709.1417817381778)
+[05:29:39] [Server thread/INFO]: SanderZeta lost connection: Disconnected
+[05:29:39] [Server thread/INFO]: SanderZeta left the game
+[05:29:44] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
+[05:29:44] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
+[05:29:50] [Server thread/INFO]: SoySander issued server command: /gamemode creative
+[05:29:50] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
+[05:30:19] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
+[05:30:19] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
+[05:30:24] [Server thread/INFO]: SoySander issued server command: /summon minecraft:tnt
+[05:30:24] [Server thread/INFO]: [SoySander: Summoned new Primed TNT]
+[05:30:29] [Server thread/INFO]: SoySander issued server command: /summon minecraft:tnt
+[05:30:29] [Server thread/INFO]: [SoySander: Summoned new Primed TNT]
+[05:30:30] [Server thread/INFO]: SoySander issued server command: /summon minecraft:tnt
+[05:30:30] [Server thread/INFO]: [SoySander: Summoned new Primed TNT]
+[05:30:32] [Server thread/INFO]: SoySander issued server command: /gamemode creative
+[05:30:32] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
+[05:30:33] [Server thread/INFO]: SoySander issued server command: /summon minecraft:tnt
+[05:30:33] [Server thread/INFO]: [SoySander: Summoned new Primed TNT]
+[05:30:34] [Server thread/INFO]: SoySander issued server command: /summon minecraft:tnt
+[05:30:34] [Server thread/INFO]: [SoySander: Summoned new Primed TNT]
+[05:30:42] [Server thread/INFO]: SoySander issued server command: /gamerule mobGriefing true
+[05:30:42] [Server thread/INFO]: [SoySander: Gamerule mobGriefing is now set to: true]
+[05:30:43] [Server thread/INFO]: SoySander issued server command: /gamerule mobGriefing true
+[05:30:43] [Server thread/INFO]: [SoySander: Gamerule mobGriefing is now set to: true]
+[05:30:46] [Server thread/INFO]: SoySander issued server command: /summon minecraft:tnt
+[05:30:46] [Server thread/INFO]: [SoySander: Summoned new Primed TNT]
+[05:30:48] [Server thread/INFO]: SoySander issued server command: /summon minecraft:tnt
+[05:30:48] [Server thread/INFO]: [SoySander: Summoned new Primed TNT]
+[05:31:04] [Server thread/INFO]: SoySander issued server command: /gamerule mobGriefing true
+[05:31:04] [Server thread/INFO]: [SoySander: Gamerule mobGriefing is now set to: true]
+[05:31:09] [Server thread/INFO]: SoySander issued server command: /gamerule mobGriefing false
+[05:31:09] [Server thread/INFO]: [SoySander: Gamerule mobGriefing is now set to: false]
