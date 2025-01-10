@@ -382,3 +382,16 @@ java.lang.NullPointerException: Cannot invoke "org.bukkit.configuration.file.Fil
 [23:37:29] [Server thread/WARN]: farnan777xd moved too quickly! 11.472682459013868,-13.833669918216629,-10.166764141681824
 [23:37:53] [Server thread/INFO]: Jeiker45 issued server command: /tp Jeiker45 farnan777xd
 [23:37:53] [Server thread/INFO]: [Jeiker45: Teleported Jeiker45 to farnan777xd]
+[23:46:54] [Server thread/INFO]: Jeiker45 issued server command: /fill -2137 66 1554
+[23:47:54] [Server thread/INFO]: Jeiker45 issued server command: /fill -2137 66 1554 ~ ~ ~ minecraft:scaffolding
+[23:47:54] [Server thread/INFO]: [Jeiker45: Successfully filled 1 blocks]
+[23:47:58] [Server thread/INFO]: Jeiker45 issued server command: /fill -2137 66 1554 ~ ~ ~ minecraft:scaffolding
+[23:47:58] [Server thread/INFO]: [Jeiker45: Successfully filled 2 blocks]
+[23:48:01] [Server thread/INFO]: Jeiker45 issued server command: /fill -2137 66 1554 ~ ~ ~ minecraft:scaffolding
+[23:48:01] [Server thread/INFO]: [Jeiker45: Successfully filled 8 blocks]
+[23:48:17] [Async Chat Thread - #1/INFO]: <Jeiker45> che farnan777xd
+[23:48:33] [Async Chat Thread - #1/INFO]: <Jeiker45> cual era el bloque invisible que no te podes motar encima
+[23:49:48] [Server thread/INFO]: Jeiker45 issued server command: /give Jeiker45 minecraft:structure_void
+[23:49:48] [Server thread/INFO]: [Jeiker45: Gave 1 [Structure Void] to Jeiker45]
+[23:50:03] [Server thread/INFO]: Jeiker45 issued server command: /fill -2137 66 1554 ~ ~ ~ minecraft:scaffolding
+[23:50:03] [Server thread/INFO]: [Jeiker45: Successfully filled 1 blocks]
