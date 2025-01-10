@@ -395,3 +395,25 @@ java.lang.NullPointerException: Cannot invoke "org.bukkit.configuration.file.Fil
 [05:31:04] [Server thread/INFO]: [SoySander: Gamerule mobGriefing is now set to: true]
 [05:31:09] [Server thread/INFO]: SoySander issued server command: /gamerule mobGriefing false
 [05:31:09] [Server thread/INFO]: [SoySander: Gamerule mobGriefing is now set to: false]
+[05:43:08] [Server thread/INFO]: SoySander issued server command: /give SoySander minecraft:spawner
+[05:43:08] [Server thread/INFO]: [SoySander: Gave 1 [Spawner] to SoySander]
+[05:45:10] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[05:45:10] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[05:45:12] [Server thread/INFO]: SoySander issued server command: /gamemode creative
+[05:45:12] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
+[05:45:16] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[05:45:16] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[05:45:31] [Server thread/INFO]: SoySander issued server command: /gamemode creative
+[05:45:31] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
+[05:45:39] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[05:45:39] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[05:45:55] [Server thread/INFO]: [LifeStealZ] Player SoySander died!
+[05:45:55] [Server thread/INFO]: SoySander withered away
+[05:45:59] [Server thread/INFO]: SoySander issued server command: /back
+[05:46:55] [Server thread/INFO]: SoySander issued server command: /gamemode creative
+[05:46:55] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
+[05:46:59] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[05:46:59] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[05:47:41] [Server thread/INFO]: [LifeStealZ] Player SoySander died!
+[05:47:41] [Server thread/INFO]: SoySander was slain by Vindicator
+[05:47:44] [Server thread/INFO]: SoySander issued server command: /back
