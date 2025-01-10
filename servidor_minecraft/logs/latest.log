@@ -350,3 +350,35 @@ java.lang.NullPointerException: Cannot invoke "org.bukkit.configuration.file.Fil
 [23:27:39] [Server thread/INFO]: farnan777xd issued server command: /gamemode creative
 [23:27:39] [Server thread/INFO]: [farnan777xd: Set own game mode to Creative Mode]
 [23:28:57] [Server thread/INFO]: farnan777xd has made the advancement [Sweet Dreams]
+[23:32:36] [User Authenticator #3/INFO]: UUID of player Jeiker45 is bc83c48d-239b-3c9d-8ef1-19b53d610ac4
+[23:32:36] [Server thread/INFO]: Jeiker45 joined the game
+[23:32:36] [Server thread/INFO]: Jeiker45[/127.103.243.65:59269] logged in with entity id 3581 at ([world]-2061.734878695362, 72.0625, 1708.500162734844)
+[23:32:46] [Server thread/INFO]: Jeiker45 lost connection: Kicked by an operator
+[23:32:46] [Server thread/INFO]: Jeiker45 left the game
+[23:32:46] [Server thread/INFO]: Kicked Jeiker45: Kicked by an operator
+[23:32:48] [Server thread/INFO]: farnan777xd issued server command: /kick Jeiker45
+[23:33:51] [User Authenticator #4/INFO]: UUID of player Jeiker45 is bc83c48d-239b-3c9d-8ef1-19b53d610ac4
+[23:33:51] [Server thread/INFO]: Jeiker45 joined the game
+[23:33:51] [Server thread/INFO]: Jeiker45[/127.103.243.65:44079] logged in with entity id 3891 at ([world]-2061.734878695362, 72.0625, 1708.500162734844)
+[23:34:27] [Async Chat Thread - #0/INFO]: <Jeiker45> farnan777xd
+[23:34:32] [Async Chat Thread - #0/INFO]: <farnan777xd> dime
+[23:34:37] [Async Chat Thread - #0/INFO]: <Jeiker45> que haces mucahcho
+[23:34:46] [Async Chat Thread - #0/INFO]: <farnan777xd> follando mano
+[23:34:57] [Async Chat Thread - #0/INFO]: <Jeiker45> como
+[23:35:27] [Async Chat Thread - #0/INFO]: <Jeiker45> donde andas
+[23:35:40] [Async Chat Thread - #0/INFO]: <Jeiker45> dame op
+[23:35:40] [Async Chat Thread - #0/INFO]: <farnan777xd> no tengo plasmo
+[23:35:44] [Async Chat Thread - #0/INFO]: <farnan777xd> buya buya yes yes yes
+[23:35:47] [Async Chat Thread - #0/INFO]: <Jeiker45> no
+[23:35:56] [Async Chat Thread - #0/INFO]: <Jeiker45> y mi op
+[23:35:57] [Server thread/INFO]: farnan777xd issued server command: /op Jeiker45
+[23:35:57] [Server thread/INFO]: [farnan777xd: Made Jeiker45 a server operator]
+[23:36:01] [Server thread/INFO]: Jeiker45 issued server command: /gamemode creative
+[23:36:01] [Server thread/INFO]: [Jeiker45: Set own game mode to Creative Mode]
+[23:36:38] [Async Chat Thread - #0/INFO]: <Jeiker45> veni vamos hacer un parkour imposible
+[23:37:23] [Server thread/INFO]: Jeiker45 issued server command: /tp Jeiker45 -1500 75 1300
+[23:37:23] [Server thread/INFO]: [Jeiker45: Teleported Jeiker45 to -1499.500000, 75.000000, 1300.500000]
+[23:37:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6145ms or 122 ticks behind
+[23:37:29] [Server thread/WARN]: farnan777xd moved too quickly! 11.472682459013868,-13.833669918216629,-10.166764141681824
+[23:37:53] [Server thread/INFO]: Jeiker45 issued server command: /tp Jeiker45 farnan777xd
+[23:37:53] [Server thread/INFO]: [Jeiker45: Teleported Jeiker45 to farnan777xd]
