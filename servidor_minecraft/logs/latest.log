@@ -2113,3 +2113,84 @@ Reason: Banned by an operator.
 [22:54:43] [Server thread/INFO]: Josues44 issued server command: /home casa
 [22:54:45] [Server thread/INFO]: XuterMC issued server command: /tpa Josues44
 [22:54:50] [Server thread/INFO]: Josues44 issued server command: /tpaccept
+[23:00:58] [Server thread/INFO]: Josues44 issued server command: /tpa XuterMC
+[23:01:05] [Server thread/INFO]: XuterMC issued server command: /tpaccept
+[23:11:51] [User Authenticator #24/INFO]: UUID of player elvatouwu is 5765b415-e7c4-3a18-b401-c6faf4e7e58b
+[23:11:51] [Server thread/INFO]: elvatouwu joined the game
+[23:11:51] [Server thread/INFO]: elvatouwu[/127.157.241.47:46941] logged in with entity id 97535 at ([world]-2043.6014026213888, 73.0, 1718.8303103524756)
+[23:12:42] [Server thread/INFO]: Josues44 issued server command: /home casa
+[23:12:48] [Server thread/INFO]: XuterMC issued server command: /tpa Josues44
+[23:12:49] [Server thread/INFO]: Josues44 issued server command: /tpaccept
+[23:13:11] [Server thread/INFO]: XuterMC issued server command: /tpa Josues44
+[23:13:14] [Server thread/INFO]: Josues44 issued server command: /tpaccept
+[23:14:32] [Async Chat Thread - #28/INFO]: <elvatouwu> y el vc?
+[23:14:38] [Async Chat Thread - #28/INFO]: <Josues44> no jala
+[23:14:38] [Async Chat Thread - #28/INFO]: <XuterMC> no funciona aun
+[23:14:41] [Async Chat Thread - #28/INFO]: <elvatouwu> XD
+[23:14:46] [Async Chat Thread - #28/INFO]: <elvatouwu> como no lo han puesto
+[23:14:50] [Async Chat Thread - #28/INFO]: <elvatouwu> o no funciona?
+[23:14:54] [Async Chat Thread - #28/INFO]: <Josues44> no
+[23:15:03] [Async Chat Thread - #28/INFO]: <Josues44> no funciona
+[23:15:09] [Async Chat Thread - #28/INFO]: <elvatouwu> pera
+[23:15:11] [Server thread/INFO]: XuterMC issued server command: /home cu
+[23:15:14] [Async Chat Thread - #28/INFO]: <elvatouwu> deja le digo sander
+[23:15:15] [Server thread/INFO]: Josues44 issued server command: /tpa XuterMC
+[23:15:18] [Server thread/INFO]: XuterMC issued server command: /tpaccept
+[23:16:46] [Async Chat Thread - #29/INFO]: <elvatouwu> no contesta pipipi
+[23:19:22] [Server thread/INFO]: elvatouwu has made the advancement [Stone Age]
+[23:20:58] [Async Chat Thread - #30/INFO]: <Josues44> elvatouwu estas en el spawn??????
+[23:21:03] [Async Chat Thread - #30/INFO]: <elvatouwu> estaba
+[23:21:07] [Server thread/INFO]: elvatouwu has made the advancement [Best Friends Forever]
+[23:21:21] [Async Chat Thread - #30/INFO]: <Josues44> ven pa darte cositas pa que empiezes minimamente equipado :))
+[23:21:27] [Async Chat Thread - #30/INFO]: <elvatouwu> ahi noma
+[23:21:38] [Server thread/INFO]: elvatouwu has made the advancement [Suit Up]
+[23:21:51] [Async Chat Thread - #30/INFO]: <XuterMC> esq ya hice el pico y el casco xd
+[23:21:53] [Async Chat Thread - #30/INFO]: <XuterMC> KHJAKJAKSJAS
+[23:22:21] [Server thread/INFO]: Josues44 issued server command: /tpa elvatouwu
+[23:22:29] [Async Chat Thread - #30/INFO]: <Josues44> asepta pa ir contigo mas facil
+[23:22:37] [Async Chat Thread - #30/INFO]: <elvatouwu> ahi noma
+[23:22:46] [Server thread/INFO]: elvatouwu has made the advancement [Cover Me with Diamonds]
+[23:22:47] [Server thread/INFO]: elvatouwu has made the advancement [Isn't It Iron Pick]
+[23:23:55] [Server thread/INFO]: XuterMC issued server command: /tpa Josues44
+[23:23:57] [Server thread/INFO]: Josues44 issued server command: /tpaccept
+[23:24:09] [Server thread/INFO]: Josues44 issued server command: /home casa
+[23:24:41] [Server thread/INFO]: XuterMC issued server command: /tpa Josues44
+[23:24:43] [Server thread/INFO]: Josues44 issued server command: /tpaccept
+[23:24:44] [Server thread/INFO]: Josues44 issued server command: /tpaccept
+[23:26:08] [Server thread/INFO]: XuterMC issued server command: /tpa Josues44
+[23:26:09] [Server thread/INFO]: Josues44 issued server command: /tpaccept
+[23:27:06] [Server thread/INFO]: Made elvatouwu a server operator
+[23:27:11] [Server thread/INFO]: elvatouwu issued server command: /plugins
+[23:27:22] [Server thread/INFO]: elvatouwu issued server command: /plasmovoice:vlist
+[23:27:27] [Server thread/INFO]: elvatouwu issued server command: /plasmovoice:vlist elvatouwu
+[23:27:35] [Server thread/INFO]: elvatouwu issued server command: /plasmovoice:vreload
+[23:27:41] [Server thread/INFO]: elvatouwu issued server command: /plasmovoice:vreconnect
+[23:29:09] [Server thread/INFO]: elvatouwu lost connection: Disconnected
+[23:29:09] [Server thread/INFO]: elvatouwu left the game
+[23:32:43] [Server thread/INFO]: XuterMC issued server command: /tpa Josues44
+[23:32:45] [Server thread/INFO]: Josues44 issued server command: /tpaccept
+[23:35:32] [User Authenticator #25/INFO]: UUID of player elvatouwu is 5765b415-e7c4-3a18-b401-c6faf4e7e58b
+[23:35:32] [Server thread/INFO]: elvatouwu joined the game
+[23:35:32] [Server thread/INFO]: elvatouwu[/127.157.241.47:54363] logged in with entity id 115529 at ([world]-1057.652014200405, 100.0, 1368.1066396890596)
+[23:35:57] [Server thread/INFO]: XuterMC issued server command: /home cu
+[23:36:05] [Server thread/INFO]: elvatouwu issued server command: /plasmovoice:vreload
+[23:36:15] [Server thread/INFO]: Josues44 issued server command: /tpa elvatouwu
+[23:36:22] [Server thread/INFO]: XuterMC issued server command: /tpa elvatouwu
+[23:36:28] [Server thread/INFO]: elvatouwu issued server command: /plasmovoice:vreconnect
+[23:37:36] [Server thread/INFO]: Josues44 issued server command: /home casa
+[23:38:13] [Server thread/INFO]: Made elvatouwu no longer a server operator
+[23:38:16] [Server thread/INFO]: elvatouwu issued server command: /deop elvatouwu
+[23:38:22] [Server thread/INFO]: elvatouwu issued server command: /deop elvatouwu
+[23:39:03] [Server thread/INFO]: elvatouwu lost connection: Disconnected
+[23:39:03] [Server thread/INFO]: elvatouwu left the game
+[23:41:34] [Server thread/INFO]: Josues44 issued server command: /tpa XuterMC
+[23:41:36] [Server thread/INFO]: XuterMC issued server command: /tpaccept
+[23:44:57] [Server thread/INFO]: XuterMC has made the advancement [Spooky Scary Skeleton]
+[23:46:19] [Server thread/INFO]: Josues44 issued server command: /home casa
+[23:46:25] [Server thread/INFO]: XuterMC issued server command: /tpa Josues44
+[23:46:27] [Server thread/INFO]: Josues44 issued server command: /tpaccept
+[23:47:05] [Server thread/INFO]: XuterMC issued server command: /home cu}
+[23:48:03] [Server thread/INFO]: XuterMC issued server command: /tpa Josues44
+[23:48:12] [Server thread/INFO]: Josues44 issued server command: /tpaccept
+[23:58:30] [Server thread/INFO]: Josues44 issued server command: /tpa XuterMC
+[23:58:38] [Server thread/INFO]: XuterMC issued server command: /tpaccept
