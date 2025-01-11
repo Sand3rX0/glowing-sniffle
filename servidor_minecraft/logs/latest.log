@@ -2043,3 +2043,12 @@ Reason: Banned by an operator.
 [21:16:55] [User Authenticator #21/INFO]: UUID of player Josues44 is be14b746-ebad-3897-ba51-0ecc152e8308
 [21:16:55] [Server thread/INFO]: Josues44 joined the game
 [21:16:55] [Server thread/INFO]: Josues44[/127.162.87.84:51009] logged in with entity id 52798 at ([world]-1329.8795766157452, 69.0, 1423.699999988079)
+[21:22:19] [User Authenticator #22/INFO]: UUID of player XuterMC is 4a212ac4-ab8c-3fc7-bce8-547d3889426f
+[21:22:19] [Server thread/INFO]: XuterMC joined the game
+[21:22:19] [Server thread/INFO]: XuterMC[/127.152.141.255:54715] logged in with entity id 55573 at ([world]-5154.073919069414, 65.0, -1394.110392490022)
+[21:23:54] [Server thread/INFO]: Josues44 issued server command: /tpa XuterMC
+[21:23:57] [Server thread/INFO]: XuterMC issued server command: /tpaccept
+[21:26:49] [Server thread/INFO]: <Server> quien esta conectado
+[21:26:55] [Async Chat Thread - #24/INFO]: <Josues44> MI MAMI
+[21:26:59] [Async Chat Thread - #24/INFO]: <Josues44> bromimi
+[21:27:01] [Server thread/INFO]: XuterMC has made the advancement [Sweet Dreams]
