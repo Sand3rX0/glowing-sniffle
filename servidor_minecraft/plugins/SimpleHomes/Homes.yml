@@ -42,6 +42,12 @@ be14b746-ebad-3897-ba51-0ecc152e8308:
 4f2ddd44-221e-3406-80eb-bdd38f185eca:
   default:
     world: world
-    x: -1513
-    y: 73
-    z: 1641
+    x: -2044
+    y: 75
+    z: 1707
+7eda207e-6f0f-3a45-884c-87cb471f9a6a:
+  default:
+    world: world
+    x: -926
+    y: 72
+    z: 2268
