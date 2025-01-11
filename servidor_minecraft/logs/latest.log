@@ -1,18 +1,18 @@
-[03:25:49] [ServerMain/INFO]: Building unoptimized datafixer
-[03:25:50] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[03:25:53] [ServerMain/INFO]: Loaded 7 recipes
-[03:25:55] [Server thread/INFO]: Starting minecraft server version 1.19
-[03:25:55] [Server thread/INFO]: Loading properties
-[03:25:55] [Server thread/INFO]: This server is running Paper version git-Paper-81 (MC: 1.19) (Implementing API version 1.19-R0.1-SNAPSHOT) (Git: 86f87ba)
-[03:25:55] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[03:25:55] [Server thread/INFO]: Using 4 threads for Netty based IO
-[03:25:56] [Server thread/INFO]: Default game type: SURVIVAL
-[03:25:56] [Server thread/INFO]: Generating keypair
-[03:25:56] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:25:56] [Server thread/INFO]: Using epoll channel type
-[03:25:56] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[03:25:56] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[03:25:57] [Server thread/ERROR]: Could not load 'plugins/MythicMobs-5.7.2.jar' in folder 'plugins'
+[16:56:29] [ServerMain/INFO]: Building unoptimized datafixer
+[16:56:31] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:56:33] [ServerMain/INFO]: Loaded 7 recipes
+[16:56:35] [Server thread/INFO]: Starting minecraft server version 1.19
+[16:56:35] [Server thread/INFO]: Loading properties
+[16:56:36] [Server thread/INFO]: This server is running Paper version git-Paper-81 (MC: 1.19) (Implementing API version 1.19-R0.1-SNAPSHOT) (Git: 86f87ba)
+[16:56:36] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:56:36] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:56:36] [Server thread/INFO]: Default game type: SURVIVAL
+[16:56:36] [Server thread/INFO]: Generating keypair
+[16:56:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:56:36] [Server thread/INFO]: Using epoll channel type
+[16:56:36] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[16:56:36] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[16:56:37] [Server thread/ERROR]: Could not load 'plugins/MythicMobs-5.7.2.jar' in folder 'plugins'
 org.bukkit.plugin.InvalidDescriptionException: Invalid plugin.yml
 	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:186) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
 	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:155) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
@@ -35,7 +35,7 @@ Caused by: java.util.zip.ZipException: zip file is empty
 	at java.util.jar.JarFile.<init>(JarFile.java:283) ~[?:?]
 	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:174) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
 	... 6 more
-[03:25:57] [Server thread/ERROR]: Could not load 'plugins/ExcellentCrates-5.3.5.jar' in folder 'plugins'
+[16:56:38] [Server thread/ERROR]: Could not load 'plugins/ExcellentCrates-5.3.5.jar' in folder 'plugins'
 org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [nightcore]. Please download and install these plugins to run 'ExcellentCrates'.
 	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:287) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
 	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.loadPlugins(CraftServer.java:421) ~[paper-1.19.jar:git-Paper-81]
@@ -43,47 +43,47 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1122) ~[paper-1.19.jar:git-Paper-81]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:303) ~[paper-1.19.jar:git-Paper-81]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[03:25:57] [Server thread/ERROR]: [STDERR] [org.bukkit.craftbukkit.v1_19_R1.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[03:26:03] [Server thread/WARN]: Legacy plugin SimpleHomes v2.0.4 does not specify an api-version.
-[03:26:03] [Server thread/INFO]: [SimpleTpa] Loading SimpleTpa v7.4
-[03:26:03] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.3.0-beta-02+e11f161
-[03:26:04] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@5c547569]
-[03:26:04] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.5.1
-[03:26:04] [Server thread/INFO]: [AnimationsCore] Loading AnimationsCore v0.1-SNAPSHOT
-[03:26:04] [Server thread/INFO]: [CombatLog] Loading CombatLog v1.1.1
-[03:26:04] [Server thread/INFO]: [PlasmoVoice] Loading PlasmoVoice v1.0.11
-[03:26:04] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.3.0
-[03:26:04] [Server thread/INFO]: [MinerTrack] Loading MinerTrack v1.6.5
-[03:26:04] [Server thread/INFO]: [SimpleHomes] Loading SimpleHomes v2.0.4
-[03:26:04] [Server thread/INFO]: [CratesPlusReloaded] Loading CratesPlusReloaded v4.1-SNAPSHOT
-[03:26:04] [Server thread/INFO]: [InvSee++] Loading InvSeePlusPlus v0.29.11
-[03:26:04] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.8+33cdb4a
-[03:26:04] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v22.4
-[03:26:04] [Server thread/INFO]: [LifeStealZ] Loading LifeStealZ v2.9.2
-[03:26:04] [Server thread/INFO]: [LifeStealZ] Loading LifeStealZ...
-[03:26:04] [Server thread/INFO]: [LifeStealZ] WorldGuard found! Enabling WorldGuard support...
-[03:26:04] [Server thread/INFO]: [LifeStealZ] WorldGuard found! Enabled WorldGuard support!
-[03:26:04] [Server thread/INFO]: [Shopkeepers] Loading Shopkeepers v2.19.0
-[03:26:04] [Server thread/INFO]: [Shopkeepers] Loaded all plugin classes (444 ms).
-[03:26:04] [Server thread/INFO]: [Shopkeepers] Loading config.
-[03:26:04] [Server thread/WARN]: [Shopkeepers] Config: Invalid living entity type name in 'enabled-living-shops': CAMEL
-[03:26:04] [Server thread/WARN]: [Shopkeepers] Config: Invalid living entity type name in 'enabled-living-shops': SNIFFER
-[03:26:04] [Server thread/WARN]: [Shopkeepers] Config: All existing entity type names can be found here: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/entity/EntityType.html
-[03:26:04] [Server thread/INFO]: [Shopkeepers] Loading language file: language-en-default.yml
-[03:26:04] [Server thread/WARN]: [Shopkeepers] Config: Invalid living entity type name in 'enabled-living-shops': CAMEL
-[03:26:04] [Server thread/WARN]: [Shopkeepers] Config: Invalid living entity type name in 'enabled-living-shops': SNIFFER
-[03:26:04] [Server thread/WARN]: [Shopkeepers] Config: All existing entity type names can be found here: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/entity/EntityType.html
-[03:26:04] [Server thread/INFO]: [Shopkeepers] Registering WorldGuard flag 'allow-shop'.
-[03:26:04] [Server thread/INFO]: [Shopkeepers] Registering defaults.
-[03:26:04] [Server thread/INFO]: [InvSee++_Clear] Loading InvSeePlusPlus_Clear v0.29.11
-[03:26:04] [Server thread/INFO]: [InvSee++_Give] Loading InvSeePlusPlus_Give v0.29.11
-[03:26:04] [Server thread/INFO]: [GSit] Loading GSit v1.13.0
-[03:26:05] [Server thread/INFO]: [ConditionalEvents] Loading ConditionalEvents v4.60.1
-[03:26:05] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[03:26:05] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.0-beta-02+e11f161
-[03:26:05] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[03:26:05] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[03:26:05] [Server thread/WARN]: 
+[16:56:38] [Server thread/ERROR]: [STDERR] [org.bukkit.craftbukkit.v1_19_R1.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[16:56:44] [Server thread/WARN]: Legacy plugin SimpleHomes v2.0.4 does not specify an api-version.
+[16:56:44] [Server thread/INFO]: [SimpleTpa] Loading SimpleTpa v7.4
+[16:56:44] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.3.0-beta-02+e11f161
+[16:56:45] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@772af8e5]
+[16:56:45] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.5.1
+[16:56:45] [Server thread/INFO]: [AnimationsCore] Loading AnimationsCore v0.1-SNAPSHOT
+[16:56:45] [Server thread/INFO]: [CombatLog] Loading CombatLog v1.1.1
+[16:56:45] [Server thread/INFO]: [PlasmoVoice] Loading PlasmoVoice v1.0.11
+[16:56:45] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.3.0
+[16:56:45] [Server thread/INFO]: [MinerTrack] Loading MinerTrack v1.6.5
+[16:56:45] [Server thread/INFO]: [SimpleHomes] Loading SimpleHomes v2.0.4
+[16:56:45] [Server thread/INFO]: [CratesPlusReloaded] Loading CratesPlusReloaded v4.1-SNAPSHOT
+[16:56:45] [Server thread/INFO]: [InvSee++] Loading InvSeePlusPlus v0.29.11
+[16:56:45] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.8+33cdb4a
+[16:56:45] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v22.4
+[16:56:45] [Server thread/INFO]: [LifeStealZ] Loading LifeStealZ v2.9.2
+[16:56:45] [Server thread/INFO]: [LifeStealZ] Loading LifeStealZ...
+[16:56:45] [Server thread/INFO]: [LifeStealZ] WorldGuard found! Enabling WorldGuard support...
+[16:56:45] [Server thread/INFO]: [LifeStealZ] WorldGuard found! Enabled WorldGuard support!
+[16:56:45] [Server thread/INFO]: [Shopkeepers] Loading Shopkeepers v2.19.0
+[16:56:45] [Server thread/INFO]: [Shopkeepers] Loaded all plugin classes (400 ms).
+[16:56:45] [Server thread/INFO]: [Shopkeepers] Loading config.
+[16:56:45] [Server thread/WARN]: [Shopkeepers] Config: Invalid living entity type name in 'enabled-living-shops': CAMEL
+[16:56:45] [Server thread/WARN]: [Shopkeepers] Config: Invalid living entity type name in 'enabled-living-shops': SNIFFER
+[16:56:45] [Server thread/WARN]: [Shopkeepers] Config: All existing entity type names can be found here: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/entity/EntityType.html
+[16:56:45] [Server thread/INFO]: [Shopkeepers] Loading language file: language-en-default.yml
+[16:56:45] [Server thread/WARN]: [Shopkeepers] Config: Invalid living entity type name in 'enabled-living-shops': CAMEL
+[16:56:45] [Server thread/WARN]: [Shopkeepers] Config: Invalid living entity type name in 'enabled-living-shops': SNIFFER
+[16:56:45] [Server thread/WARN]: [Shopkeepers] Config: All existing entity type names can be found here: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/entity/EntityType.html
+[16:56:45] [Server thread/INFO]: [Shopkeepers] Registering WorldGuard flag 'allow-shop'.
+[16:56:45] [Server thread/INFO]: [Shopkeepers] Registering defaults.
+[16:56:45] [Server thread/INFO]: [InvSee++_Clear] Loading InvSeePlusPlus_Clear v0.29.11
+[16:56:45] [Server thread/INFO]: [InvSee++_Give] Loading InvSeePlusPlus_Give v0.29.11
+[16:56:45] [Server thread/INFO]: [GSit] Loading GSit v1.13.0
+[16:56:45] [Server thread/INFO]: [ConditionalEvents] Loading ConditionalEvents v4.60.1
+[16:56:45] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:56:45] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.0-beta-02+e11f161
+[16:56:45] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[16:56:46] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[16:56:46] [Server thread/WARN]: 
 **********************************************
 ** This WorldEdit version does not fully support your version of Bukkit.
 **
@@ -94,91 +94,93 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 ** Please see https://worldedit.enginehub.org/en/latest/faq/#bukkit-adapters
 **********************************************
 
-[03:26:05] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
-[03:26:06] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
-[03:26:06] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.19.0[32;1m.[0;39m
-[03:26:07] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
-[03:26:07] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mPlease update your Java runtime to at least Java 21 (your version is 17).[0;39m
-[03:26:07] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mAt some point in the future, SkinsRestorer will no longer be compatible with this version of Java.[0;39m
-[03:26:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:26:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:26:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:26:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:26:07] [Server thread/INFO]: Preparing level "world"
-[03:26:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:26:20] [Server thread/INFO]: Preparing spawn area: 0%
-[03:26:21] [Server thread/INFO]: Preparing spawn area: 0%
-[03:26:21] [Server thread/INFO]: Preparing spawn area: 0%
-[03:26:21] [Server thread/INFO]: Preparing spawn area: 0%
-[03:26:22] [Server thread/INFO]: Preparing spawn area: 0%
-[03:26:22] [Server thread/INFO]: Preparing spawn area: 0%
-[03:26:23] [Server thread/INFO]: Preparing spawn area: 0%
-[03:26:23] [Server thread/INFO]: Time elapsed: 3131 ms
-[03:26:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[03:26:23] [Server thread/INFO]: Preparing spawn area: 0%
-[03:26:23] [Server thread/INFO]: Preparing spawn area: 0%
-[03:26:24] [Server thread/INFO]: Preparing spawn area: 0%
-[03:26:24] [Server thread/INFO]: Preparing spawn area: 0%
-[03:26:25] [Server thread/INFO]: Time elapsed: 1765 ms
-[03:26:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[03:26:25] [Server thread/INFO]: Preparing spawn area: 0%
-[03:26:25] [Server thread/INFO]: Preparing spawn area: 0%
-[03:26:26] [Server thread/INFO]: Preparing spawn area: 0%
-[03:26:26] [Server thread/INFO]: Time elapsed: 1359 ms
-[03:26:26] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.4
-[03:26:26] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
-[03:26:26] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.4
-[03:26:26] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
-[03:26:26] [Server thread/INFO]: [AnimationsCore] Enabling AnimationsCore v0.1-SNAPSHOT
-[03:26:26] [Server thread/INFO]: [AnimationsCore] [ACF] Enabled Asynchronous Tab Completion Support!
-[03:26:26] [Server thread/INFO]: [CombatLog] Enabling CombatLog v1.1.1
-[03:26:26] [Server thread/INFO]: [PlasmoVoice] Enabling PlasmoVoice v1.0.11
-[03:26:26] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
-[03:26:26] [Thread-6/INFO]: [PlasmoVoice] Voice UDP server started on /0.0.0.0:25565
-[03:26:26] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
-[03:26:26] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
-[03:26:27] [Server thread/INFO]: [LoginSecurity] Registering commands...
-[03:26:27] [Server thread/INFO]: [LoginSecurity] Registering listeners...
-[03:26:27] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
-[03:26:27] [Server thread/INFO]: [MinerTrack] Enabling MinerTrack v1.6.5
-[03:26:27] [Server thread/WARN]: [MinerTrack] Failed to schedule task on Spigot: org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftScheduler.runTaskTimer(java.lang.Runnable,long,long)
-[03:26:27] [Server thread/WARN]: java.lang.NoSuchMethodException: org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftScheduler.runTaskTimer(java.lang.Runnable,long,long)
-[03:26:27] [Server thread/WARN]: 	at java.base/java.lang.Class.getMethod(Class.java:2227)
-[03:26:27] [Server thread/WARN]: 	at MinerTrack-1.6.5.jar//link.star_dust.MinerTrack.managers.ViolationManager.<init>(ViolationManager.java:70)
-[03:26:27] [Server thread/WARN]: 	at MinerTrack-1.6.5.jar//link.star_dust.MinerTrack.MinerTrack.onEnable(MinerTrack.java:62)
-[03:26:27] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264)
-[03:26:27] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:370)
-[03:26:27] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:542)
-[03:26:27] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.enablePlugin(CraftServer.java:563)
-[03:26:27] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.enablePlugins(CraftServer.java:477)
-[03:26:27] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:634)
-[03:26:27] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:420)
-[03:26:27] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.e(DedicatedServer.java:306)
-[03:26:27] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.v(MinecraftServer.java:1122)
-[03:26:27] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:303)
-[03:26:27] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:840)
-[03:26:27] [Server thread/ERROR]: [MinerTrack] Plugin MinerTrack v1.6.5 has failed to register events for class link.star_dust.MinerTrack.listeners.MiningListener because io/papermc/paper/threadedregions/scheduler/ScheduledTask does not exist.
-[03:26:27] [Server thread/INFO]: ----[MinerTrack v1.6.5 ]-----------
-[03:26:27] [Server thread/INFO]: MinerTrack Anti-XRay Enabled!
-[03:26:27] [Server thread/INFO]: 
-[03:26:27] [Server thread/INFO]: Authors: Author87668
-[03:26:27] [Server thread/INFO]: Original Author: Author87668
-[03:26:27] [Server thread/INFO]: Contributors: Author87668
-[03:26:27] [Server thread/INFO]: 
-[03:26:27] [Server thread/INFO]: Thanks for your use!
-[03:26:27] [Server thread/INFO]: -----------------------------------------
-[03:26:27] [Server thread/INFO]: [MinerTrack] You are using the latest version.
-[03:26:27] [Server thread/INFO]: [SimpleHomes] Enabling SimpleHomes v2.0.4*
-[03:26:27] [Server thread/INFO]: [SimpleHomes] AutoUpdater Enabled: Notify
-[03:26:27] [Server thread/INFO]: [SimpleHomes] No update found.
-[03:26:27] [Server thread/INFO]: [SimpleHomes] SimpleHomes Enabled!
-[03:26:27] [Server thread/INFO]: [CratesPlusReloaded] Enabling CratesPlusReloaded v4.1-SNAPSHOT
-[03:26:27] [Server thread/INFO]: [InvSee++] Enabling InvSeePlusPlus v0.29.11
-[03:26:27] [Server thread/ERROR]: [InvSee++] The latest release of InvSee++ that supported Minecraft 1.19 is InvSee++ v0.15.2.
+[16:56:46] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
+[16:56:47] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
+[16:56:48] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.19.0[32;1m.[0;39m
+[16:56:48] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
+[16:56:48] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mPlease update your Java runtime to at least Java 21 (your version is 17).[0;39m
+[16:56:48] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mAt some point in the future, SkinsRestorer will no longer be compatible with this version of Java.[0;39m
+[16:56:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:56:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:56:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:56:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:56:48] [Server thread/INFO]: Preparing level "world"
+[16:57:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:57:03] [Server thread/INFO]: Preparing spawn area: 0%
+[16:57:03] [Server thread/INFO]: Preparing spawn area: 0%
+[16:57:03] [Server thread/INFO]: Preparing spawn area: 0%
+[16:57:03] [Server thread/INFO]: Preparing spawn area: 0%
+[16:57:04] [Server thread/INFO]: Preparing spawn area: 0%
+[16:57:04] [Server thread/INFO]: Preparing spawn area: 0%
+[16:57:05] [Server thread/INFO]: Preparing spawn area: 0%
+[16:57:05] [Server thread/INFO]: Preparing spawn area: 0%
+[16:57:06] [Server thread/INFO]: Time elapsed: 3926 ms
+[16:57:06] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[16:57:06] [Server thread/INFO]: Preparing spawn area: 0%
+[16:57:06] [Server thread/INFO]: Preparing spawn area: 0%
+[16:57:07] [Server thread/INFO]: Preparing spawn area: 0%
+[16:57:07] [Server thread/INFO]: Preparing spawn area: 0%
+[16:57:07] [Server thread/INFO]: Time elapsed: 1870 ms
+[16:57:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[16:57:08] [Server thread/INFO]: Preparing spawn area: 0%
+[16:57:08] [Server thread/INFO]: Preparing spawn area: 0%
+[16:57:08] [Server thread/INFO]: Preparing spawn area: 0%
+[16:57:09] [Server thread/INFO]: Preparing spawn area: 0%
+[16:57:09] [Server thread/INFO]: Time elapsed: 1900 ms
+[16:57:09] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.4
+[16:57:09] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[16:57:09] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.4
+[16:57:09] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[16:57:09] [Server thread/INFO]: [AnimationsCore] Enabling AnimationsCore v0.1-SNAPSHOT
+[16:57:09] [Server thread/INFO]: [AnimationsCore] [ACF] Enabled Asynchronous Tab Completion Support!
+[16:57:10] [Server thread/INFO]: [CombatLog] Enabling CombatLog v1.1.1
+[16:57:10] [Server thread/INFO]: [PlasmoVoice] Enabling PlasmoVoice v1.0.11
+[16:57:10] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
+[16:57:10] [Thread-6/INFO]: [PlasmoVoice] Voice UDP server started on /0.0.0.0:25565
+[16:57:10] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[16:57:10] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[16:57:10] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[16:57:10] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[16:57:10] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[16:57:10] [Server thread/INFO]: [MinerTrack] Enabling MinerTrack v1.6.5
+[16:57:10] [Server thread/WARN]: [MinerTrack] Failed to schedule task on Spigot: org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftScheduler.runTaskTimer(java.lang.Runnable,long,long)
+[16:57:10] [Server thread/WARN]: java.lang.NoSuchMethodException: org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftScheduler.runTaskTimer(java.lang.Runnable,long,long)
+[16:57:10] [Server thread/WARN]: 	at java.base/java.lang.Class.getMethod(Class.java:2227)
+[16:57:10] [Server thread/WARN]: 	at MinerTrack-1.6.5.jar//link.star_dust.MinerTrack.managers.ViolationManager.<init>(ViolationManager.java:70)
+[16:57:10] [Server thread/WARN]: 	at MinerTrack-1.6.5.jar//link.star_dust.MinerTrack.MinerTrack.onEnable(MinerTrack.java:62)
+[16:57:10] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264)
+[16:57:10] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:370)
+[16:57:10] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:542)
+[16:57:10] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.enablePlugin(CraftServer.java:563)
+[16:57:10] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.enablePlugins(CraftServer.java:477)
+[16:57:10] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:634)
+[16:57:10] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:420)
+[16:57:10] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.e(DedicatedServer.java:306)
+[16:57:10] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.v(MinecraftServer.java:1122)
+[16:57:10] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:303)
+[16:57:10] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[16:57:10] [Server thread/ERROR]: [MinerTrack] Plugin MinerTrack v1.6.5 has failed to register events for class link.star_dust.MinerTrack.listeners.MiningListener because io/papermc/paper/threadedregions/scheduler/ScheduledTask does not exist.
+[16:57:10] [Server thread/INFO]: ----[MinerTrack v1.6.5 ]-----------
+[16:57:10] [Server thread/INFO]: MinerTrack Anti-XRay Enabled!
+[16:57:10] [Server thread/INFO]: 
+[16:57:10] [Server thread/INFO]: Authors: Author87668
+[16:57:10] [Server thread/INFO]: Original Author: Author87668
+[16:57:10] [Server thread/INFO]: Contributors: Author87668
+[16:57:10] [Server thread/INFO]: 
+[16:57:10] [Server thread/INFO]: Thanks for your use!
+[16:57:10] [Server thread/INFO]: -----------------------------------------
+[16:57:11] [Server thread/INFO]: [MinerTrack] You are using the latest version.
+[16:57:11] [Server thread/INFO]: [SimpleHomes] Enabling SimpleHomes v2.0.4*
+[16:57:11] [Server thread/INFO]: [SimpleHomes] AutoUpdater Enabled: Notify
+[16:57:11] [Server thread/INFO]: [SimpleHomes] No update found.
+[16:57:11] [Server thread/INFO]: [SimpleHomes] SimpleHomes Enabled!
+[16:57:11] [Server thread/INFO]: [CratesPlusReloaded] Enabling CratesPlusReloaded v4.1-SNAPSHOT
+[16:57:11] [Server thread/INFO]: [InvSee++] Enabling InvSeePlusPlus v0.29.11
+[16:57:11] [Server thread/ERROR]: [InvSee++] The latest release of InvSee++ that supported Minecraft 1.19 is InvSee++ v0.15.2.
 You can download this release from SpigotMC: https://www.spigotmc.org/resources/invsee.82342/download?version=480562
 It is also available on GitHub: https://github.com/Jannyboy11/InvSee-plus-plus/releases/tag/v0.15.2
 
-[03:26:27] [Server thread/ERROR]: Error occurred while enabling InvSeePlusPlus v0.29.11 (Is it up to date?)
+[16:57:11] [Server thread/ERROR]: Error occurred while enabling InvSeePlusPlus v0.29.11 (Is it up to date?)
 java.lang.RuntimeException: CraftBukkit version git-Paper-81 (MC: 1.19) is not supported by this release of InvSee++. Please use one of the following CraftBukkit versions: [1.8.8, 1.12.2, 1.16.5, 1.17.1, 1.18.2, 1.19.4, 1.20.1, 1.20.4, 1.20.6, 1.21, 1.21.1, 1.21.3, 1.21.4]. Alternatively you can try upgrading InvSee++ if any of the versions listed here is older than your server's Minecraft version. InvSee++ is available on SpigotMC (recommended): https://www.spigotmc.org/resources/invsee.82342/ and on GitHub: https://github.com/Jannyboy11/InvSee-plus-plus/releases
 	at com.janboerman.invsee.spigot.Setup.setup(Setup.java:37) ~[InvSee++.jar:?]
 	at com.janboerman.invsee.spigot.InvseePlusPlus.onEnable(InvseePlusPlus.java:84) ~[InvSee++.jar:?]
@@ -193,41 +195,41 @@ java.lang.RuntimeException: CraftBukkit version git-Paper-81 (MC: 1.19) is not s
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1122) ~[paper-1.19.jar:git-Paper-81]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:303) ~[paper-1.19.jar:git-Paper-81]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[03:26:27] [Server thread/INFO]: [InvSee++] Disabling InvSeePlusPlus v0.29.11
-[03:26:27] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.8+33cdb4a
-[03:26:28] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.CHERRY
-[03:26:28] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
-[03:26:28] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
-[03:26:28] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
-[03:26:28] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
-[03:26:28] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
-[03:26:28] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
-[03:26:28] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
-[03:26:28] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
-[03:26:28] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
-[03:26:28] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
-[03:26:28] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
-[03:26:28] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
-[03:26:28] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
-[03:26:28] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
-[03:26:28] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
-[03:26:28] [Server thread/INFO]: [WorldGuard] Loading region data...
-[03:26:28] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v22.4
-[03:26:28] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled! 
-[03:26:28] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
-[03:26:28] [Server thread/INFO]: --------------------
-[03:26:28] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Join our Discord!
-[03:26:28] [Server thread/INFO]: [CoreProtect] Discord: www.coreprotect.net/discord/
-[03:26:28] [Server thread/INFO]: --------------------
-[03:26:28] [Server thread/INFO]: [LifeStealZ] Enabling LifeStealZ v2.9.2
-[03:26:28] [Server thread/INFO]: [LifeStealZ] Using language file: plugins/LifeStealZ/lang/en-US.yml
-[03:26:28] [Server thread/INFO]: [LifeStealZ] Using SQLite storage
-[03:26:28] [Server thread/ERROR]: [LifeStealZ] Plugin LifeStealZ v2.9.2 has failed to register events for class org.strassburger.lifestealz.listeners.PrepareGrindstone because org/bukkit/event/inventory/PrepareGrindstoneEvent does not exist.
-[03:26:28] [Server thread/INFO]: [LifeStealZ] LifeStealZ enabled!
-[03:26:28] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v2.19.0
-[03:26:28] [Server thread/INFO]: [Shopkeepers] Loading the data of 4 shopkeepers ...
-[03:26:28] [Server thread/INFO]: [InvSee++_Clear] Enabling InvSeePlusPlus_Clear v0.29.11
-[03:26:28] [Server thread/ERROR]: Error occurred while enabling InvSeePlusPlus_Clear v0.29.11 (Is it up to date?)
+[16:57:11] [Server thread/INFO]: [InvSee++] Disabling InvSeePlusPlus v0.29.11
+[16:57:11] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.8+33cdb4a
+[16:57:11] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.CHERRY
+[16:57:11] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[16:57:11] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[16:57:11] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[16:57:11] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[16:57:11] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[16:57:11] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[16:57:11] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[16:57:11] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[16:57:11] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[16:57:11] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[16:57:11] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[16:57:11] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[16:57:11] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[16:57:11] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[16:57:11] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[16:57:11] [Server thread/INFO]: [WorldGuard] Loading region data...
+[16:57:12] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v22.4
+[16:57:12] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled! 
+[16:57:12] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[16:57:12] [Server thread/INFO]: --------------------
+[16:57:12] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Join our Discord!
+[16:57:12] [Server thread/INFO]: [CoreProtect] Discord: www.coreprotect.net/discord/
+[16:57:12] [Server thread/INFO]: --------------------
+[16:57:12] [Server thread/INFO]: [LifeStealZ] Enabling LifeStealZ v2.9.2
+[16:57:12] [Server thread/INFO]: [LifeStealZ] Using language file: plugins/LifeStealZ/lang/en-US.yml
+[16:57:12] [Server thread/INFO]: [LifeStealZ] Using SQLite storage
+[16:57:12] [Server thread/ERROR]: [LifeStealZ] Plugin LifeStealZ v2.9.2 has failed to register events for class org.strassburger.lifestealz.listeners.PrepareGrindstone because org/bukkit/event/inventory/PrepareGrindstoneEvent does not exist.
+[16:57:12] [Server thread/INFO]: [LifeStealZ] LifeStealZ enabled!
+[16:57:12] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v2.19.0
+[16:57:12] [Server thread/INFO]: [Shopkeepers] Loading the data of 4 shopkeepers ...
+[16:57:12] [Server thread/INFO]: [InvSee++_Clear] Enabling InvSeePlusPlus_Clear v0.29.11
+[16:57:12] [Server thread/ERROR]: Error occurred while enabling InvSeePlusPlus_Clear v0.29.11 (Is it up to date?)
 java.lang.NoClassDefFoundError: com/janboerman/invsee/spigot/InvseePlusPlus
 	at com.janboerman.invsee.spigot.addon.clear.ClearPlugin.onEnable(ClearPlugin.java:22) ~[InvSee++_Clear.jar:?]
 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
@@ -246,9 +248,9 @@ Caused by: java.lang.ClassNotFoundException: com.janboerman.invsee.spigot.Invsee
 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:103) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
 	... 12 more
-[03:26:28] [Server thread/INFO]: [InvSee++_Clear] Disabling InvSeePlusPlus_Clear v0.29.11
-[03:26:28] [Server thread/INFO]: [InvSee++_Give] Enabling InvSeePlusPlus_Give v0.29.11
-[03:26:28] [Server thread/ERROR]: Error occurred while enabling InvSeePlusPlus_Give v0.29.11 (Is it up to date?)
+[16:57:12] [Server thread/INFO]: [InvSee++_Clear] Disabling InvSeePlusPlus_Clear v0.29.11
+[16:57:12] [Server thread/INFO]: [InvSee++_Give] Enabling InvSeePlusPlus_Give v0.29.11
+[16:57:12] [Server thread/ERROR]: Error occurred while enabling InvSeePlusPlus_Give v0.29.11 (Is it up to date?)
 java.lang.NoClassDefFoundError: com/janboerman/invsee/spigot/internal/version/ServerSoftware
 	at com.janboerman.invsee.spigot.addon.give.Setup.setup(Setup.java:13) ~[InvSee++_Give.jar:?]
 	at com.janboerman.invsee.spigot.addon.give.GivePlugin.onEnable(GivePlugin.java:30) ~[InvSee++_Give.jar:?]
@@ -268,12 +270,12 @@ Caused by: java.lang.ClassNotFoundException: com.janboerman.invsee.spigot.intern
 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:103) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
 	... 13 more
-[03:26:28] [Server thread/INFO]: [InvSee++_Give] Disabling InvSeePlusPlus_Give v0.29.11
-[03:26:28] [Server thread/INFO]: [GSit] Enabling GSit v1.13.0
-[03:26:28] [Server thread/INFO]: [GSit] The plugin was successfully enabled.
-[03:26:28] [Server thread/INFO]: [GSit] Link with WorldGuard successful!
-[03:26:28] [Server thread/INFO]: [ConditionalEvents] Enabling ConditionalEvents v4.60.1
-[03:26:28] [Server thread/ERROR]: Cannot load plugins/ConditionalEvents/config.yml
+[16:57:12] [Server thread/INFO]: [InvSee++_Give] Disabling InvSeePlusPlus_Give v0.29.11
+[16:57:12] [Server thread/INFO]: [GSit] Enabling GSit v1.13.0
+[16:57:12] [Server thread/INFO]: [GSit] The plugin was successfully enabled.
+[16:57:12] [Server thread/INFO]: [GSit] Link with WorldGuard successful!
+[16:57:12] [Server thread/INFO]: [ConditionalEvents] Enabling ConditionalEvents v4.60.1
+[16:57:12] [Server thread/ERROR]: Cannot load plugins/ConditionalEvents/config.yml
 org.bukkit.configuration.InvalidConfigurationException: while parsing a block mapping
  in 'reader', line 129, column 7:
           default:
@@ -341,7 +343,7 @@ expected <block end>, but found '<block mapping start>'
 	at org.yaml.snakeyaml.Yaml.compose(Yaml.java:575) ~[snakeyaml-1.30.jar:?]
 	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:102) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
 	... 19 more
-[03:26:28] [Server thread/ERROR]: Error occurred while enabling ConditionalEvents v4.60.1 (Is it up to date?)
+[16:57:12] [Server thread/ERROR]: Error occurred while enabling ConditionalEvents v4.60.1 (Is it up to date?)
 java.lang.NullPointerException: Cannot invoke "org.bukkit.configuration.file.FileConfiguration.getBoolean(String)" because "config" is null
 	at ce.ajneb97.configs.MainConfigManager.configure(MainConfigManager.java:40) ~[ConditionalEvents.jar:?]
 	at ce.ajneb97.configs.ConfigsManager.configure(ConfigsManager.java:31) ~[ConditionalEvents.jar:?]
@@ -357,1674 +359,65 @@ java.lang.NullPointerException: Cannot invoke "org.bukkit.configuration.file.Fil
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1122) ~[paper-1.19.jar:git-Paper-81]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:303) ~[paper-1.19.jar:git-Paper-81]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[03:26:28] [Server thread/INFO]: [ConditionalEvents] Disabling ConditionalEvents v4.60.1
-[03:26:28] [Server thread/INFO]: [ConditionalEvents] Has been disabled! Version: 4.60.1
-[03:26:29] [Server thread/INFO]: Running delayed init tasks
-[03:26:29] [Server thread/INFO]: [CoreProtect] WorldEdit logging successfully initialized.
-[03:26:29] [Server thread/INFO]: Done (33.547s)! For help, type "help"
-[03:26:29] [Server thread/INFO]: Timings Reset
-[03:26:29] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[03:26:29] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-[03:26:29] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
-[03:26:29] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
-[03:26:29] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
-[03:26:29] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-[03:26:29] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[03:26:29] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.5.1[0;39m
-[03:26:29] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1md5d8613[0;39m
-[03:26:29] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
-[03:26:29] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[03:26:29] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
-[03:26:29] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
-[03:26:30] [User Authenticator #1/INFO]: UUID of player un_randompro is 4f2ddd44-221e-3406-80eb-bdd38f185eca
-[03:26:30] [Server thread/INFO]: un_randompro joined the game
-[03:26:30] [Server thread/INFO]: un_randompro[/127.233.145.50:54781] logged in with entity id 76 at ([world]-2134.8928904976224, 63.0, 1538.7691819705474)
-[03:26:32] [User Authenticator #1/INFO]: UUID of player Josues44 is be14b746-ebad-3897-ba51-0ecc152e8308
-[03:26:33] [Server thread/INFO]: Josues44 joined the game
-[03:26:33] [Server thread/INFO]: Josues44[/127.162.87.84:60663] logged in with entity id 178 at ([world_nether]-460.4607266532659, 65.0, -134.83308463231148)
-[03:26:34] [User Authenticator #1/INFO]: UUID of player Jeiker45 is bc83c48d-239b-3c9d-8ef1-19b53d610ac4
-[03:26:34] [Server thread/INFO]: Jeiker45 joined the game
-[03:26:34] [Server thread/INFO]: Jeiker45[/127.103.243.65:54733] logged in with entity id 219 at ([world]-2135.4546951847205, 62.349499681080985, 1539.621666512679)
-[03:26:35] [User Authenticator #1/INFO]: UUID of player supergokku__BL is a0ca1217-835b-34d9-9dea-9fd786f32201
-[03:26:37] [Server thread/INFO]: supergokku__BL joined the game
-[03:26:37] [Server thread/INFO]: supergokku__BL[/127.242.187.230:36875] logged in with entity id 246 at ([world]-5104.220003092241, 79.0, -1379.4471384259898)
-[03:26:39] [User Authenticator #1/INFO]: UUID of player XuterMC is 4a212ac4-ab8c-3fc7-bce8-547d3889426f
-[03:26:40] [Server thread/INFO]: XuterMC joined the game
-[03:26:40] [Server thread/INFO]: XuterMC[/127.1.66.178:37041] logged in with entity id 391 at ([world_nether]-457.90225451554045, 65.875, -136.57692337229494)
-[03:26:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5012ms or 100 ticks behind
-[03:26:47] [User Authenticator #1/INFO]: UUID of player SoySander is 2fdec197-58fd-3a92-a8c9-336e26aeae55
-[03:26:47] [Server thread/INFO]: SoySander joined the game
-[03:26:47] [Server thread/INFO]: SoySander[/127.87.61.29:41975] logged in with entity id 632 at ([world]-2152.6538275928574, 81.66873754093503, 1578.8593710782377)
-[03:27:11] [User Authenticator #1/INFO]: UUID of player SoySander is 2fdec197-58fd-3a92-a8c9-336e26aeae55
-[03:27:11] [Server thread/INFO]: SoySander lost connection: You logged in from another location
-[03:27:11] [Server thread/INFO]: SoySander left the game
-[03:27:12] [Server thread/INFO]: SoySander joined the game
-[03:27:12] [Server thread/INFO]: SoySander[/127.87.61.29:43649] logged in with entity id 737 at ([world]-2152.6538275928574, 81.66873754093503, 1578.8593710782377)
-[03:27:17] [Server thread/INFO]: SoySander lost connection: Disconnected
-[03:27:17] [Server thread/INFO]: SoySander left the game
-[03:27:20] [User Authenticator #1/INFO]: UUID of player SoySander is 2fdec197-58fd-3a92-a8c9-336e26aeae55
-[03:27:20] [Server thread/INFO]: SoySander joined the game
-[03:27:21] [Server thread/INFO]: SoySander[/127.87.61.29:49457] logged in with entity id 808 at ([world]-2152.6538275928574, 81.66873754093503, 1578.8593710782377)
-[03:27:28] [Server thread/INFO]: SoySander issued server command: /gamemode creative
-[03:27:28] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
-[03:28:01] [Server thread/INFO]: SoySander issued server command: /op un_randompro
-[03:28:01] [Server thread/INFO]: [SoySander: Made un_randompro a server operator]
-[03:28:04] [Server thread/INFO]: un_randompro issued server command: /gamemode spectator
-[03:28:04] [Server thread/INFO]: [un_randompro: Set own game mode to Spectator Mode]
-[03:28:12] [Server thread/INFO]: un_randompro issued server command: /gamemode creative
-[03:28:12] [Server thread/INFO]: [un_randompro: Set own game mode to Creative Mode]
-[03:28:25] [Server thread/INFO]: un_randompro issued server command: /gamemode spectator
-[03:28:25] [Server thread/INFO]: [un_randompro: Set own game mode to Spectator Mode]
-[03:28:31] [Server thread/INFO]: un_randompro issued server command: /tp un_randompro Josues44
-[03:28:31] [Server thread/INFO]: un_randompro has made the advancement [We Need to Go Deeper]
-[03:28:31] [Server thread/INFO]: [un_randompro: Teleported un_randompro to Josues44]
-[03:28:51] [Server thread/INFO]: SoySander issued server command: /locate
-[03:28:51] [Server thread/INFO]: Jeiker45 issued server command: /tell un_randompro pasa op para ver que hacen
-[03:28:52] [Server thread/INFO]: un_randompro issued server command: /invsee Josues44
-[03:28:52] [Server thread/ERROR]: null
-org.bukkit.command.CommandException: Cannot execute command 'invsee' in plugin InvSeePlusPlus v0.29.11 - plugin is disabled.
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:37) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:155) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
-	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.dispatchCommand(CraftServer.java:909) ~[paper-1.19.jar:git-Paper-81]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleCommand(ServerGamePacketListenerImpl.java:2382) ~[?:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$18(ServerGamePacketListenerImpl.java:2153) ~[?:?]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.19.jar:git-Paper-81]
-	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153) ~[?:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1359) ~[paper-1.19.jar:git-Paper-81]
-	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:183) ~[paper-1.19.jar:git-Paper-81]
-	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[?:?]
-	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1336) ~[paper-1.19.jar:git-Paper-81]
-	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1329) ~[paper-1.19.jar:git-Paper-81]
-	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[?:?]
-	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1307) ~[paper-1.19.jar:git-Paper-81]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1192) ~[paper-1.19.jar:git-Paper-81]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:303) ~[paper-1.19.jar:git-Paper-81]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[03:29:06] [Server thread/INFO]: SoySander issued server command: /locate villague
-[03:29:07] [Server thread/INFO]: un_randompro issued server command: /tp un_randompro supergokku__BL
-[03:29:07] [Server thread/INFO]: [un_randompro: Teleported un_randompro to supergokku__BL]
-[03:29:54] [Server thread/INFO]: SoySander issued server command: /seed
-[03:29:57] [Server thread/INFO]: XuterMC issued server command: /msg XuterMC -637 -175
-[03:30:18] [Server thread/INFO]: SoySander issued server command: /tp Jeiker45
-[03:30:18] [Server thread/INFO]: [SoySander: Teleported SoySander to Jeiker45]
-[03:30:21] [Server thread/INFO]: SoySander lost connection: Disconnected
-[03:30:21] [Server thread/INFO]: SoySander left the game
-[03:30:25] [User Authenticator #2/INFO]: UUID of player SoySander is 2fdec197-58fd-3a92-a8c9-336e26aeae55
-[03:30:25] [Server thread/INFO]: SoySander joined the game
-[03:30:25] [Server thread/INFO]: SoySander[/127.251.247.108:43619] logged in with entity id 5718 at ([world]-2132.3457298314406, 64.0, 1538.3833025874042)
-[03:30:26] [Server thread/INFO]: un_randompro issued server command: /tp un_randompro Jeiker45
-[03:30:26] [Server thread/INFO]: [un_randompro: Teleported un_randompro to Jeiker45]
-[03:30:34] [Server thread/INFO]: un_randompro issued server command: /gamemode creative
-[03:30:34] [Server thread/INFO]: [un_randompro: Set own game mode to Creative Mode]
-[03:30:44] [Server thread/INFO]: SoySander issued server command: /seed
-[03:30:49] [Async Chat Thread - #0/INFO]: <Jeiker45> SoySander
-[03:30:56] [Async Chat Thread - #0/INFO]: <un_randompro> hacemos otro spleef?
-[03:30:57] [Async Chat Thread - #0/INFO]: <un_randompro> hacemos otro spleef?
-[03:30:57] [Async Chat Thread - #0/INFO]: <un_randompro> hacemos otro spleef?
-[03:31:12] [Async Chat Thread - #0/INFO]: <SoySander> xd
-[03:31:24] [Async Chat Thread - #0/INFO]: <un_randompro> recompensa: coords de aldea y 3 diamonds
-[03:31:24] [Server thread/INFO]: SoySander issued server command: /msg Josues44 te doy la recompensa de winter
-[03:31:25] [Async Chat Thread - #0/INFO]: <un_randompro> hacemos otro spleef?
-[03:31:25] [Async Chat Thread - #0/INFO]: <un_randompro> recompensa: coords de aldea y 3 diamonds
-[03:31:26] [Async Chat Thread - #0/INFO]: <un_randompro> hacemos otro spleef?
-[03:31:32] [Server thread/INFO]: SoySander issued server command: /msg Josues44 pq no se conecto mas
-[03:31:32] [Server thread/INFO]: SoySander issued server command: /msg Josues44 pq no se conecto mas
-[03:31:34] [Server thread/INFO]: SoySander issued server command: /msg Josues44 te doy la recompensa de winter
-[03:31:35] [Server thread/INFO]: SoySander issued server command: /msg Josues44 te doy la recompensa de winter
-[03:31:39] [Async Chat Thread - #0/INFO]: <un_randompro> los que quieran guardense en /sethome
-[03:31:55] [Server thread/INFO]: supergokku__BL issued server command: /sethome CASA
-[03:32:00] [Async Chat Thread - #0/INFO]: <un_randompro> hacemos otro spleef?
-[03:32:01] [Async Chat Thread - #0/INFO]: <un_randompro> los que quieran guardense en /sethome
-[03:32:02] [Server thread/INFO]: Josues44 issued server command: /msg SoySander oka
-[03:32:13] [Server thread/INFO]: Josues44 issued server command: /msg SoySander espera que hago espacio
-[03:32:31] [Server thread/INFO]: un_randompro issued server command: /title @a title hola
-[03:32:37] [Server thread/INFO]: un_randompro issued server command: /title @a hola
-[03:32:45] [Server thread/INFO]: un_randompro issued server command: /title @a title dwaok
-[03:32:49] [Server thread/INFO]: un_randompro issued server command: /title @a times 2
-[03:33:02] [Server thread/INFO]: un_randompro issued server command: /give un_randompro minecraft:command_block
-[03:33:02] [Server thread/INFO]: [un_randompro: Gave 1 [Command Block] to un_randompro]
-[03:33:15] [Server thread/INFO]: XuterMC issued server command: /sethome al
-[03:33:20] [Server thread/INFO]: un_randompro issued server command: /gamemode survival
-[03:33:20] [Server thread/INFO]: [un_randompro: Set own game mode to Survival Mode]
-[03:33:26] [Server thread/INFO]: supergokku__BL issued server command: /home CASA
-[03:33:26] [Server thread/INFO]: un_randompro issued server command: /gamemode creative
-[03:33:26] [Server thread/INFO]: [un_randompro: Set own game mode to Creative Mode]
-[03:33:30] [Server thread/INFO]: SoySander issued server command: /tp -736 ~ -544
-[03:33:30] [Server thread/INFO]: [SoySander: Teleported SoySander to -735.500000, 71.991484, -543.500000]
-[03:33:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5030ms or 100 ticks behind
-[03:33:42] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
-[03:33:42] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
-[03:33:48] [Server thread/INFO]: Josues44 issued server command: /msg SoySander asme tp a ti y me das la recompensa y despues me hago el set home en mi base
-[03:33:58] [Server thread/INFO]: SoySander issued server command: /gamemode survival
-[03:33:58] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
-[03:33:58] [Server thread/INFO]: Josues44 issued server command: /sethome 1
-[03:34:03] [Server thread/INFO]: SoySander issued server command: /tp Josues44 SoySander
-[03:34:03] [Server thread/INFO]: [SoySander: Teleported Josues44 to SoySander]
-[03:34:03] [Server thread/INFO]: Josues44 issued server command: /home 1
-[03:34:06] [Server thread/INFO]: SoySander issued server command: /gamemode creative
-[03:34:06] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
-[03:34:10] [Async Chat Thread - #1/INFO]: <SoySander> jo
-[03:34:12] [Server thread/INFO]: SoySander issued server command: /tp Josues44 SoySander
-[03:34:12] [Server thread/INFO]: [SoySander: Teleported Josues44 to SoySander]
-[03:34:20] [Server thread/INFO]: un_randompro issued server command: /tp un_randompro SoySander
-[03:34:20] [Server thread/INFO]: [un_randompro: Teleported un_randompro to SoySander]
-[03:34:21] [Server thread/INFO]: un_randompro issued server command: /gamemode spectator
-[03:34:21] [Server thread/INFO]: [un_randompro: Set own game mode to Spectator Mode]
-[03:34:23] [Server thread/INFO]: un_randompro issued server command: /gamemode creative
-[03:34:23] [Server thread/INFO]: [un_randompro: Set own game mode to Creative Mode]
-[03:34:25] [Server thread/INFO]: un_randompro issued server command: /gamemode survival
-[03:34:25] [Server thread/INFO]: [un_randompro: Set own game mode to Survival Mode]
-[03:34:27] [Server thread/INFO]: un_randompro issued server command: /gamemode spectator
-[03:34:27] [Server thread/INFO]: [un_randompro: Set own game mode to Spectator Mode]
-[03:34:43] [Server thread/INFO]: SoySander issued server command: /enchant SoySander minecraft:sharpness 3
-[03:34:43] [Server thread/INFO]: [SoySander: Applied enchantment Sharpness III to SoySander's item]
-[03:34:58] [Server thread/INFO]: SoySander issued server command: /enchant SoySander minecraft:power 3
-[03:34:58] [Server thread/INFO]: [SoySander: Applied enchantment Power III to SoySander's item]
-[03:35:16] [Server thread/INFO]: un_randompro issued server command: /gamemode creative
-[03:35:16] [Server thread/INFO]: [un_randompro: Set own game mode to Creative Mode]
-[03:35:17] [Server thread/INFO]: Josues44 issued server command: /home 1
-[03:35:17] [Server thread/INFO]: un_randompro issued server command: /gamemode survival
-[03:35:17] [Server thread/INFO]: [un_randompro: Set own game mode to Survival Mode]
-[03:35:20] [Server thread/INFO]: un_randompro issued server command: /gamemode creative
-[03:35:20] [Server thread/INFO]: [un_randompro: Set own game mode to Creative Mode]
-[03:35:25] [Server thread/INFO]: un_randompro issued server command: /gamemode survival
-[03:35:25] [Server thread/INFO]: [un_randompro: Set own game mode to Survival Mode]
-[03:35:33] [Server thread/INFO]: un_randompro issued server command: /gamemode spectator
-[03:35:33] [Server thread/INFO]: [un_randompro: Set own game mode to Spectator Mode]
-[03:35:44] [Server thread/INFO]: SoySander issued server command: /tp -1520 ~ 1664
-[03:35:44] [Server thread/INFO]: [SoySander: Teleported SoySander to -1519.500000, 125.000000, 1664.500000]
-[03:35:50] [Server thread/INFO]: un_randompro issued server command: /tp un_randompro SoySander
-[03:35:50] [Server thread/INFO]: [un_randompro: Teleported un_randompro to SoySander]
-[03:35:52] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
-[03:35:52] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
-[03:36:03] [Server thread/INFO]: SoySander issued server command: /gamemode survival
-[03:36:03] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
-[03:36:12] [Server thread/INFO]: un_randompro issued server command: /gamemode survival
-[03:36:12] [Server thread/INFO]: [un_randompro: Set own game mode to Survival Mode]
-[03:36:16] [Server thread/INFO]: SoySander issued server command: /deop un_randompro
-[03:36:16] [Server thread/INFO]: [SoySander: Made un_randompro no longer a server operator]
-[03:36:20] [Server thread/INFO]: Jeiker45 issued server command: /tpa un_randompro
-[03:36:22] [Server thread/INFO]: SoySander issued server command: /tp Jeiker45 so
-[03:36:24] [Server thread/INFO]: SoySander issued server command: /tp Jeiker45 SoySander
-[03:36:24] [Server thread/INFO]: [SoySander: Teleported Jeiker45 to SoySander]
-[03:36:26] [Server thread/INFO]: un_randompro issued server command: /tpaccept
-[03:36:30] [Server thread/INFO]: SoySander issued server command: /gamemode creative
-[03:36:30] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
-[03:38:04] [Server thread/INFO]: un_randompro issued server command: /sethome
-[03:38:09] [Server thread/INFO]: Jeiker45 issued server command: /sethome casa
-[03:38:32] [Server thread/INFO]: SoySander issued server command: /title @a subtitle {"text":"A un jugador Aleatorio Se le Spawneara Un mob Aleatorio"}
-[03:38:32] [Server thread/INFO]: [SoySander: Showing new subtitle for 6 players]
-[03:38:35] [Server thread/INFO]: SoySander issued server command: /title @a subtitle {"text":"A un jugador Aleatorio Se le Spawneara Un mob Aleatorio"}
-[03:38:35] [Server thread/INFO]: [SoySander: Showing new subtitle for 6 players]
-[03:38:40] [Server thread/INFO]: SoySander issued server command: /title @a subtitle {"text":"A un jugador Aleatorio Se le Spawneara Un mob Aleatorio"}
-[03:38:40] [Server thread/INFO]: [SoySander: Showing new subtitle for 6 players]
-[03:38:43] [Server thread/INFO]: SoySander issued server command: /title @a subtitle {"text":"A un jugador Aleatorio Se le Spawneara Un mob Aleatorio"}
-[03:38:43] [Server thread/INFO]: [SoySander: Showing new subtitle for 6 players]
-[03:38:45] [Server thread/INFO]: SoySander issued server command: /title @a subtitle {"text":"A un jugador Aleatorio Se le Spawneara Un mob Aleatorio"}
-[03:38:45] [Server thread/INFO]: [SoySander: Showing new subtitle for 6 players]
-[03:38:47] [Server thread/INFO]: SoySander issued server command: /title @a subtitle {"text":"A un jugador Aleatorio Se le Spawneara Un mob Aleatorio"}
-[03:38:47] [Server thread/INFO]: [SoySander: Showing new subtitle for 6 players]
-[03:38:50] [Server thread/INFO]: SoySander issued server command: /title @a subtitle {"text":"A un jugador Aleatorio Se le Spawneara Un mob Aleatorio"}
-[03:38:50] [Server thread/INFO]: [SoySander: Showing new subtitle for 6 players]
-[03:38:52] [Server thread/INFO]: SoySander issued server command: /title @a subtitle {"text":"A un jugador Aleatorio Se le Spawneara Un mob Aleatorio"}
-[03:38:52] [Server thread/INFO]: [SoySander: Showing new subtitle for 6 players]
-[03:39:04] [Async Chat Thread - #2/INFO]: <Jeiker45> porque ne aparecio un warden
-[03:39:07] [Server thread/INFO]: SoySander issued server command: /title 10
-[03:39:13] [Server thread/INFO]: SoySander issued server command: /title @a title 10
-[03:39:13] [Server thread/INFO]: [SoySander: Showing new title for 6 players]
-[03:39:15] [Server thread/INFO]: SoySander issued server command: /title @a title 9
-[03:39:15] [Server thread/INFO]: [SoySander: Showing new title for 6 players]
-[03:39:17] [Async Chat Thread - #2/INFO]: <un_randompro> porque atras mio ay un ender dragon
-[03:39:17] [Server thread/INFO]: SoySander issued server command: /title @a title 8
-[03:39:17] [Server thread/INFO]: [SoySander: Showing new title for 6 players]
-[03:39:21] [Server thread/INFO]: SoySander issued server command: /title @a title 7
-[03:39:21] [Server thread/INFO]: [SoySander: Showing new title for 6 players]
-[03:39:22] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
-[03:39:22] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
-[03:39:25] [Server thread/INFO]: SoySander issued server command: /title @a title 6
-[03:39:25] [Server thread/INFO]: [SoySander: Showing new title for 6 players]
-[03:39:26] [Async Chat Thread - #2/INFO]: <XuterMC> pq esta mi tio atras??
-[03:39:29] [Server thread/INFO]: SoySander issued server command: /title @a title 5
-[03:39:29] [Server thread/INFO]: [SoySander: Showing new title for 6 players]
-[03:39:31] [Server thread/INFO]: SoySander issued server command: /title @a title 4
-[03:39:31] [Server thread/INFO]: [SoySander: Showing new title for 6 players]
-[03:39:41] [Server thread/INFO]: SoySander issued server command: /title @a title 3
-[03:39:41] [Server thread/INFO]: [SoySander: Showing new title for 6 players]
-[03:39:43] [Async Chat Thread - #2/INFO]: <Josues44> 4?
-[03:39:48] [Async Chat Thread - #2/INFO]: <Josues44> 3?
-[03:39:50] [Server thread/INFO]: SoySander issued server command: /title @a title 2
-[03:39:50] [Server thread/INFO]: [SoySander: Showing new title for 6 players]
-[03:39:58] [Server thread/INFO]: SoySander issued server command: /title @a title 1
-[03:39:58] [Server thread/INFO]: [SoySander: Showing new title for 6 players]
-[03:40:04] [Server thread/INFO]: SoySander issued server command: /summon minecraft:wither_skeleton
-[03:40:04] [Server thread/INFO]: [SoySander: Summoned new Wither Skeleton]
-[03:40:17] [Server thread/INFO]: SoySander issued server command: /title @a title 10
-[03:40:17] [Server thread/INFO]: [SoySander: Showing new title for 6 players]
-[03:40:20] [Server thread/INFO]: SoySander issued server command: /title @a title 9
-[03:40:20] [Server thread/INFO]: [SoySander: Showing new title for 6 players]
-[03:40:20] [Async Chat Thread - #2/INFO]: <un_randompro> a quien le aparecio?
-[03:40:23] [Server thread/INFO]: SoySander issued server command: /title @a title 8
-[03:40:23] [Server thread/INFO]: [SoySander: Showing new title for 6 players]
-[03:40:23] [Async Chat Thread - #2/INFO]: <XuterMC> a mi
-[03:40:24] [Async Chat Thread - #2/INFO]: <XuterMC> xd
-[03:40:24] [Async Chat Thread - #2/INFO]: <supergokku__BL> A XUTER
-[03:40:26] [Server thread/INFO]: SoySander issued server command: /title @a title 7
-[03:40:26] [Server thread/INFO]: [SoySander: Showing new title for 6 players]
-[03:40:29] [Async Chat Thread - #2/INFO]: <un_randompro> xD
-[03:40:29] [Server thread/INFO]: SoySander issued server command: /title @a title 6
-[03:40:29] [Server thread/INFO]: [SoySander: Showing new title for 6 players]
-[03:40:31] [Server thread/INFO]: SoySander issued server command: /title @a title 5
-[03:40:31] [Server thread/INFO]: [SoySander: Showing new title for 6 players]
-[03:40:37] [Server thread/INFO]: SoySander issued server command: /summon minecraft:lightning_bolt
-[03:40:37] [Server thread/INFO]: [SoySander: Summoned new Lightning Bolt]
-[03:40:41] [Server thread/INFO]: SoySander issued server command: /title @a title 3
-[03:40:41] [Server thread/INFO]: [SoySander: Showing new title for 6 players]
-[03:40:46] [Server thread/INFO]: SoySander issued server command: /title @a title 2
-[03:40:46] [Server thread/INFO]: [SoySander: Showing new title for 6 players]
-[03:40:47] [Server thread/INFO]: SoySander issued server command: /title @a title 1
-[03:40:47] [Server thread/INFO]: [SoySander: Showing new title for 6 players]
-[03:40:51] [Server thread/INFO]: SoySander issued server command: /summon minecraft:lightning_bolt
-[03:40:51] [Server thread/INFO]: [SoySander: Summoned new Lightning Bolt]
-[03:41:05] [Async Chat Thread - #2/INFO]: <supergokku__BL> a quien le aparecio?
-[03:41:08] [Server thread/INFO]: SoySander issued server command: /summon minecraft:creeper
-[03:41:08] [Server thread/INFO]: [SoySander: Summoned new Creeper]
-[03:41:09] [Server thread/INFO]: SoySander issued server command: /summon minecraft:lightning_bolt
-[03:41:09] [Server thread/INFO]: [SoySander: Summoned new Lightning Bolt]
-[03:41:14] [Server thread/INFO]: Josues44 has made the advancement [Take Aim]
-[03:41:22] [Async Chat Thread - #2/INFO]: <XuterMC> otro mas???
-[03:41:44] [Server thread/INFO]: SoySander issued server command: /title @a title 3
-[03:41:44] [Server thread/INFO]: [SoySander: Showing new title for 6 players]
-[03:41:45] [Server thread/INFO]: SoySander issued server command: /title @a title 2
-[03:41:45] [Server thread/INFO]: [SoySander: Showing new title for 6 players]
-[03:41:48] [Server thread/INFO]: SoySander issued server command: /title @a title 1
-[03:41:48] [Server thread/INFO]: [SoySander: Showing new title for 6 players]
-[03:41:50] [Server thread/INFO]: SoySander issued server command: /summon minecraft:creeper
-[03:41:50] [Server thread/INFO]: [SoySander: Summoned new Creeper]
-[03:41:51] [Server thread/INFO]: SoySander issued server command: /summon minecraft:creeper
-[03:41:51] [Server thread/INFO]: [SoySander: Summoned new Creeper]
-[03:41:55] [Server thread/INFO]: SoySander issued server command: /summon minecraft:creeper
-[03:41:55] [Server thread/INFO]: [SoySander: Summoned new Creeper]
-[03:41:57] [Server thread/INFO]: SoySander issued server command: /summon minecraft:creeper
-[03:41:57] [Server thread/INFO]: [SoySander: Summoned new Creeper]
-[03:42:03] [Server thread/INFO]: SoySander issued server command: /summon minecraft:lightning_bolt
-[03:42:03] [Server thread/INFO]: [SoySander: Summoned new Lightning Bolt]
-[03:42:05] [Server thread/INFO]: SoySander issued server command: /summon minecraft:creeper
-[03:42:05] [Server thread/INFO]: [SoySander: Summoned new Creeper]
-[03:42:06] [Server thread/INFO]: SoySander issued server command: /summon minecraft:lightning_bolt
-[03:42:06] [Server thread/INFO]: [SoySander: Summoned new Lightning Bolt]
-[03:42:31] [Async Chat Thread - #3/INFO]: <supergokku__BL> que te aparecio ramdompro?
-[03:42:43] [Async Chat Thread - #3/INFO]: <un_randompro> un creeper electrico y unos 20 normales
-[03:42:46] [Async Chat Thread - #3/INFO]: <un_randompro> zzzz
-[03:42:57] [Server thread/INFO]: SoySander issued server command: /gamemode creative
-[03:42:57] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
-[03:43:17] [Server thread/INFO]: SoySander issued server command: /title @a subtitle {"text":"Ahora Apareceran Solo Creepers Electricos Durante 10 minutos"}
-[03:43:17] [Server thread/INFO]: [SoySander: Showing new subtitle for 6 players]
-[03:43:24] [Server thread/INFO]: SoySander issued server command: /title @a subtitle {"text":"Ahora Apareceran Solo Creepers Electricos Durante 10 minutos"}
-[03:43:24] [Server thread/INFO]: [SoySander: Showing new subtitle for 6 players]
-[03:43:25] [Async Chat Thread - #3/INFO]: <XuterMC> bakan
-[03:43:27] [Server thread/INFO]: SoySander issued server command: /title @a subtitle {"text":"Ahora Apareceran Solo Creepers Electricos Durante 10 minutos"}
-[03:43:27] [Server thread/INFO]: [SoySander: Showing new subtitle for 6 players]
-[03:43:30] [Server thread/INFO]: SoySander issued server command: /title @a subtitle {"text":"Ahora Apareceran Solo Creepers Electricos Durante 10 minutos"}
-[03:43:30] [Server thread/INFO]: [SoySander: Showing new subtitle for 6 players]
-[03:43:33] [Async Chat Thread - #3/INFO]: <un_randompro> LoL
-[03:43:37] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
-[03:43:37] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
-[03:43:46] [Server thread/INFO]: SoySander issued server command: /title @a title 10
-[03:43:46] [Server thread/INFO]: [SoySander: Showing new title for 6 players]
-[03:43:48] [Server thread/INFO]: SoySander issued server command: /title @a title 9
-[03:43:48] [Server thread/INFO]: [SoySander: Showing new title for 6 players]
-[03:43:50] [Server thread/INFO]: SoySander issued server command: /title @a title 8
-[03:43:50] [Server thread/INFO]: [SoySander: Showing new title for 6 players]
-[03:43:51] [Server thread/INFO]: SoySander issued server command: /title @a title 7
-[03:43:51] [Server thread/INFO]: [SoySander: Showing new title for 6 players]
-[03:43:52] [Server thread/INFO]: SoySander issued server command: /title @a title 6
-[03:43:52] [Server thread/INFO]: [SoySander: Showing new title for 6 players]
-[03:43:53] [Server thread/INFO]: SoySander issued server command: /title @a title 5
-[03:43:53] [Server thread/INFO]: [SoySander: Showing new title for 6 players]
-[03:43:57] [Server thread/INFO]: SoySander issued server command: /title @a title 4
-[03:43:57] [Server thread/INFO]: [SoySander: Showing new title for 6 players]
-[03:43:59] [Server thread/INFO]: SoySander issued server command: /title @a title 3
-[03:43:59] [Server thread/INFO]: [SoySander: Showing new title for 6 players]
-[03:44:01] [Server thread/INFO]: SoySander issued server command: /title @a title 2
-[03:44:01] [Server thread/INFO]: [SoySander: Showing new title for 6 players]
-[03:44:02] [Server thread/INFO]: SoySander issued server command: /title @a title 1
-[03:44:02] [Server thread/INFO]: [SoySander: Showing new title for 6 players]
-[03:44:06] [Server thread/INFO]: SoySander issued server command: /summon minecraft:lightning_bolt
-[03:44:06] [Server thread/INFO]: [SoySander: Summoned new Lightning Bolt]
-[03:44:13] [Server thread/INFO]: SoySander issued server command: /summon minecraft:creeper
-[03:44:13] [Server thread/INFO]: [SoySander: Summoned new Creeper]
-[03:44:19] [Server thread/INFO]: SoySander issued server command: /summon minecraft:creeper
-[03:44:19] [Server thread/INFO]: [SoySander: Summoned new Creeper]
-[03:44:21] [Async Chat Thread - #3/INFO]: <SoySander> xd
-[03:44:22] [Server thread/INFO]: SoySander issued server command: /summon minecraft:creeper
-[03:44:22] [Server thread/INFO]: [SoySander: Summoned new Creeper]
-[03:44:23] [Async Chat Thread - #3/INFO]: <SoySander> xd
-[03:44:25] [Async Chat Thread - #3/INFO]: <SoySander> aaa
-[03:44:31] [Server thread/INFO]: SoySander issued server command: /tp Jeiker45
-[03:44:31] [Server thread/INFO]: [SoySander: Teleported SoySander to Jeiker45]
-[03:44:37] [Server thread/INFO]: SoySander issued server command: /summon minecraft:lightning_bolt
-[03:44:37] [Server thread/INFO]: [SoySander: Summoned new Lightning Bolt]
-[03:44:41] [Server thread/INFO]: SoySander issued server command: /summon minecraft:creeper
-[03:44:41] [Server thread/INFO]: [SoySander: Summoned new Creeper]
-[03:44:42] [Server thread/INFO]: SoySander issued server command: /summon minecraft:lightning_bolt
-[03:44:42] [Server thread/INFO]: [SoySander: Summoned new Lightning Bolt]
-[03:44:52] [Server thread/INFO]: SoySander issued server command: /summon minecraft:creeper
-[03:44:52] [Server thread/INFO]: [SoySander: Summoned new Creeper]
-[03:44:52] [Server thread/INFO]: SoySander issued server command: /summon minecraft:lightning_bolt
-[03:44:52] [Server thread/INFO]: [SoySander: Summoned new Lightning Bolt]
-[03:45:05] [Async Chat Thread - #3/INFO]: <XuterMC> xd??
-[03:45:06] [Server thread/INFO]: SoySander issued server command: /summon minecraft:creeper
-[03:45:06] [Server thread/INFO]: [SoySander: Summoned new Creeper]
-[03:45:06] [Server thread/INFO]: SoySander issued server command: /summon minecraft:lightning_bolt
-[03:45:06] [Server thread/INFO]: [SoySander: Summoned new Lightning Bolt]
-[03:45:15] [Server thread/INFO]: SoySander issued server command: /summon minecraft:creeper
-[03:45:15] [Server thread/INFO]: [SoySander: Summoned new Creeper]
-[03:45:16] [Server thread/INFO]: SoySander issued server command: /summon minecraft:lightning_bolt
-[03:45:16] [Server thread/INFO]: [SoySander: Summoned new Lightning Bolt]
-[03:45:28] [Server thread/INFO]: SoySander issued server command: /summon minecraft:creeper
-[03:45:28] [Server thread/INFO]: [SoySander: Summoned new Creeper]
-[03:45:29] [Server thread/INFO]: SoySander issued server command: /summon minecraft:lightning_bolt
-[03:45:29] [Server thread/INFO]: [SoySander: Summoned new Lightning Bolt]
-[03:45:32] [Server thread/INFO]: SoySander issued server command: /summon minecraft:creeper
-[03:45:32] [Server thread/INFO]: [SoySander: Summoned new Creeper]
-[03:45:32] [Server thread/INFO]: SoySander issued server command: /summon minecraft:lightning_bolt
-[03:45:32] [Server thread/INFO]: [SoySander: Summoned new Lightning Bolt]
-[03:45:35] [Server thread/INFO]: SoySander issued server command: /summon minecraft:creeper
-[03:45:35] [Server thread/INFO]: [SoySander: Summoned new Creeper]
-[03:45:36] [Server thread/INFO]: SoySander issued server command: /summon minecraft:lightning_bolt
-[03:45:36] [Server thread/INFO]: [SoySander: Summoned new Lightning Bolt]
-[03:45:38] [Server thread/INFO]: SoySander issued server command: /summon minecraft:lightning_bolt
-[03:45:38] [Server thread/INFO]: [SoySander: Summoned new Lightning Bolt]
-[03:45:38] [Server thread/INFO]: SoySander issued server command: /summon minecraft:lightning_bolt
-[03:45:38] [Server thread/INFO]: [SoySander: Summoned new Lightning Bolt]
-[03:45:38] [Server thread/INFO]: SoySander issued server command: /summon minecraft:lightning_bolt
-[03:45:38] [Server thread/INFO]: [SoySander: Summoned new Lightning Bolt]
-[03:45:38] [Server thread/INFO]: SoySander issued server command: /summon minecraft:lightning_boltt
-[03:45:39] [Server thread/INFO]: SoySander issued server command: /summon minecraft:lightning_boltt
-[03:45:39] [Server thread/INFO]: SoySander issued server command: /summon minecraft:lightning_boltt
-[03:45:40] [Server thread/INFO]: SoySander issued server command: /summon minecraft:creeper
-[03:45:40] [Server thread/INFO]: [SoySander: Summoned new Creeper]
-[03:45:41] [Server thread/INFO]: SoySander issued server command: /summon minecraft:lightning_boltt
-[03:45:45] [Server thread/INFO]: SoySander issued server command: /summon minecraft:lightning_bolt
-[03:45:45] [Server thread/INFO]: [SoySander: Summoned new Lightning Bolt]
-[03:45:46] [Server thread/INFO]: SoySander issued server command: /summon minecraft:creeper
-[03:45:46] [Server thread/INFO]: [SoySander: Summoned new Creeper]
-[03:45:47] [Server thread/INFO]: SoySander issued server command: /summon minecraft:lightning_bolt
-[03:45:47] [Server thread/INFO]: [SoySander: Summoned new Lightning Bolt]
-[03:45:49] [Server thread/INFO]: SoySander issued server command: /summon minecraft:creeper
-[03:45:49] [Server thread/INFO]: [SoySander: Summoned new Creeper]
-[03:45:50] [Server thread/INFO]: SoySander issued server command: /summon minecraft:lightning_bolt
-[03:45:50] [Server thread/INFO]: [SoySander: Summoned new Lightning Bolt]
-[03:45:55] [Server thread/INFO]: SoySander issued server command: /gamemode creative
-[03:45:55] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
-[03:46:06] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
-[03:46:06] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
-[03:46:47] [Server thread/INFO]: SoySander issued server command: /gamemode survival
-[03:46:47] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
-[03:46:50] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
-[03:46:50] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
-[03:46:54] [Async Chat Thread - #4/INFO]: <un_randompro> ez
-[03:47:01] [Server thread/INFO]: SoySander issued server command: /summon minecraft:creeper
-[03:47:01] [Server thread/INFO]: [SoySander: Summoned new Creeper]
-[03:47:02] [Server thread/INFO]: SoySander issued server command: /summon minecraft:creeper
-[03:47:02] [Server thread/INFO]: [SoySander: Summoned new Creeper]
-[03:47:07] [Server thread/INFO]: SoySander issued server command: /summon minecraft:creeper
-[03:47:07] [Server thread/INFO]: [SoySander: Summoned new Creeper]
-[03:47:07] [Server thread/INFO]: SoySander issued server command: /summon minecraft:lightning_bolt
-[03:47:07] [Server thread/INFO]: [SoySander: Summoned new Lightning Bolt]
-[03:47:12] [Server thread/INFO]: SoySander issued server command: /summon minecraft:creeper
-[03:47:12] [Server thread/INFO]: [SoySander: Summoned new Creeper]
-[03:47:12] [Server thread/INFO]: SoySander issued server command: /summon minecraft:lightning_bolt
-[03:47:12] [Server thread/INFO]: [SoySander: Summoned new Lightning Bolt]
-[03:47:19] [Server thread/INFO]: SoySander issued server command: /summon minecraft:creeper
-[03:47:19] [Server thread/INFO]: [SoySander: Summoned new Creeper]
-[03:47:20] [Server thread/INFO]: SoySander issued server command: /summon minecraft:lightning_bolt
-[03:47:20] [Server thread/INFO]: [SoySander: Summoned new Lightning Bolt]
-[03:47:42] [Server thread/INFO]: SoySander issued server command: /summon minecraft:creeper
-[03:47:42] [Server thread/INFO]: [SoySander: Summoned new Creeper]
-[03:47:42] [Server thread/INFO]: SoySander issued server command: /summon minecraft:lightning_bolt
-[03:47:42] [Server thread/INFO]: [SoySander: Summoned new Lightning Bolt]
-[03:47:43] [Server thread/INFO]: SoySander issued server command: /summon minecraft:creeper
-[03:47:43] [Server thread/INFO]: [SoySander: Summoned new Creeper]
-[03:47:43] [Server thread/INFO]: SoySander issued server command: /summon minecraft:lightning_bolt
-[03:47:43] [Server thread/INFO]: [SoySander: Summoned new Lightning Bolt]
-[03:47:53] [Server thread/INFO]: SoySander issued server command: /summon minecraft:creeper
-[03:47:53] [Server thread/INFO]: [SoySander: Summoned new Creeper]
-[03:47:53] [Server thread/INFO]: SoySander issued server command: /summon minecraft:lightning_bolt
-[03:47:53] [Server thread/INFO]: [SoySander: Summoned new Lightning Bolt]
-[03:48:07] [Server thread/INFO]: SoySander issued server command: /summon minecraft:creeper
-[03:48:07] [Server thread/INFO]: [SoySander: Summoned new Creeper]
-[03:48:07] [Server thread/INFO]: SoySander issued server command: /summon minecraft:lightning_bolt
-[03:48:07] [Server thread/INFO]: [SoySander: Summoned new Lightning Bolt]
-[03:48:22] [Server thread/INFO]: SoySander issued server command: /summon minecraft:creeper
-[03:48:22] [Server thread/INFO]: [SoySander: Summoned new Creeper]
-[03:48:22] [Server thread/INFO]: SoySander issued server command: /summon minecraft:lightning_bolt
-[03:48:22] [Server thread/INFO]: [SoySander: Summoned new Lightning Bolt]
-[03:48:34] [Server thread/INFO]: SoySander issued server command: /summon minecraft:creeper
-[03:48:34] [Server thread/INFO]: [SoySander: Summoned new Creeper]
-[03:48:34] [Server thread/INFO]: SoySander issued server command: /summon minecraft:lightning_bolt
-[03:48:34] [Server thread/INFO]: [SoySander: Summoned new Lightning Bolt]
-[03:48:54] [Server thread/INFO]: SoySander issued server command: /summon Creeper ~10 ~ ~ {powered:1, ExplosionRadius:100}
-[03:49:07] [Server thread/INFO]: SoySander issued server command: /gamemode creative
-[03:49:07] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
-[03:49:22] [Server thread/INFO]: SoySander issued server command: /give SoySander minecraft:command_block
-[03:49:22] [Server thread/INFO]: [SoySander: Gave 1 [Command Block] to SoySander]
-[03:50:11] [Server thread/INFO]: supergokku__BL has made the advancement [Enchanter]
-[03:50:43] [Async Chat Thread - #5/INFO]: <SoySander> Ahora estan mas chetos
-[03:50:45] [Async Chat Thread - #5/INFO]: <SoySander> cuidado
-[03:50:50] [Async Chat Thread - #5/INFO]: <SoySander> quedan 3 minutos
-[03:51:12] [Server thread/INFO]: un_randompro lost connection: Disconnected
-[03:51:12] [Server thread/INFO]: un_randompro left the game
-[03:51:22] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
-[03:51:22] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
-[03:52:12] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
-[03:52:12] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
-[03:52:14] [Server thread/INFO]: SoySander issued server command: /tp Jeiker45
-[03:52:14] [Server thread/INFO]: [SoySander: Teleported SoySander to Jeiker45]
-[03:52:26] [Server thread/INFO]: SoySander lost connection: Disconnected
-[03:52:26] [Server thread/INFO]: SoySander left the game
-[03:52:46] [User Authenticator #3/INFO]: UUID of player SoySander is 2fdec197-58fd-3a92-a8c9-336e26aeae55
-[03:52:46] [Server thread/INFO]: SoySander joined the game
-[03:52:46] [Server thread/INFO]: SoySander[/127.251.247.108:51155] logged in with entity id 18924 at ([world]-1522.8394296891688, 77.18970334025373, 1680.6711687038521)
-[03:52:46] [User Authenticator #4/INFO]: UUID of player un_randompro is 4f2ddd44-221e-3406-80eb-bdd38f185eca
-[03:52:46] [Server thread/INFO]: un_randompro joined the game
-[03:52:46] [Server thread/INFO]: un_randompro[/127.233.145.50:51553] logged in with entity id 18937 at ([world]-1574.6110498357416, 67.79673560066871, 1619.3781632143564)
-[03:53:15] [User Authenticator #4/INFO]: Disconnecting com.mojang.authlib.GameProfile@4ce68434[id=2fdec197-58fd-3a92-a8c9-336e26aeae55,name=SoySander,properties={},legacy=false] (/127.251.247.108:59657): [LoginSecurity] This player is already online!
-[03:53:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@4ce68434[id=2fdec197-58fd-3a92-a8c9-336e26aeae55,name=SoySander,properties={},legacy=false] (/127.251.247.108:59657) lost connection: [LoginSecurity] This player is already online!
-[03:53:17] [User Authenticator #4/INFO]: Disconnecting com.mojang.authlib.GameProfile@1b2b0141[id=2fdec197-58fd-3a92-a8c9-336e26aeae55,name=SoySander,properties={},legacy=false] (/127.87.61.29:41603): [LoginSecurity] This player is already online!
-[03:53:17] [Server thread/INFO]: com.mojang.authlib.GameProfile@1b2b0141[id=2fdec197-58fd-3a92-a8c9-336e26aeae55,name=SoySander,properties={},legacy=false] (/127.87.61.29:41603) lost connection: [LoginSecurity] This player is already online!
-[03:53:21] [User Authenticator #4/INFO]: Disconnecting com.mojang.authlib.GameProfile@44d90ebd[id=2fdec197-58fd-3a92-a8c9-336e26aeae55,name=SoySander,properties={},legacy=false] (/127.251.247.108:40849): [LoginSecurity] This player is already online!
-[03:53:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@44d90ebd[id=2fdec197-58fd-3a92-a8c9-336e26aeae55,name=SoySander,properties={},legacy=false] (/127.251.247.108:40849) lost connection: [LoginSecurity] This player is already online!
-[03:53:22] [Server thread/INFO]: SoySander lost connection: Timed out
-[03:53:22] [Server thread/INFO]: SoySander left the game
-[03:53:27] [User Authenticator #4/INFO]: UUID of player SoySander is 2fdec197-58fd-3a92-a8c9-336e26aeae55
-[03:53:27] [Server thread/INFO]: SoySander joined the game
-[03:53:27] [Server thread/INFO]: SoySander[/127.251.247.108:47839] logged in with entity id 19358 at ([world]-1522.8394296891688, 77.18970334025373, 1680.6711687038521)
-[03:53:28] [Server thread/INFO]: [LifeStealZ] Player un_randompro died!
-[03:53:28] [Server thread/INFO]: un_randompro was slain by Jeiker45
-[03:53:32] [Server thread/INFO]: un_randompro lost connection: Disconnected
-[03:53:32] [Server thread/INFO]: [LifeStealZ] Player un_randompro died!
-[03:53:32] [Server thread/INFO]: un_randompro died
-[03:53:32] [Server thread/INFO]: un_randompro left the game
-[03:53:52] [User Authenticator #4/INFO]: Disconnecting com.mojang.authlib.GameProfile@f9f7aae[id=2fdec197-58fd-3a92-a8c9-336e26aeae55,name=SoySander,properties={},legacy=false] (/127.251.247.108:36467): [LoginSecurity] This player is already online!
-[03:53:52] [Server thread/INFO]: com.mojang.authlib.GameProfile@f9f7aae[id=2fdec197-58fd-3a92-a8c9-336e26aeae55,name=SoySander,properties={},legacy=false] (/127.251.247.108:36467) lost connection: [LoginSecurity] This player is already online!
-[03:53:56] [User Authenticator #4/INFO]: Disconnecting com.mojang.authlib.GameProfile@4b3ee808[id=2fdec197-58fd-3a92-a8c9-336e26aeae55,name=SoySander,properties={},legacy=false] (/127.251.247.108:33445): [LoginSecurity] This player is already online!
-[03:53:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@4b3ee808[id=2fdec197-58fd-3a92-a8c9-336e26aeae55,name=SoySander,properties={},legacy=false] (/127.251.247.108:33445) lost connection: [LoginSecurity] This player is already online!
-[03:53:57] [Server thread/INFO]: SoySander lost connection: Timed out
-[03:53:57] [Server thread/INFO]: SoySander left the game
-[03:54:06] [User Authenticator #4/INFO]: UUID of player SoySander is 2fdec197-58fd-3a92-a8c9-336e26aeae55
-[03:54:06] [Server thread/INFO]: SoySander joined the game
-[03:54:06] [Server thread/INFO]: SoySander[/127.87.61.29:59355] logged in with entity id 19767 at ([world]-1522.8394296891688, 77.18970334025373, 1680.6711687038521)
-[03:54:20] [Server thread/INFO]: SoySander issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,CustomName:"\"Gilberto\"",CustomNameVisible:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:29},{Name:"generic.movementSpeed",Base:2.4f}],ExplosionRadius:8}
-[03:54:20] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
-[03:54:20] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
-[03:54:20] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
-[03:54:20] [Server thread/INFO]: [SoySander: Summoned new Gilberto]
-[03:54:38] [Server thread/INFO]: SoySander issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,CustomName:"\"Gilberto\"",CustomNameVisible:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:29},{Name:"generic.movementSpeed",Base:2.4f}],ExplosionRadius:8}
-[03:54:38] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
-[03:54:38] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
-[03:54:38] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
-[03:54:38] [Server thread/INFO]: [SoySander: Summoned new Gilberto]
-[03:54:44] [Async Chat Thread - #6/INFO]: <Josues44> se me laguea la pc aaaaaaaaaaaa}+
-[03:54:49] [Server thread/INFO]: SoySander issued server command: /gamerule mobGriefing true
-[03:54:49] [Server thread/INFO]: [SoySander: Gamerule mobGriefing is now set to: true]
-[03:54:51] [Server thread/INFO]: SoySander issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,CustomName:"\"Gilberto\"",CustomNameVisible:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:29},{Name:"generic.movementSpeed",Base:2.4f}],ExplosionRadius:8}
-[03:54:51] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
-[03:54:51] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
-[03:54:51] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
-[03:54:51] [Server thread/INFO]: [SoySander: Summoned new Gilberto]
-[03:54:53] [Server thread/INFO]: Villager EntityVillager['Farmer'/8882, uuid='02518708-652c-4204-a81d-c2e64d25900a', l='ServerLevel[world]', x=-1519.14, y=75.00, z=1664.55, cpos=[-95, 104], tl=31326, v=true] died, message: 'Farmer was blown up by Gilberto'
-[03:55:04] [Server thread/INFO]: SoySander issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,CustomName:"\"Gilberto\"",CustomNameVisible:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:29},{Name:"generic.movementSpeed",Base:2.4f}],ExplosionRadius:8}
-[03:55:04] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
-[03:55:04] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
-[03:55:04] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
-[03:55:04] [Server thread/INFO]: [SoySander: Summoned new Gilberto]
-[03:55:09] [Server thread/INFO]: Josues44 has made the advancement [Hidden in the Depths]
-[03:55:14] [Server thread/INFO]: SoySander issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,CustomName:"\"Gilberto\"",CustomNameVisible:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:29},{Name:"generic.movementSpeed",Base:2.4f}],ExplosionRadius:8}
-[03:55:14] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
-[03:55:14] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
-[03:55:14] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
-[03:55:14] [Server thread/INFO]: [SoySander: Summoned new Gilberto]
-[03:55:14] [Server thread/INFO]: Named entity EntityCreeper['Gilberto'/20653, uuid='ed2bd0cf-807e-4301-b895-8edb8657f37b', l='ServerLevel[world_nether]', x=-628.30, y=10.11, z=-136.01, cpos=[-40, -9], tl=12, v=true] died: Gilberto tried to swim in lava
-[03:56:01] [Server thread/INFO]: SoySander issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,CustomName:"\"Gilberto\"",CustomNameVisible:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:29},{Name:"generic.movementSpeed",Base:8.5f}],ExplosionRadius:8}
-[03:56:01] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
-[03:56:01] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
-[03:56:01] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
-[03:56:01] [Server thread/INFO]: [SoySander: Summoned new Gilberto]
-[03:56:03] [Server thread/INFO]: [LifeStealZ] Player XuterMC died!
-[03:56:03] [Server thread/INFO]: XuterMC was blown up by Gilberto
-[03:56:14] [Server thread/INFO]: SoySander issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,CustomName:"\"Gilberto\"",CustomNameVisible:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:29},{Name:"generic.movementSpeed",Base:8.5f}],ExplosionRadius:8}
-[03:56:14] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
-[03:56:14] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
-[03:56:14] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
-[03:56:14] [Server thread/INFO]: [SoySander: Summoned new Gilberto]
-[03:56:22] [Server thread/INFO]: Josues44 lost connection: Disconnected
-[03:56:22] [Server thread/INFO]: Josues44 left the game
-[03:56:35] [Async Chat Thread - #7/INFO]: <SoySander> LOS MATAN DE 1 HIT
-[03:56:38] [Server thread/INFO]: SoySander issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,CustomName:"\"Gilberto\"",CustomNameVisible:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:29},{Name:"generic.movementSpeed",Base:8.5f}],ExplosionRadius:8}
-[03:56:38] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
-[03:56:38] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
-[03:56:38] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
-[03:56:38] [Server thread/INFO]: [SoySander: Summoned new Gilberto]
-[03:56:42] [Server thread/INFO]: Named entity EntityCreeper['Gilberto'/21565, uuid='13b1a21d-0d84-4858-b42a-7fc281a5ffc2', l='ServerLevel[world]', x=-1514.07, y=71.00, z=1628.72, cpos=[-95, 101], tl=71, v=true] died: Gilberto was slain by Jeiker45
-[03:56:47] [Async Chat Thread - #7/INFO]: <XuterMC> no era un creeper por persona???
-[03:56:58] [Async Chat Thread - #7/INFO]: <SoySander> pueden spawnear varios
-[03:56:58] [Server thread/INFO]: XuterMC issued server command: /home al
-[03:57:02] [Async Chat Thread - #7/INFO]: <SoySander> depende de los ticks
-[03:57:10] [Server thread/INFO]: SoySander issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,CustomName:"\"Gilberto\"",CustomNameVisible:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:29},{Name:"generic.movementSpeed",Base:8.5f}],ExplosionRadius:8}
-[03:57:10] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
-[03:57:10] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
-[03:57:10] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
-[03:57:10] [Server thread/INFO]: [SoySander: Summoned new Gilberto]
-[03:57:11] [Server thread/INFO]: [LifeStealZ] Player supergokku__BL died!
-[03:57:11] [Server thread/INFO]: supergokku__BL was blown up by Gilberto
-[03:57:19] [Async Chat Thread - #7/INFO]: <supergokku__BL> 4
-[03:57:20] [Async Chat Thread - #7/INFO]: <Jeiker45> XD
-[03:57:22] [Async Chat Thread - #7/INFO]: <supergokku__BL> que mierda
-[03:57:23] [Async Chat Thread - #7/INFO]: <supergokku__BL> 4
-[03:57:24] [Async Chat Thread - #7/INFO]: <SoySander> XD?
-[03:57:26] [Async Chat Thread - #7/INFO]: <supergokku__BL> 4
-[03:57:28] [Async Chat Thread - #7/INFO]: <supergokku__BL> 4
-[03:57:31] [Async Chat Thread - #7/INFO]: <supergokku__BL> 4
-[03:57:31] [Async Chat Thread - #7/INFO]: <supergokku__BL> 4
-[03:57:31] [Async Chat Thread - #7/INFO]: <supergokku__BL> 4
-[03:57:32] [Async Chat Thread - #7/INFO]: <supergokku__BL> 4
-[03:57:32] [Async Chat Thread - #7/INFO]: <supergokku__BL> 4
-[03:57:32] [Async Chat Thread - #7/INFO]: <supergokku__BL> 4
-[03:57:32] [Async Chat Thread - #7/INFO]: <supergokku__BL> 4
-[03:57:33] [Async Chat Thread - #7/INFO]: <supergokku__BL> 4
-[03:57:33] [Async Chat Thread - #7/INFO]: <supergokku__BL> 4
-[03:57:33] [Async Chat Thread - #7/INFO]: <supergokku__BL> 4
-[03:57:34] [Async Chat Thread - #7/INFO]: <supergokku__BL> 4
-[03:57:34] [Async Chat Thread - #7/INFO]: <supergokku__BL> 4
-[03:57:34] [Async Chat Thread - #7/INFO]: <supergokku__BL> 4
-[03:57:34] [Async Chat Thread - #7/INFO]: <supergokku__BL> 4
-[03:57:34] [Server thread/INFO]: supergokku__BL lost connection: Kicked for spamming
-[03:57:34] [Server thread/INFO]: supergokku__BL left the game
-[03:57:44] [User Authenticator #5/INFO]: UUID of player Josues44 is be14b746-ebad-3897-ba51-0ecc152e8308
-[03:57:44] [Server thread/INFO]: Josues44 joined the game
-[03:57:44] [Server thread/INFO]: Josues44[/127.162.87.84:34587] logged in with entity id 22379 at ([world_nether]-649.0587657414652, 11.0, -156.69999998807907)
-[03:57:45] [User Authenticator #5/INFO]: UUID of player supergokku__BL is a0ca1217-835b-34d9-9dea-9fd786f32201
-[03:57:45] [Server thread/INFO]: supergokku__BL joined the game
-[03:57:45] [Server thread/INFO]: supergokku__BL[/127.242.187.230:49197] logged in with entity id 22408 at ([world]-2061.7464996790213, 72.0625, 1708.806100146376)
-[03:57:53] [Server thread/INFO]: supergokku__BL issued server command: /home casa
-[03:58:05] [Server thread/INFO]: SoySander issued server command: /coreprotect:co rollback radius: 40 action: block time: 10m
-[03:58:14] [Server thread/INFO]: Villager EntityVillager['Villager'/291, uuid='8dbdc62f-9610-47a7-ba3a-ae2850af6199', l='ServerLevel[world]', x=-5141.30, y=63.00, z=-1402.30, cpos=[-322, -88], tl=86041, v=true] died, message: 'Villager suffocated in a wall'
-[03:58:14] [Server thread/INFO]: Villager EntityVillager['Toolsmith'/288, uuid='753dae7b-71c1-4de2-863f-e2b3e055a043', l='ServerLevel[world]', x=-5145.30, y=62.00, z=-1406.84, cpos=[-322, -88], tl=85898, v=true] died, message: 'Toolsmith suffocated in a wall'
-[03:58:14] [Server thread/INFO]: Villager EntityVillager['Armorer'/287, uuid='8909c381-6c89-4585-a7c7-81c5f306c411', l='ServerLevel[world]', x=-5145.61, y=62.00, z=-1407.69, cpos=[-322, -88], tl=85825, v=true] died, message: 'Armorer suffocated in a wall'
-[03:58:15] [Server thread/INFO]: Villager EntityVillager['Fletcher'/290, uuid='e7918345-af1f-446f-a196-f0a067cedb31', l='ServerLevel[world]', x=-5146.24, y=63.00, z=-1407.82, cpos=[-322, -88], tl=86105, v=true] died, message: 'Fletcher suffocated in a wall'
-[03:58:15] [Server thread/INFO]: Villager EntityVillager['Fletcher'/289, uuid='cafbf34a-9bb8-4b58-9cac-948f4f27c194', l='ServerLevel[world]', x=-5136.36, y=63.00, z=-1410.75, cpos=[-322, -89], tl=85956, v=true] died, message: 'Fletcher suffocated in a wall'
-[03:58:15] [Server thread/INFO]: Villager EntityVillager['Fletcher'/292, uuid='f381ff9c-6c64-4d26-93d2-12ba9cd4b13c', l='ServerLevel[world]', x=-5137.57, y=62.00, z=-1410.70, cpos=[-322, -89], tl=86079, v=true] died, message: 'Fletcher suffocated in a wall'
-[03:58:15] [Server thread/INFO]: Villager EntityVillager['Fletcher'/293, uuid='b1c0f3cd-fcd2-40e9-af0d-fda4bbbd870f', l='ServerLevel[world]', x=-5136.70, y=62.00, z=-1411.48, cpos=[-322, -89], tl=86139, v=true] died, message: 'Fletcher suffocated in a wall'
-[03:58:19] [Async Chat Thread - #7/INFO]: <supergokku__BL> los aldeanos noioooooooooo
-[03:58:21] [Async Chat Thread - #7/INFO]: <supergokku__BL> forro
-[03:58:24] [Server thread/INFO]: [LifeStealZ] Player XuterMC died!
-[03:58:24] [Server thread/INFO]: XuterMC fell from a high place
-[03:58:34] [Server thread/INFO]: SoySander issued server command: /gamemode creative
-[03:58:34] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
-[03:58:42] [Server thread/INFO]: supergokku__BL lost connection: Disconnected
-[03:58:42] [Server thread/INFO]: supergokku__BL left the game
-[03:58:45] [Server thread/INFO]: Josues44 issued server command: /home 1
-[03:58:46] [Server thread/INFO]: XuterMC issued server command: /home al
-[03:58:57] [Server thread/INFO]: SoySander issued server command: /effect give SoySander minecraft:strength 9999 99
-[03:58:57] [Server thread/INFO]: [SoySander: Applied effect Strength to SoySander]
-[03:58:58] [Server thread/INFO]: Villager EntityVillager['Villager'/23224, uuid='c4c08747-ae46-4400-9c00-46a545062ce3', l='ServerLevel[world]', x=-5143.96, y=66.00, z=-1408.34, cpos=[-322, -89], tl=310, v=true] died, message: 'Villager was slain by SoySander'
-[03:58:59] [Server thread/INFO]: Villager EntityVillager['Villager'/23242, uuid='90719504-8249-44c2-afe5-caeaae8b0f30', l='ServerLevel[world]', x=-5144.51, y=66.00, z=-1409.70, cpos=[-322, -89], tl=311, v=true] died, message: 'Villager was slain by SoySander'
-[03:59:01] [Server thread/INFO]: Villager EntityVillager['Villager'/23205, uuid='0e35532d-c143-482f-abcf-d122b6823ad6', l='ServerLevel[world]', x=-5144.26, y=66.00, z=-1405.78, cpos=[-322, -88], tl=392, v=true] died, message: 'Villager was slain by SoySander'
-[03:59:04] [Server thread/INFO]: Villager EntityVillager['Villager'/23196, uuid='91b7fc24-19bb-4754-adb9-3a68aea24424', l='ServerLevel[world]', x=-5143.70, y=66.00, z=-1410.81, cpos=[-322, -89], tl=453, v=true] died, message: 'Villager was slain by SoySander'
-[03:59:05] [Server thread/INFO]: Villager EntityVillager['Villager'/23236, uuid='a5af3443-840a-4eb0-b3fa-5e08a1fb616b', l='ServerLevel[world]', x=-5139.13, y=66.00, z=-1409.87, cpos=[-322, -89], tl=427, v=true] died, message: 'Villager was slain by SoySander'
-[03:59:06] [Server thread/INFO]: Villager EntityVillager['Villager'/23176, uuid='b2b3d496-859b-494f-82fd-a79ece3f7910', l='ServerLevel[world]', x=-5136.67, y=66.56, z=-1412.49, cpos=[-322, -89], tl=513, v=true] died, message: 'Villager was slain by SoySander'
-[03:59:12] [Async Chat Thread - #7/INFO]: <Josues44> por?
-[03:59:12] [Async Chat Thread - #7/INFO]: <SoySander> ahi ta
-[03:59:21] [Async Chat Thread - #7/INFO]: <Josues44> q cosaaaaaaa
-[03:59:26] [Async Chat Thread - #7/INFO]: <SoySander> se supone q ya se termino y al men le spawneo uno en la jeta
-[03:59:27] [Async Chat Thread - #7/INFO]: <SoySander> XDDD
-[03:59:33] [Async Chat Thread - #7/INFO]: <SoySander> entonces exploto todo esto
-[03:59:43] [Async Chat Thread - #7/INFO]: <SoySander> y ps lo tuve q rollbackiar
-[03:59:45] [Async Chat Thread - #7/INFO]: <Josues44> te vi matando :/
-[03:59:49] [Async Chat Thread - #7/INFO]: <SoySander> pero se murieron asfixiados los aldeanos
-[03:59:52] [Async Chat Thread - #7/INFO]: <SoySander> pq puse de mas
-[03:59:53] [Async Chat Thread - #7/INFO]: <SoySander> pq puse de mas
-[03:59:58] [Async Chat Thread - #7/INFO]: <SoySander> y luego los puse de vuelta
-[04:00:07] [Async Chat Thread - #7/INFO]: <SoySander> tenias cuantos?
-[04:00:11] [Async Chat Thread - #7/INFO]: <Josues44> nono tu mataste aldeanos tu no un crepeer
-[04:00:14] [Server thread/INFO]: SoySander issued server command: /effect clear SoySander
-[04:00:14] [Server thread/INFO]: [SoySander: Removed every effect from SoySander]
-[04:00:21] [Async Chat Thread - #7/INFO]: <SoySander> nono
-[04:00:24] [Async Chat Thread - #7/INFO]: <SoySander> yo puse como 20
-[04:00:30] [Async Chat Thread - #7/INFO]: <SoySander> entonces los estaba matando
-[04:00:35] [Async Chat Thread - #7/INFO]: <Josues44> uy no eso esta feo
-[04:00:38] [Async Chat Thread - #7/INFO]: <SoySander> pq cuando se exploto todo se calleron
-[04:00:44] [Async Chat Thread - #7/INFO]: <SoySander> asi esta bien
-[04:00:46] [Async Chat Thread - #7/INFO]: <SoySander> o eran mas?
-[04:00:58] [Async Chat Thread - #7/INFO]: <Josues44> pero pq pones como 20 si solo es 1 por persona
-[04:01:12] [Async Chat Thread - #7/INFO]: <SoySander> no los pongo yo
-[04:01:17] [Async Chat Thread - #7/INFO]: <SoySander> yo nomas estoy espectando
-[04:01:18] [Async Chat Thread - #7/INFO]: <Josues44> qn los pone
-[04:01:23] [Async Chat Thread - #7/INFO]: <SoySander> un command block
-[04:01:34] [Async Chat Thread - #7/INFO]: <SoySander> con comparadores de redstone
-[04:01:35] [User Authenticator #6/INFO]: UUID of player un_randompro is 4f2ddd44-221e-3406-80eb-bdd38f185eca
-[04:01:35] [Server thread/INFO]: un_randompro joined the game
-[04:01:35] [Server thread/INFO]: un_randompro[/127.233.145.50:51193] logged in with entity id 24441 at ([world]-2061.7134369107566, 72.0625, 1709.292184979812)
-[04:01:40] [Async Chat Thread - #7/INFO]: <Josues44> ps programalo pq pone como 200
-[04:01:48] [Server thread/INFO]: Jeiker45 issued server command: /tpa un_randompro
-[04:02:06] [Async Chat Thread - #7/INFO]: <Josues44> o q ya no espawnee
-[04:02:11] [Server thread/INFO]: Jeiker45 issued server command: /tell SoySander tp al spawn
-[04:02:15] [Async Chat Thread - #7/INFO]: <SoySander> dile a el otro men q entre pa darle lo que perdio
-[04:02:17] [Server thread/INFO]: Jeiker45 issued server command: /tell SoySander pls
-[04:02:18] [Async Chat Thread - #7/INFO]: <SoySander> con el rollback
-[04:02:24] [Server thread/INFO]: SoySander issued server command: /msg Jeiker45 no anddo
-[04:02:39] [Async Chat Thread - #7/INFO]: <Josues44> se fue pq se molesto pq spawnearon 20 cripers
-[04:02:46] [Async Chat Thread - #7/INFO]: <un_randompro> tu q saber mred
-[04:02:49] [Server thread/INFO]: Jeiker45 issued server command: /tell SoySander eran -1700 1500
-[04:02:51] [Server thread/INFO]: Jeiker45 issued server command: /tell SoySander eran -1700 1500
-[04:02:56] [Async Chat Thread - #7/INFO]: <SoySander> No le spawnee 20
-[04:03:00] [Async Chat Thread - #7/INFO]: <SoySander> yo vi que le salio 1
-[04:03:01] [Async Chat Thread - #7/INFO]: <SoySander> xd
-[04:03:09] [Async Chat Thread - #7/INFO]: <Josues44> 1 cada 5 segundos
-[04:03:11] [Async Chat Thread - #7/INFO]: <un_randompro> 1 electrico y 3 creepers
-[04:03:24] [User Authenticator #7/INFO]: Disconnecting com.mojang.authlib.GameProfile@14a873c8[id=2fdec197-58fd-3a92-a8c9-336e26aeae55,name=SoySander,properties={},legacy=false] (/127.251.247.108:42941): [LoginSecurity] This player is already online!
-[04:03:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@14a873c8[id=2fdec197-58fd-3a92-a8c9-336e26aeae55,name=SoySander,properties={},legacy=false] (/127.251.247.108:42941) lost connection: [LoginSecurity] This player is already online!
-[04:03:26] [Server thread/INFO]: Jeiker45 issued server command: /tell un_randompro estas en el spawn
-[04:03:31] [Server thread/INFO]: un_randompro issued server command: /tell Jeiker45 si
-[04:03:32] [Server thread/INFO]: SoySander lost connection: Timed out
-[04:03:32] [Server thread/INFO]: SoySander left the game
-[04:03:37] [Server thread/INFO]: Jeiker45 issued server command: /tpa un_randompro
-[04:03:43] [Server thread/INFO]: Jeiker45 issued server command: /tell un_randompro acpecta
-[04:03:44] [Server thread/INFO]: un_randompro issued server command: /tpaccept
-[04:04:03] [User Authenticator #7/INFO]: UUID of player SoySander is 2fdec197-58fd-3a92-a8c9-336e26aeae55
-[04:04:03] [Server thread/INFO]: SoySander joined the game
-[04:04:03] [Server thread/INFO]: SoySander[/127.124.220.85:58169] logged in with entity id 25879 at ([world]-5146.819151544788, 71.79464783761998, -1407.2111959893912)
-[04:04:14] [Server thread/INFO]: SoySander issued server command: /tp Josues44
-[04:04:14] [Server thread/INFO]: [SoySander: Teleported SoySander to Josues44]
-[04:04:18] [Async Chat Thread - #8/INFO]: <SoySander> aja
-[04:04:22] [Async Chat Thread - #8/INFO]: <SoySander> ese men taba todo tiezo
-[04:04:26] [Async Chat Thread - #8/INFO]: <SoySander> lit lo vi en 4k
-[04:04:34] [Async Chat Thread - #8/INFO]: <SoySander> y le salio uno encima y se murio
-[04:04:39] [Async Chat Thread - #8/INFO]: <Josues44> pf
-[04:04:45] [Async Chat Thread - #8/INFO]: <un_randompro> a quien?
-[04:04:46] [Async Chat Thread - #8/INFO]: <SoySander> pero los bichos tienen un radio de explosion durisimo
-[04:04:51] [Async Chat Thread - #8/INFO]: <SoySander> a el super goku
-[04:04:54] [Async Chat Thread - #8/INFO]: <un_randompro> xD
-[04:04:59] [Async Chat Thread - #8/INFO]: <SoySander> josue
-[04:05:01] [Async Chat Thread - #8/INFO]: <SoySander> mira esto
-[04:05:14] [Async Chat Thread - #8/INFO]: <SoySander> Cometela c
-[04:05:15] [Async Chat Thread - #8/INFO]: <SoySander> Cometela c
-[04:05:20] [Async Chat Thread - #8/INFO]: <un_randompro> sander
-[04:05:26] [Async Chat Thread - #8/INFO]: <SoySander> Cometela c
-[04:05:28] [Async Chat Thread - #8/INFO]: <SoySander> Cometela o damela
-[04:05:28] [Server thread/INFO]: Jeiker45 issued server command: /home casa
-[04:05:31] [Server thread/INFO]: Jeiker45 lost connection: Disconnected
-[04:05:31] [Server thread/INFO]: Jeiker45 left the game
-[04:05:34] [Async Chat Thread - #8/INFO]: <un_randompro> me ases el experimento por el rango admin?
-[04:05:35] [Async Chat Thread - #8/INFO]: <un_randompro> sander
-[04:05:35] [Async Chat Thread - #8/INFO]: <un_randompro> me ases el experimento por el rango admin?
-[04:05:42] [Async Chat Thread - #8/INFO]: <un_randompro> quiero ser admin ya no jugador
-[04:05:48] [Async Chat Thread - #8/INFO]: <SoySander> no
-[04:05:50] [Async Chat Thread - #8/INFO]: <un_randompro> ok
-[04:05:55] [Async Chat Thread - #8/INFO]: <SoySander> pero solo admin???????
-[04:06:11] [Async Chat Thread - #8/INFO]: <SoySander> COMETELA
-[04:06:22] [Async Chat Thread - #8/INFO]: <Josues44> ya feliz?
-[04:06:42] [Async Chat Thread - #8/INFO]: <SoySander> haganse pa tras
-[04:06:49] [Server thread/INFO]: SoySander issued server command: /tp Josues44 SoySander
-[04:06:49] [Server thread/INFO]: [SoySander: Teleported Josues44 to SoySander]
-[04:07:00] [Server thread/INFO]: SoySander issued server command: /gamemode survival
-[04:07:00] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
-[04:07:01] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
-[04:07:01] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
-[04:07:01] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
-[04:07:01] [Server thread/INFO]: [@: Summoned new Gilberto]
-[04:07:02] [Async Chat Thread - #8/INFO]: <un_randompro> quien un pvp
-[04:07:04] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
-[04:07:04] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
-[04:07:07] [Server thread/INFO]: SoySander issued server command: /gamemode creative
-[04:07:07] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
-[04:07:08] [Async Chat Thread - #8/INFO]: <un_randompro> ando armadisimo
-[04:07:25] [Async Chat Thread - #8/INFO]: <Josues44> 5 fps vamosh
-[04:07:25] [Async Chat Thread - #8/INFO]: <un_randompro> quien un pvp
-[04:07:25] [Async Chat Thread - #8/INFO]: <un_randompro> ando armadisimo
-[04:07:28] [Async Chat Thread - #8/INFO]: <SoySander> ya vieron el rango de explosion?
-[04:07:33] [Async Chat Thread - #8/INFO]: <Josues44> si
-[04:07:37] [Async Chat Thread - #8/INFO]: <SoySander> no es q sean varios
-[04:07:38] [Async Chat Thread - #8/INFO]: <Josues44> y eso q
-[04:07:41] [Async Chat Thread - #8/INFO]: <SoySander> esq uno solo te jode
-[04:07:56] [Async Chat Thread - #8/INFO]: <un_randompro> quien un pvp
-[04:07:57] [Async Chat Thread - #8/INFO]: <un_randompro> ando armadisimo
-[04:08:00] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
-[04:08:00] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
-[04:08:10] [Server thread/INFO]: SoySander issued server command: /gamemode survival
-[04:08:10] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
-[04:08:20] [Server thread/INFO]: SoySander issued server command: /gamemode creative
-[04:08:20] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
-[04:09:00] [Server thread/INFO]: SoySander issued server command: /give SoySander minecraft:bedrock
-[04:09:00] [Server thread/INFO]: [SoySander: Gave 1 [Bedrock] to SoySander]
-[04:09:07] [Server thread/INFO]: XuterMC issued server command: /home al
-[04:09:12] [Server thread/INFO]: Josues44 issued server command: /home 1
-[04:09:37] [Server thread/INFO]: un_randompro has made the advancement [Sweet Dreams]
-[04:10:21] [Server thread/INFO]: Josues44 lost connection: Disconnected
-[04:10:21] [Server thread/INFO]: Josues44 left the game
-[04:12:07] [Async Chat Thread - #9/INFO]: <un_randompro> lag?
-[04:12:10] [Async Chat Thread - #9/INFO]: <SoySander> no
-[04:12:19] [Server thread/INFO]: un_randompro lost connection: Disconnected
-[04:12:19] [Server thread/INFO]: un_randompro left the game
-[04:12:30] [Server thread/INFO]: XuterMC lost connection: Disconnected
-[04:12:31] [Server thread/INFO]: XuterMC left the game
-[04:13:11] [User Authenticator #8/INFO]: UUID of player un_randompro is 4f2ddd44-221e-3406-80eb-bdd38f185eca
-[04:13:11] [Server thread/INFO]: un_randompro joined the game
-[04:13:11] [Server thread/INFO]: un_randompro[/127.233.145.50:47921] logged in with entity id 28937 at ([world]-2040.5, 73.0, 1719.5)
-[04:13:26] [Server thread/INFO]: SoySander issued server command: /tp un_randompro so
-[04:13:29] [Server thread/INFO]: SoySander issued server command: /tp un_randompro SoySander
-[04:13:29] [Server thread/INFO]: [SoySander: Teleported un_randompro to SoySander]
-[04:13:36] [Server thread/INFO]: SoySander issued server command: /gamemode creative un_randompro
-[04:13:36] [Server thread/INFO]: [SoySander: Set un_randompro's game mode to Creative Mode]
-[04:13:47] [Server thread/INFO]: SoySander issued server command: /op un_randompro
-[04:13:47] [Server thread/INFO]: [SoySander: Made un_randompro a server operator]
-[04:14:36] [User Authenticator #9/INFO]: UUID of player FantasmalKinger is 3b3940ea-164b-358b-a48b-f36e8814efb6
-[04:14:36] [Server thread/INFO]: FantasmalKinger joined the game
-[04:14:36] [Server thread/INFO]: FantasmalKinger[/127.17.33.166:36891] logged in with entity id 29116 at ([world]-2061.5, 72.0, 1708.5)
-[04:14:43] [Server thread/INFO]: un_randompro issued server command: /minecraft:advancement grant @a
-[04:14:44] [Async Chat Thread - #10/INFO]: <SoySander> hermano el realmente entro
-[04:14:45] [Server thread/INFO]: un_randompro issued server command: /minecraft:advancement grant @a everything
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [Who is Cutting Onions?]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [You've Got a Friend in Me]
-[04:14:45] [Server thread/INFO]: SoySander has completed the challenge [With Our Powers Combined!]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [Oh Shiny]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [Very Very Frightening]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [Whatever Floats Your Goat!]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [Surge Protector]
-[04:14:45] [Server thread/INFO]: SoySander has completed the challenge [A Furious Cocktail]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [Best Friends Forever]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [Glow and Behold!]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [Not Today, Thank You]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [When the Squad Hops into Town]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [Local Brewery]
-[04:14:45] [Server thread/INFO]: SoySander has reached the goal [The Next Generation]
-[04:14:45] [Server thread/INFO]: SoySander has completed the challenge [It Spreads]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [Fishy Business]
-[04:14:45] [Server thread/INFO]: SoySander has completed the challenge [Hot Tourist Destinations]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [Caves & Cliffs]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [This Boat Has Legs]
-[04:14:45] [Server thread/INFO]: SoySander has completed the challenge [Sniper Duel]
-[04:14:45] [Server thread/INFO]: SoySander has completed the challenge [Great View From Up Here]
-[04:14:45] [Server thread/INFO]: SoySander has completed the challenge [How Did We Get Here?]
-[04:14:45] [Server thread/INFO]: SoySander has completed the challenge [Bullseye]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [Spooky Scary Skeleton]
-[04:14:45] [Server thread/INFO]: SoySander has completed the challenge [Two by Two]
-[04:14:45] [Server thread/INFO]: SoySander has completed the challenge [Two Birds, One Arrow]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [Who's the Pillager Now?]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [Getting an Upgrade]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [Light as a Rabbit]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [Tactical Fishing]
-[04:14:45] [Server thread/INFO]: SoySander has reached the goal [Zombie Doctor]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [The City at the End of the Game]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [Remote Getaway]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [War Pigs]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [Total Beelocation]
-[04:14:45] [Server thread/INFO]: SoySander has completed the challenge [Arbalistic]
-[04:14:45] [Server thread/INFO]: SoySander has reached the goal [The End... Again...]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [Not Quite "Nine" Lives]
-[04:14:45] [Server thread/INFO]: SoySander has reached the goal [Sky's the Limit]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [Bukkit Bukkit]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [Wax Off]
-[04:14:45] [Server thread/INFO]: SoySander has reached the goal [Hired Help]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [Sneak 100]
-[04:14:45] [Server thread/INFO]: SoySander has completed the challenge [Return to Sender]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [Sweet Dreams]
-[04:14:45] [Server thread/INFO]: SoySander has reached the goal [You Need a Mint]
-[04:14:45] [Server thread/INFO]: SoySander has completed the challenge [Monsters Hunted]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [Eye Spy]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [Is It a Bird?]
-[04:14:45] [Server thread/INFO]: SoySander has completed the challenge [Serious Dedication]
-[04:14:45] [Server thread/INFO]: SoySander has completed the challenge [Adventuring Time]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [A Seedy Place]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [The Cutest Predator]
-[04:14:45] [Server thread/INFO]: SoySander has completed the challenge [Birthday Song]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [Is It a Plane?]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [Feels Like Home]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [Star Trader]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [Wax On]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [Sound of Music]
-[04:14:45] [Server thread/INFO]: SoySander has completed the challenge [Hero of the Village]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [Hidden in the Depths]
-[04:14:45] [Server thread/INFO]: SoySander has reached the goal [Beaconator]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [Withering Heights]
-[04:14:45] [Server thread/INFO]: SoySander has completed the challenge [A Balanced Diet]
-[04:14:45] [Server thread/INFO]: SoySander has completed the challenge [Subspace Bubble]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [Country Lode, Take Me Home]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [Bee Our Guest]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [What a Deal!]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [Is It a Balloon?]
-[04:14:45] [Server thread/INFO]: SoySander has completed the challenge [Uneasy Alliance]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [The Healing Power of Friendship!]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [A Terrible Fortress]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [A Throwaway Joke]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [Sticky Situation]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [Ol' Betsy]
-[04:14:45] [Server thread/INFO]: SoySander has completed the challenge [Cover Me in Debris]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [The End?]
-[04:14:45] [Server thread/INFO]: SoySander has made the advancement [The Parrots and the Bats]
-[04:14:45] [Server thread/INFO]: SoySander has completed the challenge [A Complete Catalogue]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [Who is Cutting Onions?]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [You've Got a Friend in Me]
-[04:14:45] [Server thread/INFO]: un_randompro has completed the challenge [With Our Powers Combined!]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [Oh Shiny]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [Very Very Frightening]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [Whatever Floats Your Goat!]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [Free the End]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [Surge Protector]
-[04:14:45] [Server thread/INFO]: un_randompro has completed the challenge [A Furious Cocktail]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [Best Friends Forever]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [Glow and Behold!]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [Bring Home the Beacon]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [When the Squad Hops into Town]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [Local Brewery]
-[04:14:45] [Server thread/INFO]: un_randompro has reached the goal [The Next Generation]
-[04:14:45] [Server thread/INFO]: un_randompro has completed the challenge [It Spreads]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [Fishy Business]
-[04:14:45] [Server thread/INFO]: un_randompro has completed the challenge [Hot Tourist Destinations]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [Caves & Cliffs]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [This Boat Has Legs]
-[04:14:45] [Server thread/INFO]: un_randompro has completed the challenge [Sniper Duel]
-[04:14:45] [Server thread/INFO]: un_randompro has completed the challenge [Great View From Up Here]
-[04:14:45] [Server thread/INFO]: un_randompro has completed the challenge [How Did We Get Here?]
-[04:14:45] [Server thread/INFO]: un_randompro has completed the challenge [Bullseye]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [Spooky Scary Skeleton]
-[04:14:45] [Server thread/INFO]: un_randompro has completed the challenge [Two by Two]
-[04:14:45] [Server thread/INFO]: un_randompro has completed the challenge [Two Birds, One Arrow]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [Who's the Pillager Now?]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [Light as a Rabbit]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [Tactical Fishing]
-[04:14:45] [Server thread/INFO]: un_randompro has reached the goal [Zombie Doctor]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [The City at the End of the Game]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [Remote Getaway]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [Into Fire]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [War Pigs]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [Take Aim]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [Total Beelocation]
-[04:14:45] [Server thread/INFO]: un_randompro has completed the challenge [Arbalistic]
-[04:14:45] [Server thread/INFO]: un_randompro has reached the goal [The End... Again...]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [Not Quite "Nine" Lives]
-[04:14:45] [Server thread/INFO]: un_randompro has reached the goal [Sky's the Limit]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [Bukkit Bukkit]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [Wax Off]
-[04:14:45] [Server thread/INFO]: un_randompro has reached the goal [Hired Help]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [Sneak 100]
-[04:14:45] [Server thread/INFO]: un_randompro has completed the challenge [Return to Sender]
-[04:14:45] [Server thread/INFO]: un_randompro has reached the goal [You Need a Mint]
-[04:14:45] [Server thread/INFO]: un_randompro has completed the challenge [Monsters Hunted]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [Voluntary Exile]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [Eye Spy]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [Is It a Bird?]
-[04:14:45] [Server thread/INFO]: un_randompro has completed the challenge [Serious Dedication]
-[04:14:45] [Server thread/INFO]: un_randompro has completed the challenge [Adventuring Time]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [A Seedy Place]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [Those Were the Days]
-[04:14:45] [Server thread/INFO]: un_randompro has completed the challenge [Birthday Song]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [Is It a Plane?]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [Feels Like Home]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [Star Trader]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [Wax On]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [Sound of Music]
-[04:14:45] [Server thread/INFO]: un_randompro has completed the challenge [Hero of the Village]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [Hidden in the Depths]
-[04:14:45] [Server thread/INFO]: un_randompro has reached the goal [Beaconator]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [Withering Heights]
-[04:14:45] [Server thread/INFO]: un_randompro has completed the challenge [A Balanced Diet]
-[04:14:45] [Server thread/INFO]: un_randompro has completed the challenge [Subspace Bubble]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [Country Lode, Take Me Home]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [Bee Our Guest]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [What a Deal!]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [Is It a Balloon?]
-[04:14:45] [Server thread/INFO]: un_randompro has completed the challenge [Uneasy Alliance]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [The Healing Power of Friendship!]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [A Terrible Fortress]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [A Throwaway Joke]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [Sticky Situation]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [Ol' Betsy]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [The End?]
-[04:14:45] [Server thread/INFO]: un_randompro has made the advancement [The Parrots and the Bats]
-[04:14:45] [Server thread/INFO]: un_randompro has completed the challenge [A Complete Catalogue]
-[04:14:45] [Server thread/INFO]: FantasmalKinger has made the advancement [Who is Cutting Onions?]
-[04:14:45] [Server thread/INFO]: FantasmalKinger has made the advancement [You've Got a Friend in Me]
-[04:14:45] [Server thread/INFO]: FantasmalKinger has completed the challenge [With Our Powers Combined!]
-[04:14:45] [Server thread/INFO]: FantasmalKinger has made the advancement [Oh Shiny]
-[04:14:45] [Server thread/INFO]: FantasmalKinger has made the advancement [Suit Up]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Very Very Frightening]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Hot Stuff]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Whatever Floats Your Goat!]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Free the End]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Surge Protector]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has completed the challenge [A Furious Cocktail]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Best Friends Forever]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Glow and Behold!]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Bring Home the Beacon]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Not Today, Thank You]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [When the Squad Hops into Town]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Isn't It Iron Pick]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Local Brewery]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has reached the goal [The Next Generation]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has completed the challenge [It Spreads]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Fishy Business]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has completed the challenge [Hot Tourist Destinations]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Caves & Cliffs]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [This Boat Has Legs]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has completed the challenge [Sniper Duel]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has completed the challenge [Great View From Up Here]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has completed the challenge [How Did We Get Here?]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has completed the challenge [Bullseye]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Spooky Scary Skeleton]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has completed the challenge [Two by Two]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Stone Age]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has completed the challenge [Two Birds, One Arrow]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [We Need to Go Deeper]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Who's the Pillager Now?]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Getting an Upgrade]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Light as a Rabbit]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Tactical Fishing]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has reached the goal [Zombie Doctor]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [The City at the End of the Game]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Ice Bucket Challenge]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Remote Getaway]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Into Fire]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [War Pigs]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Take Aim]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Total Beelocation]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has completed the challenge [Arbalistic]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has reached the goal [The End... Again...]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Acquire Hardware]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Not Quite "Nine" Lives]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Cover Me with Diamonds]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has reached the goal [Sky's the Limit]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Bukkit Bukkit]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Wax Off]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has reached the goal [Hired Help]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Sneak 100]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has completed the challenge [Return to Sender]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Sweet Dreams]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has reached the goal [You Need a Mint]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has completed the challenge [Monsters Hunted]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Enchanter]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Voluntary Exile]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Eye Spy]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Is It a Bird?]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has completed the challenge [Serious Dedication]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has reached the goal [Postmortal]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Monster Hunter]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has completed the challenge [Adventuring Time]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [A Seedy Place]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Those Were the Days]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [The Cutest Predator]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has completed the challenge [Birthday Song]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Is It a Plane?]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Feels Like Home]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Star Trader]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Wax On]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Sound of Music]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has completed the challenge [Hero of the Village]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Hidden in the Depths]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has reached the goal [Beaconator]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Withering Heights]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has completed the challenge [A Balanced Diet]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has completed the challenge [Subspace Bubble]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Country Lode, Take Me Home]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Bee Our Guest]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [What a Deal!]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Is It a Balloon?]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has completed the challenge [Uneasy Alliance]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Diamonds!]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [The Healing Power of Friendship!]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [A Terrible Fortress]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [A Throwaway Joke]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Sticky Situation]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [Ol' Betsy]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has completed the challenge [Cover Me in Debris]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [The End?]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has made the advancement [The Parrots and the Bats]
-[04:14:46] [Server thread/INFO]: FantasmalKinger has completed the challenge [A Complete Catalogue]
-[04:14:46] [Server thread/INFO]: [un_randompro: Granted 1179 advancements to 3 players]
-[04:14:50] [Async Chat Thread - #10/INFO]: <SoySander> ?
-[04:15:00] [Async Chat Thread - #10/INFO]: <SoySander> ?
-[04:15:01] [Async Chat Thread - #10/INFO]: <SoySander> hermano el realmente entro
-[04:15:01] [Async Chat Thread - #10/INFO]: <SoySander> hermano el realmente entro
-[04:15:01] [Async Chat Thread - #10/INFO]: <SoySander> hermano el realmente entrot
-[04:15:04] [Async Chat Thread - #10/INFO]: <SoySander> ?
-[04:15:04] [Async Chat Thread - #10/INFO]: <SoySander> ?
-[04:15:04] [Async Chat Thread - #10/INFO]: <SoySander> ?
-[04:15:04] [Async Chat Thread - #10/INFO]: <SoySander> ?
-[04:15:10] [Server thread/INFO]: SoySander issued server command: /tp FantasmalKinger
-[04:15:10] [Server thread/INFO]: [SoySander: Teleported SoySander to FantasmalKinger]
-[04:15:21] [Async Chat Thread - #10/INFO]: <FantasmalKinger> hola?
-[04:15:24] [Async Chat Thread - #10/INFO]: <FantasmalKinger> WTGG?
-[04:15:25] [Async Chat Thread - #10/INFO]: <un_randompro> f
-[04:15:27] [Async Chat Thread - #10/INFO]: <un_randompro> que ases
-[04:15:27] [Async Chat Thread - #10/INFO]: <FantasmalKinger> QUE MIERDA?
-[04:15:28] [Async Chat Thread - #10/INFO]: <un_randompro> aca
-[04:15:32] [Async Chat Thread - #10/INFO]: <un_randompro> ise un error
-[04:15:33] [Async Chat Thread - #10/INFO]: <un_randompro> soy crack
-[04:15:34] [Async Chat Thread - #10/INFO]: <un_randompro> dea
-[04:15:38] [Async Chat Thread - #10/INFO]: <FantasmalKinger> BROOO
-[04:15:41] [Async Chat Thread - #10/INFO]: <FantasmalKinger> PORQUE TENGO TANTOS LOGROOSSS
-[04:15:48] [Server thread/INFO]: SoySander issued server command: /tp un_randompro
-[04:15:48] [Server thread/INFO]: [SoySander: Teleported SoySander to un_randompro]
-[04:15:49] [Async Chat Thread - #10/INFO]: <FantasmalKinger> te ayudo con el voicechat?
-[04:15:56] [Async Chat Thread - #10/INFO]: <SoySander> dime q hacer
-[04:16:02] [Async Chat Thread - #10/INFO]: <SoySander> no te puedo dar acceso al voice
-[04:16:04] [Async Chat Thread - #10/INFO]: <FantasmalKinger> copia el puerto
-[04:16:06] [Async Chat Thread - #10/INFO]: <SoySander> pero con el plasmo
-[04:16:14] [User Authenticator #10/INFO]: UUID of player StarlordUY is 25b5aa45-6098-35be-873c-099f9744a636
-[04:16:14] [Server thread/INFO]: StarlordUY joined the game
-[04:16:14] [Server thread/INFO]: StarlordUY[/127.223.111.45:52685] logged in with entity id 29258 at ([world]-2061.5, 72.0, 1708.5)
-[04:16:15] [Async Chat Thread - #10/INFO]: <FantasmalKinger> copia el puerto
-[04:16:32] [Async Chat Thread - #10/INFO]: <StarlordUY> wnas
-[04:16:33] [Async Chat Thread - #10/INFO]: <FantasmalKinger> copia el puerto deL Server
-[04:16:37] [Async Chat Thread - #10/INFO]: <SoySander> wnas
-[04:16:39] [Async Chat Thread - #10/INFO]: <FantasmalKinger> starlord te voy a coger
-[04:16:42] [Async Chat Thread - #10/INFO]: <StarlordUY> no me maten recien entre
-[04:16:44] [Async Chat Thread - #10/INFO]: <StarlordUY> :(
-[04:16:46] [Async Chat Thread - #10/INFO]: <StarlordUY> :(
-[04:16:47] [Async Chat Thread - #10/INFO]: <SoySander> aviso q el pvp ya esta activo y se pueden matar
-[04:16:47] [Async Chat Thread - #10/INFO]: <StarlordUY> :(
-[04:16:48] [Async Chat Thread - #10/INFO]: <StarlordUY> :(
-[04:16:51] [Async Chat Thread - #10/INFO]: <SoySander> ahora solo es moral
-[04:16:52] [Async Chat Thread - #10/INFO]: <StarlordUY> pero
-[04:16:58] [Async Chat Thread - #10/INFO]: <StarlordUY> piedad...
-[04:16:58] [Server thread/INFO]: un_randompro issued server command: /tp un_randompro FantasmalKinger
-[04:16:58] [Server thread/INFO]: [un_randompro: Teleported un_randompro to FantasmalKinger]
-[04:17:03] [Async Chat Thread - #10/INFO]: <StarlordUY> no sean putos
-[04:17:17] [Async Chat Thread - #10/INFO]: <FantasmalKinger> graicasss
-[04:17:33] [Server thread/INFO]: un_randompro issued server command: /tp un_randompro StarlordUY
-[04:17:33] [Server thread/INFO]: [un_randompro: Teleported un_randompro to StarlordUY]
-[04:17:49] [Server thread/INFO]: un_randompro issued server command: /tp StarlordUY un_randompro
-[04:17:49] [Server thread/INFO]: [un_randompro: Teleported StarlordUY to un_randompro]
-[04:17:52] [Async Chat Thread - #10/INFO]: <StarlordUY> ay
-[04:17:57] [Async Chat Thread - #10/INFO]: <FantasmalKinger> starlor
-[04:17:58] [Server thread/INFO]: un_randompro issued server command: /tp StarlordUY un_randompro
-[04:17:58] [Server thread/INFO]: [un_randompro: Teleported StarlordUY to un_randompro]
-[04:17:59] [Server thread/INFO]: StarlordUY has made the advancement [Suit Up]
-[04:18:04] [Server thread/INFO]: StarlordUY has made the advancement [Isn't It Iron Pick]
-[04:18:15] [Server thread/INFO]: un_randompro issued server command: /tp un_randompro FantasmalKinger
-[04:18:15] [Server thread/INFO]: [un_randompro: Teleported un_randompro to FantasmalKinger]
-[04:18:27] [Async Chat Thread - #10/INFO]: <StarlordUY> tenia todo desconfigurado xd
-[04:18:31] [Async Chat Thread - #10/INFO]: <FantasmalKinger> starlord donde estas
-[04:18:32] [Async Chat Thread - #10/INFO]: <un_randompro> uuu
-[04:18:33] [Async Chat Thread - #10/INFO]: <SoySander> ?
-[04:18:36] [Async Chat Thread - #10/INFO]: <un_randompro> estan alado
-[04:18:36] [Async Chat Thread - #10/INFO]: <StarlordUY> i love you
-[04:18:58] [Async Chat Thread - #10/INFO]: <StarlordUY> hay keepinventory?
-[04:19:01] [Async Chat Thread - #10/INFO]: <SoySander> NO
-[04:19:01] [Async Chat Thread - #10/INFO]: <un_randompro> no
-[04:19:04] [Async Chat Thread - #10/INFO]: <StarlordUY> BIEN
-[04:19:23] [Async Chat Thread - #10/INFO]: <StarlordUY> si me encuentran no me ataquen
-[04:19:27] [Async Chat Thread - #10/INFO]: <StarlordUY> mejor besenme
-[04:19:30] [Async Chat Thread - #10/INFO]: <StarlordUY> xd
-[04:19:31] [Async Chat Thread - #10/INFO]: <un_randompro> solo esta FantasmalKinger
-[04:19:31] [Async Chat Thread - #10/INFO]: <SoySander> anotado
-[04:19:33] [Async Chat Thread - #10/INFO]: <un_randompro> corre si lo ves
-[04:19:41] [Async Chat Thread - #10/INFO]: <FantasmalKinger> no te quiero matar
-[04:19:44] [Server thread/INFO]: un_randompro issued server command: /tp un_randompro FantasmalKinger
-[04:19:44] [Server thread/INFO]: [un_randompro: Teleported un_randompro to FantasmalKinger]
-[04:19:53] [Async Chat Thread - #10/INFO]: <StarlordUY> FantasmalKinger yo era tu amigo en tu serv :(
-[04:20:00] [Server thread/INFO]: un_randompro issued server command: /tp un_randompro StarlordUY
-[04:20:00] [Server thread/INFO]: [un_randompro: Teleported un_randompro to StarlordUY]
-[04:20:00] [Async Chat Thread - #10/INFO]: <FantasmalKinger> era?
-[04:20:03] [Async Chat Thread - #10/INFO]: <StarlordUY> soy
-[04:20:09] [Async Chat Thread - #10/INFO]: <FantasmalKinger> aa ok asi si
-[04:20:13] [Async Chat Thread - #10/INFO]: <un_randompro> StarlordUY FantasmalKinger quieren aser pvp?
-[04:20:13] [Async Chat Thread - #10/INFO]: <StarlordUY> autocorrector xd
-[04:20:15] [Async Chat Thread - #10/INFO]: <un_randompro> StarlordUY FantasmalKinger quieren aser pvp?
-[04:20:18] [Async Chat Thread - #10/INFO]: <StarlordUY> no
-[04:20:18] [Async Chat Thread - #10/INFO]: <FantasmalKinger> dale
-[04:20:20] [Async Chat Thread - #10/INFO]: <StarlordUY> morire
-[04:20:28] [Async Chat Thread - #10/INFO]: <StarlordUY> toy con iron
-[04:20:36] [Async Chat Thread - #10/INFO]: <un_randompro> los dos tienen lo mismo
-[04:20:36] [Async Chat Thread - #10/INFO]: <FantasmalKinger> x2
-[04:20:40] [Async Chat Thread - #10/INFO]: <StarlordUY> pero
-[04:20:43] [Async Chat Thread - #10/INFO]: <StarlordUY> q gano?
-[04:20:45] [Async Chat Thread - #10/INFO]: <StarlordUY> morir
-[04:20:45] [Async Chat Thread - #10/INFO]: <FantasmalKinger> tpeame a el un_randompro
-[04:20:45] [Async Chat Thread - #10/INFO]: <FantasmalKinger> tpeame a el un_randompro
-[04:20:46] [Async Chat Thread - #10/INFO]: <FantasmalKinger> tpeame a el un_randompro
-[04:20:53] [Async Chat Thread - #10/INFO]: <un_randompro> existe el /tpa
-[04:20:58] [Server thread/INFO]: FantasmalKinger issued server command: /tpa StarlordUY
-[04:21:01] [Async Chat Thread - #10/INFO]: <FantasmalKinger> acepta
-[04:21:03] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
-[04:21:03] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
-[04:21:04] [Server thread/INFO]: SoySander issued server command: /gamemode survival
-[04:21:04] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
-[04:21:07] [Server thread/INFO]: SoySander issued server command: /gamemode creative
-[04:21:07] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
-[04:21:08] [Server thread/INFO]: StarlordUY issued server command: /tpaccept
-[04:21:12] [Server thread/INFO]: un_randompro issued server command: /effect give un_randompro minecraft:invisibility 9999
-[04:21:12] [Server thread/INFO]: [un_randompro: Applied effect Invisibility to un_randompro]
-[04:21:14] [Async Chat Thread - #10/INFO]: <StarlordUY> :D
-[04:21:20] [Server thread/INFO]: un_randompro issued server command: /tp un_randompro FantasmalKinger
-[04:21:20] [Server thread/INFO]: [un_randompro: Teleported un_randompro to FantasmalKinger]
-[04:21:29] [Async Chat Thread - #10/INFO]: <un_randompro> pvp?
-[04:21:36] [Async Chat Thread - #10/INFO]: <StarlordUY> te vi
-[04:21:37] [Async Chat Thread - #10/INFO]: <FantasmalKinger> si
-[04:21:38] [Async Chat Thread - #10/INFO]: <FantasmalKinger> si
-[04:21:42] [Async Chat Thread - #10/INFO]: <un_randompro> el que gane se gana algo op
-[04:21:42] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
-[04:21:42] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
-[04:21:42] [Async Chat Thread - #10/INFO]: <StarlordUY> no
-[04:21:44] [Server thread/INFO]: SoySander issued server command: /gamemode survival
-[04:21:44] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
-[04:21:53] [Server thread/INFO]: SoySander issued server command: /gamemode creative
-[04:21:53] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
-[04:21:54] [Async Chat Thread - #10/INFO]: <un_randompro> se devuelven coraz
-[04:22:10] [Server thread/INFO]: un_randompro issued server command: /tp un_randompro FantasmalKinger
-[04:22:10] [Server thread/INFO]: [un_randompro: Teleported un_randompro to FantasmalKinger]
-[04:22:24] [Async Chat Thread - #10/INFO]: <un_randompro> DALEEEE
-[04:22:26] [Server thread/INFO]: StarlordUY has reached the goal [Postmortal]
-[04:22:30] [Server thread/INFO]: [LifeStealZ] Player StarlordUY died!
-[04:22:30] [Server thread/INFO]: StarlordUY was slain by FantasmalKinger
-[04:22:32] [Async Chat Thread - #10/INFO]: <un_randompro> GG
-[04:22:33] [Async Chat Thread - #10/INFO]: <StarlordUY> miierda
-[04:22:34] [Async Chat Thread - #10/INFO]: <FantasmalKinger> gg
-[04:22:34] [Async Chat Thread - #10/INFO]: <StarlordUY> sabia
-[04:22:38] [Async Chat Thread - #10/INFO]: <FantasmalKinger> dale algo a starlord
-[04:22:40] [Async Chat Thread - #10/INFO]: <un_randompro> DEVUELVELE LAS COSAS
-[04:22:46] [Async Chat Thread - #10/INFO]: <StarlordUY> aldea xd
-[04:22:51] [Server thread/INFO]: un_randompro issued server command: /tp StarlordUY un_randompro
-[04:22:51] [Server thread/INFO]: [un_randompro: Teleported StarlordUY to un_randompro]
-[04:22:54] [Async Chat Thread - #10/INFO]: <StarlordUY> ay
-[04:22:55] [Server thread/INFO]: [LifeStealZ] Player StarlordUY died!
-[04:22:55] [Server thread/INFO]: StarlordUY was slain by FantasmalKinger
-[04:22:57] [Async Chat Thread - #10/INFO]: <StarlordUY> puto
-[04:22:57] [Async Chat Thread - #10/INFO]: <un_randompro> NOOO
-[04:22:59] [Async Chat Thread - #10/INFO]: <un_randompro> que ases
-[04:23:01] [Async Chat Thread - #10/INFO]: <StarlordUY> puto
-[04:23:01] [Async Chat Thread - #10/INFO]: <StarlordUY> puto
-[04:23:02] [Async Chat Thread - #10/INFO]: <StarlordUY> puto
-[04:23:02] [Async Chat Thread - #10/INFO]: <FantasmalKinger> que paso?
-[04:23:02] [Async Chat Thread - #10/INFO]: <StarlordUY> puto
-[04:23:03] [Async Chat Thread - #10/INFO]: <un_randompro> eso es tpa kill
-[04:23:07] [Async Chat Thread - #10/INFO]: <un_randompro> no lo mates
-[04:23:08] [Async Chat Thread - #10/INFO]: <FantasmalKinger> pero si yo no lo tepie
-[04:23:10] [Async Chat Thread - #10/INFO]: <un_randompro> devuelvele las cosas
-[04:23:12] [Server thread/INFO]: [LifeStealZ] Player StarlordUY died!
-[04:23:12] [Server thread/INFO]: StarlordUY fell from a high place
-[04:23:12] [Async Chat Thread - #10/INFO]: <un_randompro> devuelvele las cosas
-[04:23:13] [Async Chat Thread - #10/INFO]: <un_randompro> devuelvele las cosas
-[04:23:14] [Async Chat Thread - #10/INFO]: <StarlordUY> XD
-[04:23:14] [Async Chat Thread - #10/INFO]: <FantasmalKinger> ok
-[04:23:17] [Async Chat Thread - #10/INFO]: <StarlordUY> XD XD XD
-[04:23:19] [Async Chat Thread - #10/INFO]: <FantasmalKinger> pero dale las cosas tu
-[04:23:19] [Async Chat Thread - #10/INFO]: <FantasmalKinger> pero dale las cosas tu
-[04:23:19] [Async Chat Thread - #10/INFO]: <FantasmalKinger> pero dale las cosas tu
-[04:23:23] [Async Chat Thread - #10/INFO]: <FantasmalKinger> yo las gane
-[04:23:24] [Server thread/INFO]: un_randompro issued server command: /tp StarlordUY un_randompro
-[04:23:24] [Server thread/INFO]: [un_randompro: Teleported StarlordUY to un_randompro]
-[04:23:26] [Async Chat Thread - #10/INFO]: <un_randompro> no
-[04:23:31] [Async Chat Thread - #10/INFO]: <un_randompro> tu tienes las cosas de el
-[04:23:34] [Async Chat Thread - #10/INFO]: <un_randompro> lo matas ban
-[04:23:41] [Async Chat Thread - #10/INFO]: <un_randompro> lo matas ban
-[04:23:42] [Server thread/INFO]: un_randompro issued server command: /tp StarlordUY un_randompro
-[04:23:42] [Server thread/INFO]: [un_randompro: Teleported StarlordUY to un_randompro]
-[04:23:44] [Server thread/INFO]: un_randompro issued server command: /tp StarlordUY un_randompro
-[04:23:44] [Server thread/INFO]: [un_randompro: Teleported StarlordUY to un_randompro]
-[04:23:47] [Async Chat Thread - #10/INFO]: <un_randompro> no corras StarlordUY
-[04:23:48] [Server thread/INFO]: un_randompro issued server command: /tp StarlordUY un_randompro
-[04:23:48] [Server thread/INFO]: [un_randompro: Teleported StarlordUY to un_randompro]
-[04:23:51] [Async Chat Thread - #10/INFO]: <un_randompro> no corras StarlordUY
-[04:23:51] [Async Chat Thread - #10/INFO]: <un_randompro> no corras StarlordUY
-[04:23:51] [Async Chat Thread - #10/INFO]: <un_randompro> no corras StarlordUY
-[04:23:52] [Async Chat Thread - #10/INFO]: <StarlordUY> xd
-[04:23:54] [Server thread/INFO]: un_randompro issued server command: /tp StarlordUY un_randompro
-[04:23:54] [Server thread/INFO]: [un_randompro: Teleported StarlordUY to un_randompro]
-[04:24:07] [Async Chat Thread - #10/INFO]: <StarlordUY> xd
-[04:24:08] [Server thread/INFO]: un_randompro issued server command: /give StarlordUY minecraft:totem_of_undying
-[04:24:08] [Server thread/INFO]: [un_randompro: Gave 1 [Totem of Undying] to StarlordUY]
-[04:24:16] [Server thread/INFO]: un_randompro issued server command: /tp StarlordUY un_randompro
-[04:24:16] [Server thread/INFO]: [un_randompro: Teleported StarlordUY to un_randompro]
-[04:24:22] [Async Chat Thread - #10/INFO]: <StarlordUY> ?
-[04:24:22] [Async Chat Thread - #10/INFO]: <un_randompro> FantasmalKinger
-[04:24:23] [Async Chat Thread - #10/INFO]: <FantasmalKinger> me tengo que ir xd
-[04:24:25] [Async Chat Thread - #10/INFO]: <FantasmalKinger> o estare afk
-[04:24:27] [Async Chat Thread - #10/INFO]: <un_randompro> FantasmalKinger
-[04:24:28] [Async Chat Thread - #10/INFO]: <un_randompro> FantasmalKinger
-[04:24:31] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
-[04:24:31] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
-[04:24:33] [Async Chat Thread - #10/INFO]: <un_randompro> te voy a matar 2 veces
-[04:24:37] [Async Chat Thread - #10/INFO]: <un_randompro> por esos coraz
-[04:24:45] [Server thread/INFO]: un_randompro issued server command: /tp un_randompro FantasmalKinger
-[04:24:45] [Server thread/INFO]: [un_randompro: Teleported un_randompro to FantasmalKinger]
-[04:24:53] [Server thread/INFO]: SoySander issued server command: /withdrawheart 2 FantasmalKinger
-[04:24:57] [Server thread/INFO]: SoySander issued server command: /gamemode creative
-[04:24:57] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
-[04:25:02] [Server thread/INFO]: SoySander issued server command: /gamemode survival
-[04:25:02] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
-[04:25:05] [Async Chat Thread - #10/INFO]: <StarlordUY> estoy chikito e inofensivo
-[04:25:10] [Server thread/INFO]: un_randompro issued server command: /enchant un_randompro fi
-[04:25:10] [Server thread/INFO]: StarlordUY has made the advancement [Stone Age]
-[04:25:16] [Server thread/INFO]: SoySander issued server command: /lifestealz giveItem
-[04:25:19] [Server thread/INFO]: SoySander issued server command: /gamemode creative
-[04:25:19] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
-[04:25:20] [Async Chat Thread - #10/INFO]: <FantasmalKinger> qye hijo de pu
-[04:25:23] [Async Chat Thread - #10/INFO]: <SoySander> no fui yo
-[04:25:24] [Async Chat Thread - #10/INFO]: <StarlordUY> estoy chikito e inofensivo
-[04:25:29] [Async Chat Thread - #10/INFO]: <SoySander> fue random
-[04:25:31] [Async Chat Thread - #10/INFO]: <FantasmalKinger> naaah
-[04:25:31] [Async Chat Thread - #10/INFO]: <SoySander> esta invi
-[04:25:41] [Async Chat Thread - #10/INFO]: <FantasmalKinger> que cosa
-[04:25:46] [Server thread/INFO]: SoySander issued server command: /lifestealz giveItem SoySander defaultheart
-[04:25:48] [Server thread/INFO]: un_randompro issued server command: /give @a minecraft:milk_bucket
-[04:25:48] [Server thread/INFO]: [un_randompro: Gave 1 [Milk Bucket] to 4]
-[04:25:57] [Server thread/INFO]: SoySander issued server command: /gamerule keepInventory true
-[04:25:57] [Server thread/INFO]: [SoySander: Gamerule keepInventory is now set to: true]
-[04:26:02] [Server thread/INFO]: SoySander issued server command: /kill FantasmalKinger
-[04:26:02] [Server thread/INFO]: [LifeStealZ] Player FantasmalKinger died!
-[04:26:02] [Server thread/INFO]: FantasmalKinger fell out of the world
-[04:26:02] [Server thread/INFO]: [SoySander: Killed FantasmalKinger]
-[04:26:04] [Server thread/INFO]: SoySander issued server command: /kill FantasmalKinger
-[04:26:04] [Server thread/INFO]: [LifeStealZ] Player FantasmalKinger died!
-[04:26:04] [Server thread/INFO]: FantasmalKinger fell out of the world
-[04:26:04] [Server thread/INFO]: [SoySander: Killed FantasmalKinger]
-[04:26:06] [Async Chat Thread - #10/INFO]: <StarlordUY> xd?
-[04:26:07] [Async Chat Thread - #10/INFO]: <FantasmalKinger> QUEEE
-[04:26:08] [Server thread/INFO]: SoySander issued server command: /tp FantasmalKinger SoySander
-[04:26:08] [Server thread/INFO]: [SoySander: Teleported FantasmalKinger to SoySander]
-[04:26:14] [Async Chat Thread - #10/INFO]: <SoySander> tenias 2 coras de mas
-[04:26:15] [Async Chat Thread - #10/INFO]: <StarlordUY> q le paso
-[04:26:15] [Async Chat Thread - #10/INFO]: <FantasmalKinger> Mis corass
-[04:26:16] [Async Chat Thread - #10/INFO]: <SoySander> segun random
-[04:26:27] [Async Chat Thread - #10/INFO]: <FantasmalKinger> pero si tu quisiste pvpearle
-[04:26:31] [Async Chat Thread - #10/INFO]: <un_randompro> dije
-[04:26:33] [Async Chat Thread - #10/INFO]: <FantasmalKinger> dame un cora
-[04:26:34] [Async Chat Thread - #10/INFO]: <un_randompro> devolver coraz
-[04:26:39] [Async Chat Thread - #10/INFO]: <un_randompro> y toma tu cosa op
-[04:26:40] [Async Chat Thread - #10/INFO]: <FantasmalKinger> Pero dijiste que hibas a dar cosas op
-[04:26:49] [Async Chat Thread - #10/INFO]: <StarlordUY> pq lo mataron?
-[04:27:01] [Async Chat Thread - #10/INFO]: <FantasmalKinger> como que 2 diamonds
-[04:27:03] [Async Chat Thread - #10/INFO]: <SoySander> pq sabia mucho
-[04:27:09] [Server thread/INFO]: un_randompro issued server command: /give un_randompro minecraft:heart_of_the_sea
-[04:27:09] [Server thread/INFO]: [un_randompro: Gave 1 [Heart of the Sea] to un_randompro]
-[04:27:12] [Async Chat Thread - #10/INFO]: <FantasmalKinger> toma estos 2 diamonds y dame mis 2 coras
-[04:27:15] [Server thread/INFO]: un_randompro issued server command: /give un_randompro minecraft:heavy_weighted_pressure_plate
-[04:27:15] [Server thread/INFO]: [un_randompro: Gave 1 [Heavy Weighted Pressure Plate] to un_randompro]
-[04:27:17] [Server thread/INFO]: SoySander issued server command: /msg FantasmalKinger dejalo asi yo ahorita te doy algo
-[04:27:23] [Server thread/INFO]: FantasmalKinger issued server command: /msg SoySander ok
-[04:27:31] [Async Chat Thread - #10/INFO]: <StarlordUY> yo nunca acepte el pvp
-[04:27:32] [Async Chat Thread - #10/INFO]: <FantasmalKinger> enpe de mno
-[04:27:36] [Async Chat Thread - #10/INFO]: <FantasmalKinger> pero random si
-[04:27:48] [Server thread/INFO]: SoySander issued server command: /gamemode survival
-[04:27:48] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
-[04:27:49] [Async Chat Thread - #10/INFO]: <StarlordUY> pero nunca dije q si :( random me caes mal ahora
-[04:27:51] [Server thread/INFO]: SoySander issued server command: /gamemode creative
-[04:27:51] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
-[04:27:55] [Async Chat Thread - #10/INFO]: <un_randompro> star
-[04:27:57] [Async Chat Thread - #10/INFO]: <StarlordUY> q
-[04:28:01] [Async Chat Thread - #10/INFO]: <un_randompro> te voy a devolver los coraz
-[04:28:01] [Server thread/INFO]: SoySander issued server command: /tp un_randompro
-[04:28:01] [Server thread/INFO]: [SoySander: Teleported SoySander to un_randompro]
-[04:28:07] [Server thread/INFO]: FantasmalKinger issued server command: /msg SoySander eres el mejor te ayudo con lo del voicechat?
-[04:28:17] [Server thread/INFO]: SoySander issued server command: /msg FantasmalKinger no creo ahorita
-[04:28:24] [Server thread/INFO]: SoySander issued server command: /effect give SoySander minecraft:speed 1111 99
-[04:28:24] [Server thread/INFO]: [SoySander: Applied effect Speed to SoySander]
-[04:28:30] [Server thread/INFO]: SoySander issued server command: /tp un_randompro
-[04:28:30] [Server thread/INFO]: [SoySander: Teleported SoySander to un_randompro]
-[04:28:32] [Server thread/INFO]: SoySander issued server command: /gamemode survival
-[04:28:32] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
-[04:28:32] [Server thread/INFO]: un_randompro issued server command: /clone
-[04:28:34] [Server thread/INFO]: un_randompro issued server command: /clone
-[04:28:43] [Server thread/INFO]: un_randompro issued server command: /clone ~ ~ ~ ~ ~ ~ xd
-[04:28:57] [Server thread/INFO]: un_randompro issued server command: /gamemode survival
-[04:28:57] [Server thread/INFO]: [un_randompro: Set own game mode to Survival Mode]
-[04:28:57] [Async Chat Thread - #10/INFO]: <FantasmalKinger> voy a jugar deluxe
-[04:28:58] [Server thread/INFO]: un_randompro issued server command: /gamemode creative
-[04:28:58] [Server thread/INFO]: [un_randompro: Set own game mode to Creative Mode]
-[04:28:58] [Async Chat Thread - #10/INFO]: <FantasmalKinger> mentira
-[04:29:04] [Async Chat Thread - #10/INFO]: <StarlordUY> xd q es eso
-[04:29:04] [Async Chat Thread - #10/INFO]: <FantasmalKinger> esta on el nether'
-[04:29:08] [Async Chat Thread - #10/INFO]: <StarlordUY> ns
-[04:29:09] [Async Chat Thread - #10/INFO]: <SoySander> si
-[04:29:12] [Async Chat Thread - #10/INFO]: <FantasmalKinger> epik
-[04:29:13] [Async Chat Thread - #10/INFO]: <SoySander> pero no netherite
-[04:29:14] [Async Chat Thread - #10/INFO]: <FantasmalKinger> a farmear
-[04:29:16] [Server thread/INFO]: un_randompro issued server command: /gamemode survival
-[04:29:16] [Server thread/INFO]: [un_randompro: Set own game mode to Survival Mode]
-[04:29:17] [Async Chat Thread - #10/INFO]: <FantasmalKinger> a no :(
-[04:29:19] [Server thread/INFO]: un_randompro issued server command: /kill
-[04:29:19] [Server thread/INFO]: [LifeStealZ] Player un_randompro died!
-[04:29:19] [Server thread/INFO]: un_randompro fell out of the world
-[04:29:19] [Server thread/INFO]: [un_randompro: Killed un_randompro]
-[04:29:21] [Server thread/INFO]: un_randompro issued server command: /back
-[04:29:28] [Async Chat Thread - #10/INFO]: <StarlordUY> esta permitido el dymond? osea la armor?
-[04:29:29] [Server thread/INFO]: un_randompro issued server command: /gamemode creative
-[04:29:29] [Server thread/INFO]: [un_randompro: Set own game mode to Creative Mode]
-[04:29:33] [Server thread/INFO]: SoySander issued server command: /gamemode creative
-[04:29:33] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
-[04:29:39] [Server thread/INFO]: SoySander issued server command: /gamemode survival
-[04:29:39] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
-[04:30:01] [Server thread/INFO]: SoySander issued server command: /lifestealz:hearts SoySander 1
-[04:30:02] [Server thread/WARN]: SoySander moved wrongly!
-[04:30:16] [Server thread/INFO]: un_randompro issued server command: /stack
-[04:30:16] [Server thread/INFO]: SoySander issued server command: /lifestealz:lsz giveItem SoySander defaultheart
-[04:30:17] [Server thread/INFO]: un_randompro issued server command: /stack 1
-[04:30:20] [Server thread/INFO]: un_randompro issued server command: /stack
-[04:30:24] [Async Chat Thread - #10/INFO]: <StarlordUY> apenas empeze y perdi 3 corazones xddddddd
-[04:30:34] [Server thread/INFO]: SoySander issued server command: /gamemode creative
-[04:30:34] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
-[04:30:44] [Async Chat Thread - #10/INFO]: <StarlordUY> pendejo no duraa nada
-[04:30:59] [Async Chat Thread - #10/INFO]: <FantasmalKinger> put
-[04:31:11] [Server thread/INFO]: un_randompro issued server command: /tp un_randompro StarlordUY
-[04:31:11] [Server thread/INFO]: [un_randompro: Teleported un_randompro to StarlordUY]
-[04:31:12] [Async Chat Thread - #10/INFO]: <FantasmalKinger> t ese hacker
-[04:31:15] [Async Chat Thread - #10/INFO]: <StarlordUY> me asustaste
-[04:31:17] [Async Chat Thread - #10/INFO]: <FantasmalKinger> -rreport
-[04:31:24] [Async Chat Thread - #10/INFO]: <StarlordUY> q es esta kosa
-[04:31:32] [Server thread/INFO]: un_randompro issued server command: /kill
-[04:31:32] [Server thread/INFO]: [LifeStealZ] Player un_randompro died!
-[04:31:32] [Server thread/INFO]: un_randompro fell out of the world
-[04:31:32] [Server thread/INFO]: [un_randompro: Killed un_randompro]
-[04:31:39] [Server thread/INFO]: un_randompro issued server command: /tp SoySander un_randompro
-[04:31:39] [Server thread/INFO]: [un_randompro: Teleported SoySander to un_randompro]
-[04:31:46] [Server thread/INFO]: un_randompro lost connection: Disconnected
-[04:31:46] [Server thread/INFO]: un_randompro left the game
-[04:32:28] [Async Chat Thread - #11/INFO]: <StarlordUY> ta permitida la armor de diamante?
-[04:32:28] [Server thread/INFO]: SoySander issued server command: /effect clear SoySander
-[04:32:28] [Server thread/INFO]: [SoySander: Removed every effect from SoySander]
-[04:32:34] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
-[04:32:34] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
-[04:32:43] [Server thread/INFO]: SoySander issued server command: /gamemode survival
-[04:32:43] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
-[04:33:05] [Server thread/INFO]: StarlordUY has made the advancement [Monster Hunter]
-[04:33:36] [Async Chat Thread - #12/INFO]: <SoySander> no me hago responsables si los mato
-[04:33:41] [Async Chat Thread - #12/INFO]: <StarlordUY> ?
-[04:33:45] [Async Chat Thread - #12/INFO]: <FantasmalKinger> Pvp sander
-[04:33:46] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
-[04:33:46] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
-[04:33:51] [Server thread/INFO]: SoySander issued server command: /tp FantasmalKinger
-[04:33:51] [Server thread/INFO]: [SoySander: Teleported SoySander to FantasmalKinger]
-[04:33:52] [Async Chat Thread - #12/INFO]: <StarlordUY> vi a alguien
-[04:33:52] [Async Chat Thread - #12/INFO]: <FantasmalKinger> si me ganas te doy los 5 totems que me diste
-[04:33:58] [Server thread/INFO]: SoySander issued server command: /gamemode survival
-[04:33:58] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
-[04:34:01] [Server thread/INFO]: SoySander issued server command: /tpa FantasmalKinger
-[04:34:03] [Server thread/INFO]: FantasmalKinger issued server command: /tpaccept
-[04:34:10] [Async Chat Thread - #12/INFO]: <FantasmalKinger> si yo gano me das 5 totems mas
-[04:34:11] [Async Chat Thread - #12/INFO]: <StarlordUY> ta permitida la armor de diamante?!
-[04:34:13] [Async Chat Thread - #12/INFO]: <FantasmalKinger> a la mierda
-[04:34:14] [Async Chat Thread - #12/INFO]: <SoySander> si
-[04:34:16] [Async Chat Thread - #12/INFO]: <StarlordUY> ok
-[04:34:19] [Async Chat Thread - #12/INFO]: <SoySander> dale `sa
-[04:34:24] [Async Chat Thread - #12/INFO]: <StarlordUY> peren ya vengo
-[04:34:25] [Server thread/INFO]: StarlordUY lost connection: Disconnected
-[04:34:25] [Server thread/INFO]: StarlordUY left the game
-[04:35:10] [Server thread/INFO]: [LifeStealZ] Player FantasmalKinger died!
-[04:35:10] [Server thread/INFO]: FantasmalKinger was slain by SoySander
-[04:35:12] [Async Chat Thread - #12/INFO]: <FantasmalKinger> gg
-[04:35:15] [Async Chat Thread - #12/INFO]: <SoySander> gg
-[04:35:22] [Async Chat Thread - #12/INFO]: <SoySander> ya me quedo con tu cora pq los popiaste todos
-[04:35:28] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
-[04:35:28] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
-[04:35:35] [Server thread/INFO]: SoySander issued server command: /gamemode survival
-[04:35:35] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
-[04:35:40] [Server thread/INFO]: SoySander issued server command: /delhome spawn
-[04:35:41] [Async Chat Thread - #12/INFO]: <FantasmalKinger> bueno me ganaste porque tienes diamante
-[04:35:44] [Server thread/INFO]: SoySander issued server command: /sethome spawn
-[04:35:53] [Async Chat Thread - #12/INFO]: <SoySander> tu no dijiste nada xd
-[04:36:03] [Async Chat Thread - #12/INFO]: <FantasmalKinger> obviamente que no
-[04:36:06] [Async Chat Thread - #12/INFO]: <FantasmalKinger> no soy lloron
-[04:36:10] [Server thread/INFO]: SoySander issued server command: /tp -1520 ~ 1664
-[04:36:10] [Server thread/INFO]: [SoySander: Teleported SoySander to -1519.500000, 72.000000, 1664.500000]
-[04:36:12] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
-[04:36:12] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
-[04:36:15] [Server thread/INFO]: SoySander issued server command: /gamemode survival
-[04:36:15] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
-[04:36:19] [Server thread/INFO]: SoySander issued server command: /sethome aldea
-[04:36:19] [Async Chat Thread - #12/INFO]: <FantasmalKinger> otro pvp
-[04:36:23] [Async Chat Thread - #12/INFO]: <FantasmalKinger> pero esta vez con mi kit
-[04:36:24] [Async Chat Thread - #12/INFO]: <SoySander> despues
-[04:36:28] [User Authenticator #11/INFO]: UUID of player StarlordUY is 25b5aa45-6098-35be-873c-099f9744a636
-[04:36:28] [Server thread/INFO]: StarlordUY joined the game
-[04:36:28] [Server thread/INFO]: StarlordUY[/127.223.111.45:52977] logged in with entity id 36985 at ([world]-1557.1663956456005, 77.0, 1328.1794363208842)
-[04:36:31] [Server thread/INFO]: SoySander issued server command: /tp 1664 ~ 2512
-[04:36:31] [Server thread/INFO]: [SoySander: Teleported SoySander to 1664.500000, 72.000000, 2512.500000]
-[04:36:36] [Server thread/WARN]: SoySander was kicked for floating too long!
-[04:36:36] [Server thread/INFO]: SoySander lost connection: Flying is not enabled on this server
-[04:36:37] [Server thread/INFO]: SoySander left the game
-[04:36:44] [Async Chat Thread - #12/INFO]: <StarlordUY> pq se van
-[04:36:59] [User Authenticator #11/INFO]: UUID of player SoySander is 2fdec197-58fd-3a92-a8c9-336e26aeae55
-[04:37:00] [Server thread/INFO]: SoySander joined the game
-[04:37:00] [Server thread/INFO]: SoySander[/127.251.247.108:56483] logged in with entity id 37308 at ([world]1664.5, 71.8447679954834, 2512.5)
-[04:37:07] [Server thread/INFO]: StarlordUY has made the advancement [Getting an Upgrade]
-[04:37:24] [Async Chat Thread - #12/INFO]: <FantasmalKinger> otro pvp
-[04:37:26] [Async Chat Thread - #12/INFO]: <FantasmalKinger> otro pvp
-[04:37:26] [User Authenticator #11/INFO]: UUID of player SoySander is 2fdec197-58fd-3a92-a8c9-336e26aeae55
-[04:37:26] [Async Chat Thread - #12/INFO]: <FantasmalKinger> otro pvp
-[04:37:26] [Server thread/INFO]: SoySander lost connection: You logged in from another location
-[04:37:26] [Server thread/INFO]: SoySander left the game
-[04:37:26] [Server thread/INFO]: SoySander joined the game
-[04:37:26] [Server thread/INFO]: SoySander[/127.87.61.29:51427] logged in with entity id 37709 at ([world]1664.5, 70.0, 2512.5)
-[04:37:26] [Async Chat Thread - #12/INFO]: <FantasmalKinger> otro pvp
-[04:37:27] [Async Chat Thread - #12/INFO]: <FantasmalKinger> otro pvp
-[04:37:27] [Async Chat Thread - #12/INFO]: <FantasmalKinger> otro pvp
-[04:37:27] [Async Chat Thread - #12/INFO]: <FantasmalKinger> otro pvp
-[04:37:27] [Async Chat Thread - #12/INFO]: <FantasmalKinger> otro pvp
-[04:37:28] [Async Chat Thread - #12/INFO]: <FantasmalKinger> otro pvp
-[04:37:29] [Async Chat Thread - #12/INFO]: <StarlordUY> yo?
-[04:37:32] [Async Chat Thread - #12/INFO]: <FantasmalKinger> si
-[04:37:34] [Async Chat Thread - #12/INFO]: <FantasmalKinger> mentira
-[04:37:35] [Server thread/INFO]: SoySander issued server command: /tellraw @a {"text":"El Dia Acaba en 10 Minutos","color":"gold"}
-[04:37:35] [Async Chat Thread - #12/INFO]: <StarlordUY> no
-[04:37:36] [Async Chat Thread - #12/INFO]: <FantasmalKinger> contra sander
-[04:37:38] [Async Chat Thread - #12/INFO]: <StarlordUY> NOO
-[04:37:41] [Async Chat Thread - #12/INFO]: <StarlordUY> AENAS ENTRE
-[04:37:45] [Async Chat Thread - #12/INFO]: <FantasmalKinger> pero esta vez con mi mismo kit
-[04:37:52] [Server thread/INFO]: SoySander issued server command: /simplehomes:home reload
-[04:38:00] [Async Chat Thread - #12/INFO]: <SoySander> no quiero
-[04:38:06] [Async Chat Thread - #12/INFO]: <SoySander> mañana
-[04:38:07] [Async Chat Thread - #12/INFO]: <SoySander> ando ocupado
-[04:38:48] [Server thread/INFO]: StarlordUY has made the advancement [Acquire Hardware]
-[04:39:46] [Async Chat Thread - #13/INFO]: <FantasmalKinger> pvp sander
-[04:39:49] [Async Chat Thread - #13/INFO]: <SoySander> q no
-[04:40:03] [Async Chat Thread - #13/INFO]: <SoySander> si te hago pvp es pq te encontre y te voy a matar
-[04:41:01] [Server thread/INFO]: SoySander issued server command: /gamemode creative
-[04:41:01] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
-[04:41:16] [Async Chat Thread - #14/INFO]: <FantasmalKinger> pvp sander
-[04:41:24] [Async Chat Thread - #14/INFO]: <StarlordUY> PESADO Q NO T DIJO XDD
-[04:41:27] [Async Chat Thread - #14/INFO]: <FantasmalKinger> pvp sander
-[04:41:31] [Async Chat Thread - #14/INFO]: <StarlordUY> jajaja
-[04:41:32] [Async Chat Thread - #14/INFO]: <FantasmalKinger> pero con el mismo kit que yo
-[04:41:41] [Async Chat Thread - #14/INFO]: <FantasmalKinger> porque andabas full prote 1 con full diamond
-[04:41:46] [Async Chat Thread - #14/INFO]: <FantasmalKinger> y yo con hierro
-[04:42:24] [Server thread/INFO]: SoySander issued server command: /tellraw @a {"text":"El Dia Acaba en 5 Minutos","color":"gold"}
-[04:42:31] [Async Chat Thread - #14/INFO]: <FantasmalKinger> pvp sander
-[04:42:31] [Async Chat Thread - #14/INFO]: <FantasmalKinger> pvp sander
-[04:42:32] [Async Chat Thread - #14/INFO]: <FantasmalKinger> pvp sander
-[04:42:32] [Async Chat Thread - #14/INFO]: <FantasmalKinger> pvp sander
-[04:42:32] [Async Chat Thread - #14/INFO]: <FantasmalKinger> pvp sander
-[04:42:44] [Async Chat Thread - #14/INFO]: <SoySander> QUE NO CARAJO
-[04:42:46] [Async Chat Thread - #14/INFO]: <SoySander> estoy ocupado
-[04:43:06] [Async Chat Thread - #14/INFO]: <StarlordUY> OMG
-[04:43:08] [Server thread/INFO]: StarlordUY has made the advancement [Diamonds!]
-[04:43:11] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
-[04:43:11] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
-[04:43:57] [Async Chat Thread - #14/INFO]: <SoySander> afk
-[04:43:57] [Async Chat Thread - #14/INFO]: <StarlordUY> No se done ir
-[04:44:01] [Async Chat Thread - #14/INFO]: <SoySander> afk
-[04:44:01] [Async Chat Thread - #14/INFO]: <SoySander> afk
-[04:44:01] [Async Chat Thread - #14/INFO]: <SoySander> afk
-[04:44:02] [Async Chat Thread - #14/INFO]: <SoySander> afk
-[04:44:02] [Async Chat Thread - #14/INFO]: <SoySander> afk
-[04:44:02] [Async Chat Thread - #14/INFO]: <SoySander> afk
-[04:44:05] [Async Chat Thread - #14/INFO]: <StarlordUY> OK
-[04:44:16] [Async Chat Thread - #14/INFO]: <StarlordUY> Pq esta en espectador SoySander? xd
-[04:44:49] [Async Chat Thread - #14/INFO]: <StarlordUY> mi mesa?
-[04:44:56] [Async Chat Thread - #14/INFO]: <StarlordUY> ay kbron
-[04:45:14] [Server thread/INFO]: SoySander issued server command: /effect give SoySander minecraft:invisibility 9999 99 true
-[04:45:14] [Server thread/INFO]: [SoySander: Applied effect Invisibility to SoySander]
-[04:45:16] [Server thread/INFO]: SoySander issued server command: /gamemode creative
-[04:45:16] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
-[04:45:25] [Async Chat Thread - #14/INFO]: <StarlordUY> k onda
-[04:45:33] [Async Chat Thread - #14/INFO]: <StarlordUY> miera
-[04:45:38] [Async Chat Thread - #14/INFO]: <StarlordUY> ey
-[04:45:40] [Async Chat Thread - #14/INFO]: <StarlordUY> mi mesa
-[04:45:46] [Async Chat Thread - #14/INFO]: <StarlordUY> si
-[04:45:51] [Async Chat Thread - #14/INFO]: <SoySander> b a i l a
-[04:46:23] [Async Chat Thread - #14/INFO]: <StarlordUY> opa
-[04:46:26] [Async Chat Thread - #14/INFO]: <SoySander> ya me voy
-[04:46:28] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
-[04:46:28] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
-[04:46:31] [Async Chat Thread - #14/INFO]: <StarlordUY> bye
-[04:46:32] [Server thread/INFO]: SoySander issued server command: /gamemode creative
-[04:46:32] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
-[04:46:33] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
-[04:46:33] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
-[04:46:35] [Async Chat Thread - #14/INFO]: <StarlordUY> mi mesa
-[04:46:40] [Async Chat Thread - #14/INFO]: <StarlordUY> c fue xd
-[04:46:42] [Server thread/INFO]: SoySander issued server command: /gamemode creative
-[04:46:42] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
-[04:47:03] [Server thread/INFO]: SoySander issued server command: /tp StarlordUY SoySander
-[04:47:03] [Server thread/INFO]: [SoySander: Teleported StarlordUY to SoySander]
-[04:47:11] [Async Chat Thread - #14/INFO]: <SoySander> ya me fui
-[04:47:21] [Async Chat Thread - #14/INFO]: <StarlordUY> no soy tonto
-[04:47:25] [Async Chat Thread - #14/INFO]: <SoySander> quien me acompaña a la zona pvp
-[04:47:26] [Async Chat Thread - #14/INFO]: <SoySander> ??
-[04:47:32] [Async Chat Thread - #14/INFO]: <StarlordUY> se q estas ahi
-[04:47:38] [Async Chat Thread - #14/INFO]: <SoySander> ??
-[04:47:39] [Async Chat Thread - #14/INFO]: <SoySander> quien me acompaña a la zona pvp
-[04:47:39] [Async Chat Thread - #14/INFO]: <SoySander> quien me acompaña a la zona pvp
-[04:47:39] [Async Chat Thread - #14/INFO]: <StarlordUY> ...
-[04:47:44] [Async Chat Thread - #14/INFO]: <StarlordUY> ...
-[04:47:56] [Async Chat Thread - #14/INFO]: <StarlordUY> pq no t vas xd?
-[04:47:58] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
-[04:47:58] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
-[04:47:59] [Async Chat Thread - #14/INFO]: <SoySander> XD
-[04:48:00] [Async Chat Thread - #14/INFO]: <SoySander> ya
-[04:48:08] [Async Chat Thread - #14/INFO]: <FantasmalKinger> pvp sander
-[04:48:09] [Async Chat Thread - #14/INFO]: <FantasmalKinger> pvp sander
-[04:48:09] [Async Chat Thread - #14/INFO]: <FantasmalKinger> pvp sander
-[04:48:09] [Async Chat Thread - #14/INFO]: <FantasmalKinger> pvp sander
-[04:48:09] [Async Chat Thread - #14/INFO]: <FantasmalKinger> pvp sander
-[04:48:10] [Async Chat Thread - #14/INFO]: <FantasmalKinger> pvp sander
-[04:48:10] [Async Chat Thread - #14/INFO]: <FantasmalKinger> pvp sander
-[04:48:27] [Server thread/INFO]: SoySander issued server command: /tellraw @a {"text":"El Dia Acaba en 3 Minutos","color":"gold"}
-[04:48:31] [Server thread/INFO]: FantasmalKinger lost connection: Disconnected
-[04:48:31] [Server thread/INFO]: FantasmalKinger left the game
-[04:48:31] [Async Chat Thread - #14/INFO]: <StarlordUY> ay
-[04:48:42] [Async Chat Thread - #14/INFO]: <StarlordUY> escucho cosas
-[04:48:46] [Async Chat Thread - #14/INFO]: <StarlordUY> ay
-[04:48:53] [Async Chat Thread - #14/INFO]: <StarlordUY> escucho uuna bruja
-[04:49:00] [Async Chat Thread - #14/INFO]: <StarlordUY> tengo meido
-[04:49:03] [Async Chat Thread - #14/INFO]: <SoySander> deja mrd
-[04:49:08] [Async Chat Thread - #14/INFO]: <SoySander> q ando haciendo mariconadas
-[04:49:17] [Async Chat Thread - #14/INFO]: <SoySander> me llenas el chat de mierda y ando colocando comandos
-[04:49:32] [Server thread/INFO]: SoySander issued server command: /gamemode creative
-[04:49:32] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
-[04:49:41] [Async Chat Thread - #14/INFO]: <StarlordUY> :(
-[04:50:04] [Async Chat Thread - #14/INFO]: <StarlordUY> mierda
-[04:50:43] [Async Chat Thread - #14/INFO]: <StarlordUY> :/
-[04:50:45] [Async Chat Thread - #14/INFO]: <StarlordUY> ...
-[04:50:48] [Async Chat Thread - #14/INFO]: <SoySander> admites o ss?
-[04:50:51] [Async Chat Thread - #14/INFO]: <SoySander> XD
-[04:50:53] [Async Chat Thread - #14/INFO]: <StarlordUY> ola
-[04:50:59] [Async Chat Thread - #14/INFO]: <SoySander> XD
-[04:50:59] [Async Chat Thread - #14/INFO]: <SoySander> admites o ss?
-[04:51:00] [Async Chat Thread - #14/INFO]: <SoySander> admites o ss?
-[04:51:00] [Async Chat Thread - #14/INFO]: <SoySander> admites o ss?t
-[04:51:00] [Async Chat Thread - #14/INFO]: <StarlordUY> q cosa
-[04:51:19] [Async Chat Thread - #14/INFO]: <StarlordUY> q cosa
-[04:51:19] [Async Chat Thread - #14/INFO]: <SoySander> entra a general 1
-[04:51:30] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
-[04:51:30] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
-[04:51:39] [Async Chat Thread - #14/INFO]: <StarlordUY> no pdo
-[04:51:43] [Server thread/INFO]: SoySander issued server command: /gamemode creative
-[04:51:43] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
-[04:51:48] [Async Chat Thread - #14/INFO]: <StarlordUY> son las 3 am y mi mama esta al lado
-[04:51:58] [Async Chat Thread - #14/INFO]: <SoySander> 1/3 Uso de Xray
-[04:52:03] [Async Chat Thread - #14/INFO]: <StarlordUY> ?
-[04:52:15] [Async Chat Thread - #14/INFO]: <StarlordUY> q mierda?
-[04:52:23] [Async Chat Thread - #14/INFO]: <SoySander> mandame un screenshot de tu minecraft ahora mismo mi rey
-[04:52:28] [Async Chat Thread - #14/INFO]: <StarlordUY> voy
-[04:52:36] [Async Chat Thread - #14/INFO]: <StarlordUY> ay
-[04:52:39] [Async Chat Thread - #14/INFO]: <StarlordUY> peraa
-[04:52:42] [Server thread/INFO]: SoySander issued server command: /gamemode survival
-[04:52:42] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
-[04:52:45] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
-[04:52:45] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
-[04:52:47] [Server thread/INFO]: SoySander issued server command: /gamemode creative
-[04:52:47] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
-[04:53:27] [Async Chat Thread - #14/INFO]: <StarlordUY> pera impaciendo
-[04:53:27] [Async Chat Thread - #14/INFO]: <SoySander> ya te lo quitaste
-[04:53:28] [Async Chat Thread - #14/INFO]: <SoySander> oj
-[04:53:30] [Async Chat Thread - #14/INFO]: <StarlordUY> ?
-[04:53:35] [Async Chat Thread - #14/INFO]: <StarlordUY> mi totem
-[04:53:40] [Async Chat Thread - #14/INFO]: <SoySander> ahi te dejo
-[04:53:42] [Async Chat Thread - #14/INFO]: <SoySander> 1/3
-[04:53:46] [Async Chat Thread - #14/INFO]: <StarlordUY> ?
-[04:53:48] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
-[04:53:48] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
-[04:53:50] [Async Chat Thread - #14/INFO]: <StarlordUY> pero why?
-[04:54:12] [Async Chat Thread - #14/INFO]: <SoySander> te voy a dejar pasar el xray por esta ves
-[04:54:19] [Async Chat Thread - #14/INFO]: <StarlordUY> Q xray
-[04:54:22] [Async Chat Thread - #14/INFO]: <SoySander> pero literalmente te vi como ibas directo hacia los diamantes
-[04:54:25] [Async Chat Thread - #14/INFO]: <StarlordUY> no c ni como se instalan xd
-[04:54:26] [Async Chat Thread - #14/INFO]: <SoySander> lo voy a dejar asi
-[04:54:28] [Server thread/INFO]: SoySander issued server command: /tellraw @a {"text":"El Dia Acaba en 1 Minutos","color":"gold"}
-[04:54:32] [Async Chat Thread - #14/INFO]: <StarlordUY> ay kbron
-[04:54:45] [Server thread/INFO]: SoySander issued server command: /tp 1664 ~ 2512
-[04:54:45] [Server thread/INFO]: [SoySander: Teleported SoySander to 1664.500000, -33.084075, 2512.500000]
-[04:54:49] [Async Chat Thread - #14/INFO]: <StarlordUY> toque f3 + t antes
-[04:54:52] [Async Chat Thread - #14/INFO]: <StarlordUY> ese fue xd
-[04:55:00] [Async Chat Thread - #14/INFO]: <StarlordUY> por eso c me bugeo
-[04:55:05] [Server thread/INFO]: SoySander issued server command: /gamemode creative
-[04:55:05] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
-[04:55:07] [Async Chat Thread - #14/INFO]: <StarlordUY> me salgo q c me bugea
-[04:55:17] [Async Chat Thread - #14/INFO]: <StarlordUY> nos vemos peersona q me acusa de xray
-[04:55:19] [Server thread/INFO]: StarlordUY lost connection: Disconnected
-[04:55:19] [Server thread/INFO]: StarlordUY left the game
-[04:55:38] [Server thread/INFO]: SoySander issued server command: /stop
-[04:55:38] [Server thread/INFO]: [SoySander: Stopping the server]
-[04:55:38] [Server thread/INFO]: Stopping server
-[04:55:38] [Server thread/INFO]: [GSit] Disabling GSit v1.13.0
-[04:55:38] [Server thread/INFO]: [GSit] The plugin was successfully disabled.
-[04:55:38] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v2.19.0
-[04:55:38] [Server thread/INFO]: [LifeStealZ] Disabling LifeStealZ v2.9.2
-[04:55:38] [Server thread/INFO]: [LifeStealZ] LifeStealZ disabled!
-[04:55:38] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v22.4
-[04:55:38] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
-[04:55:39] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v22.4
-[04:55:39] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.8+33cdb4a
-[04:55:39] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
-[04:55:39] [Server thread/INFO]: [CratesPlusReloaded] Disabling CratesPlusReloaded v4.1-SNAPSHOT
-[04:55:39] [Server thread/INFO]: [SimpleHomes] Disabling SimpleHomes v2.0.4
-[04:55:39] [Server thread/INFO]: [SimpleHomes] SimpleHomes Disabled!
-[04:55:39] [Server thread/INFO]: [MinerTrack] Disabling MinerTrack v1.6.5
-[04:55:39] [Server thread/INFO]: ----[MinerTrack v1.6.5 ]-----------
-[04:55:39] [Server thread/INFO]: MinerTrack Anti-XRay Disabled!
-[04:55:39] [Server thread/INFO]: 
-[04:55:39] [Server thread/INFO]: Authors: Author87668
-[04:55:39] [Server thread/INFO]: Original Author: Author87668
-[04:55:39] [Server thread/INFO]: Contributors: Author87668
-[04:55:39] [Server thread/INFO]: 
-[04:55:39] [Server thread/INFO]: Good bye!
-[04:55:39] [Server thread/INFO]: -----------------------------------------
-[04:55:39] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.0
-[04:55:39] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
-[04:55:39] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
-[04:55:39] [Server thread/INFO]: [PlasmoVoice] Disabling PlasmoVoice v1.0.11
-[04:55:39] [Server thread/INFO]: [CombatLog] Disabling CombatLog v1.1.1
-[04:55:39] [Server thread/INFO]: [AnimationsCore] Disabling AnimationsCore v0.1-SNAPSHOT
-[04:55:39] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
-[04:55:39] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.0-beta-02+e11f161
-[04:55:39] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[04:55:39] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v7.4
-[04:55:39] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
-[04:55:39] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been disabled on version 7.4
-[04:55:39] [Server thread/INFO]: Saving players
-[04:55:39] [Server thread/INFO]: SoySander lost connection: Server closed
-[04:55:39] [Server thread/INFO]: SoySander left the game
-[04:55:40] [Server thread/INFO]: Saving worlds
-[04:55:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[04:55:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[04:55:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[04:55:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:55:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:55:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:55:46] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[04:55:47] [Server thread/INFO]: Flushing Chunk IO
-[04:55:47] [Server thread/INFO]: Closing Thread Pool
-[04:55:47] [Server thread/INFO]: Closing Server
+[16:57:12] [Server thread/INFO]: [ConditionalEvents] Disabling ConditionalEvents v4.60.1
+[16:57:12] [Server thread/INFO]: [ConditionalEvents] Has been disabled! Version: 4.60.1
+[16:57:12] [Server thread/INFO]: Running delayed init tasks
+[16:57:12] [Server thread/INFO]: [CoreProtect] WorldEdit logging successfully initialized.
+[16:57:13] [Server thread/INFO]: Done (37.053s)! For help, type "help"
+[16:57:13] [Server thread/INFO]: Timings Reset
+[16:57:13] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[16:57:13] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[16:57:13] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[16:57:13] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[16:57:13] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+[16:57:13] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[16:57:13] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[16:57:13] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.5.1[0;39m
+[16:57:13] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1md5d8613[0;39m
+[16:57:13] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[16:57:13] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[16:57:13] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+[16:57:13] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+[17:00:41] [User Authenticator #1/INFO]: UUID of player SoySander is 2fdec197-58fd-3a92-a8c9-336e26aeae55
+[17:00:41] [Server thread/INFO]: SoySander joined the game
+[17:00:41] [Server thread/INFO]: SoySander[/127.251.247.108:35513] logged in with entity id 121 at ([world]1602.8944726531045, 67.0, 2456.1673185346335)
+[17:01:03] [Server thread/INFO]: SoySander issued server command: /effect clear SoySander
+[17:01:03] [Server thread/INFO]: [SoySander: Removed every effect from SoySander]
+[17:01:07] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[17:01:07] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[17:01:11] [Server thread/INFO]: SoySander issued server command: /gamemode creative
+[17:01:11] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
+[17:01:20] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[17:01:20] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[17:02:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5171ms or 103 ticks behind
+[17:02:43] [User Authenticator #2/INFO]: UUID of player FantasmalKinger is 3b3940ea-164b-358b-a48b-f36e8814efb6
+[17:02:43] [Server thread/INFO]: FantasmalKinger joined the game
+[17:02:43] [Server thread/INFO]: FantasmalKinger[/127.17.33.166:37275] logged in with entity id 647 at ([world]-1994.5557878059456, 78.0, 1673.2939638950415)
+[17:03:19] [Async Chat Thread - #0/INFO]: <FantasmalKinger> buenas
+[17:03:25] [Async Chat Thread - #0/INFO]: <SoySander> wna
+[17:03:28] [Async Chat Thread - #0/INFO]: <FantasmalKinger> pvp sander
+[17:03:39] [Async Chat Thread - #0/INFO]: <SoySander> que no mierda
+[17:03:46] [Async Chat Thread - #0/INFO]: <SoySander> bno si
+[17:03:47] [Async Chat Thread - #0/INFO]: <FantasmalKinger> jodete
+[17:03:52] [Async Chat Thread - #0/INFO]: <SoySander> ? Xd
+[17:03:57] [Async Chat Thread - #0/INFO]: <FantasmalKinger> dame mis totens
+[17:04:00] [Async Chat Thread - #0/INFO]: <SoySander> pq oq
+[17:04:11] [Async Chat Thread - #0/INFO]: <SoySander> los popiaste
+[17:04:14] [Async Chat Thread - #0/INFO]: <FantasmalKinger> porque estabamos a haciendo pvp y tu te tepeaste
+[17:04:24] [Async Chat Thread - #0/INFO]: <FantasmalKinger> los popie para no perder mis corazones
+[17:04:24] [Async Chat Thread - #0/INFO]: <SoySander> tu me dijiste
+[17:04:27] [Async Chat Thread - #0/INFO]: <FantasmalKinger> te dije
+[17:04:29] [Async Chat Thread - #0/INFO]: <SoySander> ademas te mande tpa
+[17:04:37] [Async Chat Thread - #0/INFO]: <SoySander> el que empezo pegando fuiste tu
+[17:04:38] [Async Chat Thread - #0/INFO]: <SoySander> xd
+[17:04:40] [Async Chat Thread - #0/INFO]: <FantasmalKinger> pero dijiste que tp kill no
+[17:04:48] [Async Chat Thread - #0/INFO]: <SoySander> que hablas
+[17:04:48] [Async Chat Thread - #0/INFO]: <SoySander> xd
+[17:04:50] [Async Chat Thread - #0/INFO]: <SoySander> el que empezo pegando fuiste tu
+[17:04:50] [Async Chat Thread - #0/INFO]: <SoySander> el que empezo pegando fuiste tu
+[17:04:51] [Async Chat Thread - #0/INFO]: <SoySander> el que empezo pegando fuiste tu
+[17:04:51] [Async Chat Thread - #0/INFO]: <SoySander> el que empezo pegando fuiste tu
+[17:05:02] [Async Chat Thread - #0/INFO]: <SoySander> yo te mande tpa y tu me dijiste alm
+[17:05:07] [Async Chat Thread - #0/INFO]: <SoySander> y luego me dijiste pvp
+[17:05:12] [Async Chat Thread - #0/INFO]: <SoySander> me pegaste
+[17:05:33] [Async Chat Thread - #0/INFO]: <FantasmalKinger> afk
