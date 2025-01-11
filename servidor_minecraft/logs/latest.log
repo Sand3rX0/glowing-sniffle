@@ -2040,3 +2040,6 @@ Reason: Banned by an operator.
 [20:54:31] [Async Chat Thread - #23/INFO]: <Josues44> me voi a cmoer
 [20:54:33] [Server thread/INFO]: Josues44 lost connection: Disconnected
 [20:54:33] [Server thread/INFO]: Josues44 left the game
+[21:16:55] [User Authenticator #21/INFO]: UUID of player Josues44 is be14b746-ebad-3897-ba51-0ecc152e8308
+[21:16:55] [Server thread/INFO]: Josues44 joined the game
+[21:16:55] [Server thread/INFO]: Josues44[/127.162.87.84:51009] logged in with entity id 52798 at ([world]-1329.8795766157452, 69.0, 1423.699999988079)
