@@ -700,3 +700,62 @@ org.bukkit.command.CommandException: Cannot execute command 'endergive' in plugi
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
 [18:46:26] [Server thread/INFO]: un_randompro lost connection: Disconnected
 [18:46:26] [Server thread/INFO]: un_randompro left the game
+[18:59:41] [User Authenticator #6/INFO]: UUID of player ezorion is 7eda207e-6f0f-3a45-884c-87cb471f9a6a
+[18:59:41] [Server thread/INFO]: ezorion joined the game
+[18:59:41] [Server thread/INFO]: ezorion[/127.107.46.185:44439] logged in with entity id 14263 at ([world]-915.5687129178225, 80.0, 2204.148101505989)
+[19:01:58] [Server thread/INFO]: ezorion has made the advancement [What a Deal!]
+[19:02:50] [Server thread/INFO]: ezorion has made the advancement [Cover Me with Diamonds]
+[19:05:45] [Server thread/INFO]: ezorion has made the advancement [Sweet Dreams]
+[19:15:02] [Server thread/INFO]: <Server> s e x o
+[19:15:06] [Async Chat Thread - #6/INFO]: <ezorion> que rico
+[19:19:34] [User Authenticator #7/INFO]: UUID of player un_randompro is 4f2ddd44-221e-3406-80eb-bdd38f185eca
+[19:19:34] [Server thread/INFO]: un_randompro joined the game
+[19:19:34] [Server thread/INFO]: un_randompro[/127.233.145.50:32995] logged in with entity id 16835 at ([world]-2119.2827582634172, 116.93548203068464, 1598.699999988079)
+[19:20:32] [Server thread/INFO]: un_randompro issued server command: /tp un_randompro ezorion
+[19:20:32] [Server thread/INFO]: [un_randompro: Teleported un_randompro to ezorion]
+[19:20:37] [Server thread/INFO]: un_randompro issued server command: /time set day
+[19:20:37] [Server thread/INFO]: [un_randompro: Set the time to 1000]
+[19:20:42] [Server thread/INFO]: un_randompro issued server command: /gamemode spectator
+[19:20:42] [Server thread/INFO]: [un_randompro: Set own game mode to Spectator Mode]
+[19:20:47] [Server thread/INFO]: un_randompro issued server command: /gamemode creative
+[19:20:47] [Server thread/INFO]: [un_randompro: Set own game mode to Creative Mode]
+[19:20:57] [Server thread/INFO]: un_randompro issued server command: /gamemode spectator
+[19:20:57] [Server thread/INFO]: [un_randompro: Set own game mode to Spectator Mode]
+[19:22:52] [User Authenticator #8/INFO]: UUID of player Josues44 is be14b746-ebad-3897-ba51-0ecc152e8308
+[19:22:53] [Server thread/INFO]: Josues44 joined the game
+[19:22:53] [Server thread/INFO]: Josues44[/127.162.87.84:37229] logged in with entity id 17388 at ([world]-5147.71521972098, 64.9375, -1397.8814528623361)
+[19:23:13] [Server thread/INFO]: Josues44 lost connection: Disconnected
+[19:23:13] [Server thread/INFO]: Josues44 left the game
+[19:23:19] [User Authenticator #8/INFO]: UUID of player JuanS444 is ab63fd89-8d9a-3ef3-a9e6-d28848c0ce27
+[19:23:19] [Server thread/INFO]: JuanS444 joined the game
+[19:23:19] [Server thread/INFO]: JuanS444[/127.147.42.66:51667] logged in with entity id 17728 at ([world]-1430.5918160775786, 69.10131520987476, 2042.8144421186885)
+[19:23:28] [User Authenticator #8/INFO]: UUID of player Josues44 is be14b746-ebad-3897-ba51-0ecc152e8308
+[19:23:28] [Server thread/INFO]: Josues44 joined the game
+[19:23:28] [Server thread/INFO]: Josues44[/127.162.87.84:47175] logged in with entity id 18003 at ([world]-5135.79689922876, 69.0, -1407.5929901358247)
+[19:23:39] [Async Chat Thread - #7/INFO]: <Josues44> ola :))
+[19:24:04] [Server thread/INFO]: un_randompro lost connection: Timed out
+[19:24:04] [Server thread/INFO]: un_randompro left the game
+[19:24:43] [Server thread/INFO]: JuanS444 lost connection: Disconnected
+[19:24:43] [Server thread/INFO]: JuanS444 left the game
+[19:25:14] [Server thread/INFO]: Josues44 has made the advancement [A Seedy Place]
+[19:25:41] [Server thread/INFO]: ezorion lost connection: Disconnected
+[19:25:41] [Server thread/INFO]: ezorion left the game
+[19:26:26] [User Authenticator #9/INFO]: UUID of player JuanS444 is ab63fd89-8d9a-3ef3-a9e6-d28848c0ce27
+[19:26:26] [Server thread/INFO]: com.mojang.authlib.GameProfile@1b741b4[id=ab63fd89-8d9a-3ef3-a9e6-d28848c0ce27,name=JuanS444,properties={textures=[com.mojang.authlib.properties.Property@5738e2f3]},legacy=false] (/127.147.42.66:34709) lost connection: Disconnected
+[19:26:33] [User Authenticator #9/INFO]: UUID of player JuanS444 is ab63fd89-8d9a-3ef3-a9e6-d28848c0ce27
+[19:26:33] [Server thread/INFO]: JuanS444 joined the game
+[19:26:33] [Server thread/INFO]: JuanS444[/127.147.42.66:56909] logged in with entity id 19430 at ([world]-1438.306241062978, 67.0, 2011.065933089295)
+[19:27:35] [Server thread/INFO]: JuanS444 lost connection: Disconnected
+[19:27:35] [Server thread/INFO]: JuanS444 left the game
+[19:28:05] [Server thread/INFO]: Josues44 lost connection: Disconnected
+[19:28:05] [Server thread/INFO]: Josues44 left the game
+[19:28:21] [User Authenticator #10/INFO]: UUID of player un_randompro is 4f2ddd44-221e-3406-80eb-bdd38f185eca
+[19:28:22] [Server thread/INFO]: un_randompro joined the game
+[19:28:22] [Server thread/INFO]: un_randompro[/127.233.145.50:47053] logged in with entity id 20401 at ([world]-890.479863016765, 84.82449849556127, 2270.54538382436)
+[19:28:44] [User Authenticator #10/INFO]: UUID of player Josues44 is be14b746-ebad-3897-ba51-0ecc152e8308
+[19:28:44] [Server thread/INFO]: Josues44 joined the game
+[19:28:44] [Server thread/INFO]: Josues44[/127.162.87.84:51449] logged in with entity id 20688 at ([world_nether]-735.4704591260866, 15.0, -143.30000001192093)
+[19:29:05] [Server thread/INFO]: un_randompro lost connection: Disconnected
+[19:29:05] [Server thread/INFO]: un_randompro left the game
+[19:31:45] [Server thread/INFO]: Josues44 lost connection: Disconnected
+[19:31:45] [Server thread/INFO]: Josues44 left the game
