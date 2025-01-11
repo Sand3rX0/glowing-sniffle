@@ -86,7 +86,7 @@ regions:
         min: {x: -2067, y: 69, z: 1652}
         max: {x: -2057, y: 71, z: 1689}
         members: {}
-        flags: {block-trampling: allow, chest-access: allow}
+        flags: {block-trampling: allow, chest-access: allow, pvp: allow}
         owners: {}
         type: cuboid
         priority: 0

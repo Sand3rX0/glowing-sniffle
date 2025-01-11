@@ -1645,3 +1645,284 @@ Reason: Banned by an operator.
 [20:14:59] [Server thread/INFO]: un_randompro issued server command: /gamemode creative
 [20:14:59] [Server thread/INFO]: [un_randompro: Set own game mode to Creative Mode]
 [20:15:11] [Async Chat Thread - #15/INFO]: <Josues44> drako puedes dormir???????
+[20:15:18] [Server thread/INFO]: un_randompro issued server command: /time set day
+[20:15:18] [Server thread/INFO]: [un_randompro: Set the time to 1000]
+[20:15:22] [Server thread/INFO]: un_randompro issued server command: /tp un_randompro SoySander
+[20:15:22] [Server thread/INFO]: [un_randompro: Teleported un_randompro to SoySander]
+[20:15:26] [Server thread/INFO]: un_randompro issued server command: /gamemode survival
+[20:15:26] [Server thread/INFO]: [un_randompro: Set own game mode to Survival Mode]
+[20:16:15] [Server thread/INFO]: SoySander issued server command: /gamemode creative
+[20:16:15] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
+[20:16:20] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[20:16:20] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[20:16:24] [Server thread/INFO]: un_randompro issued server command: /gamemode creative
+[20:16:24] [Server thread/INFO]: [un_randompro: Set own game mode to Creative Mode]
+[20:16:28] [Server thread/INFO]: un_randompro issued server command: /gamemode survival
+[20:16:28] [Server thread/INFO]: [un_randompro: Set own game mode to Survival Mode]
+[20:17:01] [Server thread/INFO]: [LifeStealZ] Player SoySander died!
+[20:17:01] [Server thread/INFO]: SoySander was slain by un_randompro
+[20:17:03] [Server thread/INFO]: DrakoOsmar has made the advancement [Cover Me with Diamonds]
+[20:17:03] [Server thread/INFO]: DrakoOsmar has made the advancement [Stone Age]
+[20:17:04] [Server thread/INFO]: SoySander issued server command: /back
+[20:17:31] [Server thread/INFO]: SoySander issued server command: /co rollback action: inventory user: DrakoOsmar time: 10m
+[20:17:39] [Server thread/INFO]: SoySander issued server command: /co rollback action: inventory user: DrakoOsmar time: 10d
+[20:17:45] [Server thread/INFO]: SoySander issued server command: /gamemode creative
+[20:17:45] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
+[20:17:51] [Async Chat Thread - #16/INFO]: <Josues44> sander te doy 1 diamante si me das 32 de caña de azucar
+[20:17:56] [Server thread/INFO]: SoySander issued server command: /effect give SoySander minecraft:strength 9999 99
+[20:17:56] [Server thread/INFO]: [SoySander: Applied effect Strength to SoySander]
+[20:18:04] [Server thread/INFO]: [LifeStealZ] Player DrakoOsmar died!
+[20:18:04] [Server thread/INFO]: DrakoOsmar was slain by SoySander
+[20:18:08] [Server thread/INFO]: DrakoOsmar issued server command: /back
+[20:18:11] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[20:18:11] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[20:18:11] [Server thread/INFO]: un_randompro issued server command: /gamemode spectator
+[20:18:11] [Server thread/INFO]: [un_randompro: Set own game mode to Spectator Mode]
+[20:18:17] [Server thread/INFO]: SoySander issued server command: /gamemode creative
+[20:18:17] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
+[20:18:29] [Server thread/INFO]: un_randompro issued server command: /gamemode creative
+[20:18:29] [Server thread/INFO]: [un_randompro: Set own game mode to Creative Mode]
+[20:18:52] [Server thread/INFO]: DrakoOsmar issued server command: /kit
+[20:19:02] [Server thread/INFO]: SoySander issued server command: /co rollback time: 20m user: SoySander action: +inventory
+[20:19:04] [Server thread/INFO]: SoySander issued server command: /co rollback time: 20m user: SoySander action: +inventory
+[20:19:08] [Server thread/INFO]: DrakoOsmar has made the advancement [Monster Hunter]
+[20:19:09] [Server thread/INFO]: SoySander issued server command: /co rollback time: 20m user: SoySander action: inventory
+[20:19:32] [Server thread/INFO]: SoySander issued server command: /effect clear SoySander
+[20:19:32] [Server thread/INFO]: [SoySander: Removed every effect from SoySander]
+[20:19:44] [Async Chat Thread - #17/INFO]: <un_randompro> HABRO DUNGEON OP????? VA A ESTAR EXTREMADAMENTE DIFICIL NO ME HAGO CARGO SI SE MUEREN
+[20:19:44] [Async Chat Thread - #17/INFO]: <un_randompro> HABRO DUNGEON OP????? VA A ESTAR EXTREMADAMENTE DIFICIL NO ME HAGO CARGO SI SE MUEREN
+[20:19:44] [Async Chat Thread - #17/INFO]: <un_randompro> HABRO DUNGEON OP????? VA A ESTAR EXTREMADAMENTE DIFICIL NO ME HAGO CARGO SI SE MUEREN
+[20:19:44] [Async Chat Thread - #17/INFO]: <un_randompro> HABRO DUNGEON OP????? VA A ESTAR EXTREMADAMENTE DIFICIL NO ME HAGO CARGO SI SE MUEREN
+[20:19:45] [Async Chat Thread - #17/INFO]: <un_randompro> HABRO DUNGEON OP????? VA A ESTAR EXTREMADAMENTE DIFICIL NO ME HAGO CARGO SI SE MUEREN
+[20:19:55] [Async Chat Thread - #17/INFO]: <un_randompro> HABRO DUNGEON OP????? VA A ESTAR EXTREMADAMENTE DIFICIL NO ME HAGO CARGO SI SE MUEREN
+[20:19:56] [Async Chat Thread - #17/INFO]: <un_randompro> HABRO DUNGEON OP????? VA A ESTAR EXTREMADAMENTE DIFICIL NO ME HAGO CARGO SI SE MUEREN
+[20:19:58] [Async Chat Thread - #17/INFO]: <Josues44> como te haces cargo ?
+[20:20:03] [Async Chat Thread - #17/INFO]: <un_randompro> NOP
+[20:20:09] [Async Chat Thread - #17/INFO]: <Josues44> a
+[20:20:14] [Async Chat Thread - #17/INFO]: <un_randompro> NOP
+[20:20:15] [Async Chat Thread - #17/INFO]: <un_randompro> HABRO DUNGEON OP????? VA A ESTAR EXTREMADAMENTE DIFICIL NO ME HAGO CARGO SI SE MUEREN
+[20:20:16] [Async Chat Thread - #17/INFO]: <un_randompro> HABRO DUNGEON OP????? VA A ESTAR EXTREMADAMENTE DIFICIL NO ME HAGO CARGO SI SE MUEREN
+[20:20:16] [Async Chat Thread - #17/INFO]: <un_randompro> HABRO DUNGEON OP????? VA A ESTAR EXTREMADAMENTE DIFICIL NO ME HAGO CARGO SI SE MUEREN
+[20:20:16] [Async Chat Thread - #17/INFO]: <un_randompro> HABRO DUNGEON OP????? VA A ESTAR EXTREMADAMENTE DIFICIL NO ME HAGO CARGO SI SE MUEREN
+[20:20:26] [Async Chat Thread - #17/INFO]: <DrakoOsmar> caca
+[20:20:26] [Async Chat Thread - #17/INFO]: <Josues44> ok
+[20:20:31] [Async Chat Thread - #17/INFO]: <DrakoOsmar> de random
+[20:20:31] [Async Chat Thread - #17/INFO]: <un_randompro> 1 VOTO A SI
+[20:20:35] [Async Chat Thread - #17/INFO]: <DrakoOsmar> NO
+[20:20:35] [Async Chat Thread - #17/INFO]: <Josues44> si
+[20:20:38] [Async Chat Thread - #17/INFO]: <un_randompro> DRAKO Y U?
+[20:20:41] [Async Chat Thread - #17/INFO]: <un_randompro> DRAKO Y TU?
+[20:20:41] [Async Chat Thread - #17/INFO]: <DrakoOsmar> no
+[20:20:46] [Async Chat Thread - #17/INFO]: <un_randompro> NA EZ DRAKO
+[20:20:48] [Async Chat Thread - #17/INFO]: <un_randompro> MUY MALO
+[20:20:48] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[20:20:48] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[20:20:49] [Async Chat Thread - #17/INFO]: <un_randompro> DEAH
+[20:20:54] [Async Chat Thread - #17/INFO]: <DrakoOsmar> VOY A JUGAR EL DANDY
+[20:20:55] [Async Chat Thread - #17/INFO]: <SoySander> yo si
+[20:20:56] [Async Chat Thread - #17/INFO]: <DrakoOsmar> dejame
+[20:20:57] [Async Chat Thread - #17/INFO]: <DrakoOsmar> dejame
+[20:20:58] [Async Chat Thread - #17/INFO]: <un_randompro> naahhh
+[20:20:58] [Async Chat Thread - #17/INFO]: <DrakoOsmar> VOY A JUGAR EL DANDYsa
+[20:20:59] [Async Chat Thread - #17/INFO]: <un_randompro> zzz
+[20:21:01] [Async Chat Thread - #17/INFO]: <un_randompro> xD
+[20:21:03] [Async Chat Thread - #17/INFO]: <SoySander> zzz
+[20:21:05] [Async Chat Thread - #17/INFO]: <DrakoOsmar> sapo
+[20:21:06] [Async Chat Thread - #17/INFO]: <un_randompro> HABRO DUNGEON OP
+[20:21:12] [Async Chat Thread - #17/INFO]: <DrakoOsmar> PERO
+[20:21:14] [Async Chat Thread - #17/INFO]: <DrakoOsmar> DENME COMIDA
+[20:21:16] [Async Chat Thread - #17/INFO]: <DrakoOsmar> waza
+[20:21:23] [Server thread/INFO]: un_randompro issued server command: /give un_randompro minecraft:barrier
+[20:21:23] [Server thread/INFO]: [un_randompro: Gave 1 [Barrier] to un_randompro]
+[20:21:26] [Async Chat Thread - #17/INFO]: <SoySander> Drako vas a estar en el video si o no
+[20:21:27] [Async Chat Thread - #17/INFO]: <DrakoOsmar> mis 2 stacks de filetes
+[20:21:28] [Async Chat Thread - #17/INFO]: <DrakoOsmar> mis 2 stacks de filetes
+[20:21:28] [Async Chat Thread - #17/INFO]: <DrakoOsmar> mis 2 stacks de filetes
+[20:21:31] [Async Chat Thread - #17/INFO]: <DrakoOsmar> nose
+[20:21:34] [Async Chat Thread - #17/INFO]: <DrakoOsmar> depende
+[20:21:39] [Async Chat Thread - #17/INFO]: <SoySander> hermano dale pq tengo que grabart
+[20:21:45] [Server thread/INFO]: un_randompro issued server command: /give un_randompro minecraft:spawner
+[20:21:45] [Server thread/INFO]: [un_randompro: Gave 1 [Spawner] to un_randompro]
+[20:21:46] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
+[20:21:46] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
+[20:21:48] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[20:21:48] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[20:21:48] [Async Chat Thread - #17/INFO]: <Josues44> xd
+[20:21:48] [Async Chat Thread - #17/INFO]: <DrakoOsmar> grabame el culo
+[20:21:54] [Server thread/INFO]: SoySander issued server command: /region flags dungeon
+[20:21:59] [Server thread/INFO]: SoySander issued server command: /rg flag -w "world" -h 1 dungeon pvp ALLOW
+[20:22:01] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
+[20:22:01] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
+[20:22:03] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[20:22:03] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[20:22:10] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
+[20:22:10] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
+[20:22:12] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[20:22:12] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[20:22:14] [Server thread/INFO]: SoySander issued server command: /gamemode creative
+[20:22:14] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
+[20:22:15] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[20:22:18] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[20:22:18] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[20:22:24] [Server thread/INFO]: SoySander issued server command: /gamemode creative
+[20:22:24] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
+[20:22:26] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[20:22:26] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[20:22:39] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
+[20:22:39] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
+[20:22:41] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[20:22:41] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[20:22:46] [Server thread/INFO]: SoySander issued server command: /tp DrakoOsmar SoySander
+[20:22:46] [Server thread/INFO]: [SoySander: Teleported DrakoOsmar to SoySander]
+[20:23:32] [Server thread/INFO]: SoySander issued server command: /give @p creeper_spawn_egg{EntityTag:{id:"minecraft:creeper",powered:1,CustomName:"\"Gilberto Prime\"",CustomNameVisible:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:113},{Name:"generic.knockbackResistance",Base
+[20:23:54] [Server thread/INFO]: SoySander issued server command: /give @p minecraft:creeper_spawn_eggn_egg{EntityTag:{id:"minecraft:creeper",powered:1,CustomName:"\"Gilberto Prime\"",CustomNameVisible:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:113},{Name:"generic.knockbackR
+[20:24:05] [Server thread/INFO]: SoySander lost connection: Disconnected
+[20:24:05] [Server thread/INFO]: SoySander left the game
+[20:24:09] [Server thread/INFO]: un_randompro issued server command: /enchant un_randompro minecraft:sharpness 4
+[20:24:09] [Server thread/INFO]: [un_randompro: Applied enchantment Sharpness IV to un_randompro's item]
+[20:24:16] [Server thread/INFO]: un_randompro issued server command: /enchant un_randompro minecraft:fire_aspect 2
+[20:24:16] [Server thread/INFO]: [un_randompro: Applied enchantment Fire Aspect II to un_randompro's item]
+[20:24:17] [User Authenticator #18/INFO]: UUID of player SoySander is 2fdec197-58fd-3a92-a8c9-336e26aeae55
+[20:24:17] [Server thread/INFO]: SoySander joined the game
+[20:24:17] [Server thread/INFO]: SoySander[/127.251.247.108:54219] logged in with entity id 42798 at ([world]-2033.0370477932142, 61.0, 1654.8887867443605)
+[20:24:42] [Server thread/INFO]: un_randompro issued server command: /enchant un_randompro minecraft:protection 4
+[20:24:42] [Server thread/INFO]: [un_randompro: Applied enchantment Protection IV to un_randompro's item]
+[20:24:45] [Server thread/INFO]: un_randompro issued server command: /enchant un_randompro minecraft:protection 4
+[20:24:45] [Server thread/INFO]: [un_randompro: Applied enchantment Protection IV to un_randompro's item]
+[20:24:56] [Async Chat Thread - #18/INFO]: <un_randompro> TP A TODOS?
+[20:24:57] [Async Chat Thread - #18/INFO]: <un_randompro> TP A TODOS?
+[20:24:57] [Async Chat Thread - #18/INFO]: <un_randompro> TP A TODOS?
+[20:25:02] [Server thread/INFO]: DrakoOsmar has made the advancement [Ice Bucket Challenge]
+[20:25:03] [Async Chat Thread - #18/INFO]: <Josues44> ñooo solo manda coords
+[20:25:04] [Server thread/INFO]: un_randompro issued server command: /gamemode spectator
+[20:25:04] [Server thread/INFO]: [un_randompro: Set own game mode to Spectator Mode]
+[20:25:05] [Server thread/INFO]: SoySander issued server command: /gamemode creative
+[20:25:05] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
+[20:25:06] [Server thread/INFO]: un_randompro issued server command: /gamemode survival
+[20:25:06] [Server thread/INFO]: [un_randompro: Set own game mode to Survival Mode]
+[20:25:09] [Async Chat Thread - #18/INFO]: <un_randompro> ESTA ENEL SPAWBN
+[20:25:09] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[20:25:09] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[20:25:10] [Async Chat Thread - #18/INFO]: <SoySander> spawn
+[20:25:16] [Async Chat Thread - #18/INFO]: <un_randompro> HABRO EN 20
+[20:25:19] [Async Chat Thread - #18/INFO]: <un_randompro> 19
+[20:25:21] [Async Chat Thread - #18/INFO]: <Josues44> ok pero afuera
+[20:25:32] [Server thread/INFO]: un_randompro issued server command: /tp @a un_randompro
+[20:25:32] [Server thread/INFO]: [un_randompro: Teleported 4 entities to un_randompro]
+[20:25:33] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
+[20:25:33] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
+[20:25:37] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[20:25:37] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[20:25:39] [Server thread/INFO]: un_randompro issued server command: /tp @a un_randompro
+[20:25:39] [Server thread/INFO]: [un_randompro: Teleported 4 entities to un_randompro]
+[20:25:42] [Server thread/INFO]: un_randompro issued server command: /gamemode creative
+[20:25:42] [Server thread/INFO]: [un_randompro: Set own game mode to Creative Mode]
+[20:25:47] [Server thread/INFO]: un_randompro issued server command: /tp @a un_randompro
+[20:25:47] [Server thread/INFO]: [un_randompro: Teleported 4 entities to un_randompro]
+[20:26:31] [Async Chat Thread - #19/INFO]: <Josues44> una polla
+[20:26:52] [Async Chat Thread - #19/INFO]: <un_randompro> MAS LOOT
+[20:26:59] [Async Chat Thread - #19/INFO]: <Josues44> dame una ender pearl
+[20:27:18] [Server thread/INFO]: un_randompro issued server command: /deop SoySander
+[20:27:18] [Server thread/INFO]: [un_randompro: Made SoySander no longer a server operator]
+[20:27:30] [Server thread/INFO]: un_randompro issued server command: /tp @a un_randompro
+[20:27:30] [Server thread/INFO]: [un_randompro: Teleported 4 entities to un_randompro]
+[20:27:32] [Server thread/INFO]: un_randompro issued server command: /tp @a un_randompro
+[20:27:32] [Server thread/INFO]: [un_randompro: Teleported 4 entities to un_randompro]
+[20:27:36] [Async Chat Thread - #19/INFO]: <un_randompro> quedense ahi
+[20:27:37] [Async Chat Thread - #19/INFO]: <un_randompro> quedense ahi
+[20:27:38] [Server thread/INFO]: un_randompro issued server command: /tp @a un_randompro
+[20:27:38] [Server thread/INFO]: [un_randompro: Teleported 4 entities to un_randompro]
+[20:27:39] [Async Chat Thread - #19/INFO]: <Josues44> NO PUEDO PONER BLOCKES
+[20:27:47] [Async Chat Thread - #19/INFO]: <SoySander> spawn
+[20:27:48] [Async Chat Thread - #19/INFO]: <SoySander> spawn
+[20:27:48] [Async Chat Thread - #19/INFO]: <SoySander> spawn
+[20:27:51] [Async Chat Thread - #19/INFO]: <SoySander> DA ENDERS
+[20:27:52] [Async Chat Thread - #19/INFO]: <SoySander> DA ENDERS
+[20:27:52] [Async Chat Thread - #19/INFO]: <SoySander> DA ENDERS
+[20:27:52] [Async Chat Thread - #19/INFO]: <SoySander> DA ENDERS
+[20:27:52] [Async Chat Thread - #19/INFO]: <SoySander> DA ENDERS
+[20:27:53] [Async Chat Thread - #19/INFO]: <SoySander> DA ENDERS
+[20:27:53] [Async Chat Thread - #19/INFO]: <SoySander> DA ENDERS
+[20:27:53] [Async Chat Thread - #19/INFO]: <SoySander> DA ENDERS
+[20:27:53] [Async Chat Thread - #19/INFO]: <SoySander> DA ENDERS
+[20:27:53] [Async Chat Thread - #19/INFO]: <SoySander> DA ENDERS
+[20:27:53] [Async Chat Thread - #19/INFO]: <SoySander> DA ENDERS
+[20:27:54] [Async Chat Thread - #19/INFO]: <SoySander> DA ENDERS
+[20:28:00] [Async Chat Thread - #19/INFO]: <SoySander> den enders
+[20:28:00] [Async Chat Thread - #19/INFO]: <SoySander> den enders
+[20:28:00] [Async Chat Thread - #19/INFO]: <SoySander> den enders
+[20:28:00] [Async Chat Thread - #19/INFO]: <SoySander> den enders
+[20:28:01] [Async Chat Thread - #19/INFO]: <SoySander> den enders
+[20:28:01] [Async Chat Thread - #19/INFO]: <SoySander> den enders
+[20:28:01] [Server thread/INFO]: un_randompro issued server command: /give @a minecraft:ender_pearl 16
+[20:28:01] [Server thread/INFO]: [un_randompro: Gave 16 [Ender Pearl] to 4]
+[20:28:53] [Server thread/INFO]: un_randompro issued server command: /enchant un_randompro minecraft:sharpness 5
+[20:28:53] [Server thread/INFO]: [un_randompro: Applied enchantment Sharpness V to un_randompro's item]
+[20:29:11] [Async Chat Thread - #20/INFO]: <un_randompro> HABIERTO CON ENCHANTS
+[20:29:18] [Server thread/INFO]: un_randompro issued server command: /gamerule keepInventory true
+[20:29:18] [Server thread/INFO]: [un_randompro: Gamerule keepInventory is now set to: true]
+[20:29:20] [Server thread/INFO]: Josues44 has reached the goal [Postmortal]
+[20:29:21] [Server thread/INFO]: un_randompro issued server command: /enchant un_randompro minecraft:sharpness 5
+[20:29:25] [Server thread/INFO]: un_randompro issued server command: /tp @a un_randompro
+[20:29:25] [Server thread/INFO]: [un_randompro: Teleported 4 entities to un_randompro]
+[20:29:27] [Server thread/INFO]: un_randompro issued server command: /tp @a un_randompro
+[20:29:27] [Server thread/INFO]: [un_randompro: Teleported 4 entities to un_randompro]
+[20:29:34] [Async Chat Thread - #20/INFO]: <SoySander> vamos
+[20:29:41] [Async Chat Thread - #20/INFO]: <Josues44> eeeeeeeeee no podia abrir una polla
+[20:29:47] [Async Chat Thread - #20/INFO]: <un_randompro> te lo rompro
+[20:29:50] [Async Chat Thread - #20/INFO]: <un_randompro> dime
+[20:29:55] [Async Chat Thread - #20/INFO]: <un_randompro> avisame para romperlo
+[20:29:56] [Server thread/WARN]: DrakoOsmar moved wrongly!
+[20:30:07] [User Authenticator #19/INFO]: UUID of player XuterMC is 4a212ac4-ab8c-3fc7-bce8-547d3889426f
+[20:30:07] [Server thread/INFO]: XuterMC joined the game
+[20:30:07] [Server thread/INFO]: XuterMC[/127.152.141.255:51977] logged in with entity id 44085 at ([world]-5128.212905685898, 66.43270087700593, -1404.4849389483027)
+[20:30:16] [Server thread/INFO]: un_randompro issued server command: /tp Josues44 un_randompro
+[20:30:16] [Server thread/INFO]: [un_randompro: Teleported Josues44 to un_randompro]
+[20:30:18] [Server thread/INFO]: un_randompro issued server command: /tp Josues44 un_randompro
+[20:30:18] [Server thread/INFO]: [un_randompro: Teleported Josues44 to un_randompro]
+[20:30:25] [Server thread/INFO]: Josues44 issued server command: /home 1
+[20:30:48] [Async Chat Thread - #20/INFO]: <Josues44> no pude abrir nda y me tube q hacer /home
+[20:30:48] [Async Chat Thread - #20/INFO]: <un_randompro> cofre escondido¿?¿?¿?¿?¿?¿
+[20:30:59] [Async Chat Thread - #20/INFO]: <un_randompro> tienes que avisarme para romperlo yo
+[20:31:01] [Async Chat Thread - #20/INFO]: <SoySander> el random te andaba rompiendo los cofres
+[20:31:32] [Async Chat Thread - #20/INFO]: <un_randompro> ESTE COFRE ESTA SUMAMENTE OP
+[20:31:39] [Async Chat Thread - #20/INFO]: <Josues44> tp plis
+[20:31:41] [Async Chat Thread - #20/INFO]: <XuterMC> hey
+[20:31:43] [Async Chat Thread - #20/INFO]: <XuterMC> admin
+[20:31:46] [Server thread/INFO]: un_randompro issued server command: /tp @a un_randompro
+[20:31:46] [Server thread/INFO]: [un_randompro: Teleported 5 entities to un_randompro]
+[20:31:53] [Server thread/INFO]: un_randompro issued server command: /tp @a un_randompro
+[20:31:53] [Server thread/INFO]: [un_randompro: Teleported 5 entities to un_randompro]
+[20:31:58] [Async Chat Thread - #20/INFO]: <un_randompro> NO ENTREN
+[20:32:00] [Async Chat Thread - #20/INFO]: <un_randompro> NO ENTREN
+[20:32:04] [Server thread/INFO]: un_randompro issued server command: /tp @a un_randompro
+[20:32:04] [Server thread/INFO]: [un_randompro: Teleported 5 entities to un_randompro]
+[20:32:41] [Async Chat Thread - #20/INFO]: <SoySander> EEE
+[20:32:46] [Async Chat Thread - #20/INFO]: <SoySander> LA ARMOR DE NETHERITE ES ILEGAL
+[20:32:47] [Async Chat Thread - #20/INFO]: <SoySander> LA ARMOR DE NETHERITE ES ILEGAL
+[20:32:49] [Async Chat Thread - #20/INFO]: <XuterMC> sisi
+[20:32:51] [Async Chat Thread - #20/INFO]: <SoySander> admins
+[20:32:54] [Async Chat Thread - #20/INFO]: <XuterMC> te hiba a hablar por eso
+[20:33:10] [Async Chat Thread - #20/INFO]: <XuterMC> para ver si me la puedes cambiar la armadura a diamante pls
+[20:33:13] [Async Chat Thread - #20/INFO]: <XuterMC> perdon no sabia
+[20:33:17] [Async Chat Thread - #20/INFO]: <Josues44> puedo romper el cofre?
+[20:33:36] [Async Chat Thread - #20/INFO]: <SoySander> esq no todo el mundo entra los primeros dias, entonces si una persona entra hoy como pasa con DrakoOsmar y ve a tres gordos full netherite se salen y se suicidan
+[20:33:51] [Server thread/INFO]: un_randompro issued server command: /effect give un_randompro minecraft:strength 382112 999
+[20:33:54] [Server thread/INFO]: un_randompro issued server command: /effect give un_randompro minecraft:strength 382112 99
+[20:33:54] [Server thread/INFO]: [un_randompro: Applied effect Strength to un_randompro]
+[20:33:59] [Async Chat Thread - #20/INFO]: <SoySander> por eso es q todavia no esta permitida
+[20:34:01] [Async Chat Thread - #20/INFO]: <XuterMC> pero cambiamelo a diamante con el mismo encantamiento nmas
+[20:34:05] [Async Chat Thread - #20/INFO]: <SoySander> si
+[20:34:20] [Server thread/INFO]: un_randompro issued server command: /stack
+[20:34:34] [Async Chat Thread - #20/INFO]: <un_randompro> HABIERTO!!!!!!!!!!!!!!!!
+[20:34:43] [Server thread/INFO]: un_randompro issued server command: /tp @a un_randompro
+[20:34:43] [Server thread/INFO]: [un_randompro: Teleported 5 entities to un_randompro]
+[20:34:48] [Server thread/INFO]: un_randompro issued server command: /tp @a un_randompro
+[20:34:48] [Server thread/INFO]: [un_randompro: Teleported 5 entities to un_randompro]
+[20:34:50] [Server thread/INFO]: un_randompro issued server command: /tp @a un_randompro
+[20:34:50] [Server thread/INFO]: [un_randompro: Teleported 5 entities to un_randompro]
+[20:34:53] [Server thread/INFO]: un_randompro issued server command: /tp @a un_randompro
+[20:34:53] [Server thread/INFO]: [un_randompro: Teleported 5 entities to un_randompro]
+[20:34:55] [Server thread/INFO]: un_randompro issued server command: /tp @a un_randompro
+[20:34:55] [Server thread/INFO]: [un_randompro: Teleported 5 entities to un_randompro]
+[20:35:22] [Async Chat Thread - #20/INFO]: <Josues44> pokito
