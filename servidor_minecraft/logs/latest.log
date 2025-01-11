@@ -395,3 +395,22 @@ java.lang.NullPointerException: Cannot invoke "org.bukkit.configuration.file.Fil
 [23:49:48] [Server thread/INFO]: [Jeiker45: Gave 1 [Structure Void] to Jeiker45]
 [23:50:03] [Server thread/INFO]: Jeiker45 issued server command: /fill -2137 66 1554 ~ ~ ~ minecraft:scaffolding
 [23:50:03] [Server thread/INFO]: [Jeiker45: Successfully filled 1 blocks]
+[23:50:37] [Server thread/INFO]: farnan777xd lost connection: Disconnected
+[23:50:37] [Server thread/INFO]: farnan777xd left the game
+[23:54:15] [User Authenticator #5/INFO]: UUID of player SoySander is 2fdec197-58fd-3a92-a8c9-336e26aeae55
+[23:54:15] [Server thread/INFO]: SoySander joined the game
+[23:54:15] [Server thread/INFO]: SoySander[/127.87.61.29:40919] logged in with entity id 7884 at ([world]-2032.7214886012716, 58.5, 1665.8215719912946)
+[23:54:27] [Server thread/INFO]: SoySander lost connection: Disconnected
+[23:54:27] [Server thread/INFO]: SoySander left the game
+[23:54:29] [User Authenticator #5/INFO]: UUID of player SoySander is 2fdec197-58fd-3a92-a8c9-336e26aeae55
+[23:54:29] [Server thread/INFO]: SoySander joined the game
+[23:54:29] [Server thread/INFO]: SoySander[/127.87.61.29:52263] logged in with entity id 7946 at ([world]-2032.7214886012716, 58.5, 1665.8215719912946)
+[23:54:45] [User Authenticator #5/INFO]: UUID of player SoySander is 2fdec197-58fd-3a92-a8c9-336e26aeae55
+[23:54:45] [Server thread/INFO]: SoySander lost connection: You logged in from another location
+[23:54:45] [Server thread/INFO]: SoySander left the game
+[23:54:45] [Server thread/INFO]: SoySander joined the game
+[23:54:45] [Server thread/INFO]: SoySander[/127.87.61.29:47977] logged in with entity id 8004 at ([world]-2032.7214886012716, 58.5, 1665.8215719912946)
+[23:54:53] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
+[23:54:53] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
+[23:54:56] [Server thread/INFO]: SoySander lost connection: Disconnected
+[23:54:56] [Server thread/INFO]: SoySander left the game
