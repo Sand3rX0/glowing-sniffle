@@ -545,3 +545,184 @@ java.lang.NullPointerException: Cannot invoke "org.bukkit.configuration.file.Fil
 [17:16:39] [Async Chat Thread - #4/INFO]: <FantasmalKinger> NAHH TENGO LAG
 [17:16:41] [Server thread/INFO]: SoySander issued server command: /effect give SoySander minecraft:strength 11111 0 true
 [17:16:41] [Server thread/INFO]: [SoySander: Applied effect Strength to SoySander]
+[17:16:58] [Async Chat Thread - #4/INFO]: <SoySander> PELEA
+[17:16:58] [Async Chat Thread - #4/INFO]: <SoySander> PELEA
+[17:16:59] [Async Chat Thread - #4/INFO]: <SoySander> PELEA
+[17:16:59] [Async Chat Thread - #4/INFO]: <SoySander> PELEA
+[17:17:04] [Server thread/INFO]: FantasmalKinger lost connection: Disconnected
+[17:17:04] [Server thread/INFO]: [LifeStealZ] Player FantasmalKinger died!
+[17:17:04] [Server thread/INFO]: FantasmalKinger was slain by SoySander
+[17:17:05] [Server thread/INFO]: FantasmalKinger left the game
+[17:17:30] [User Authenticator #4/INFO]: UUID of player FantasmalKinger is 3b3940ea-164b-358b-a48b-f36e8814efb6
+[17:17:30] [Server thread/INFO]: FantasmalKinger joined the game
+[17:17:30] [Server thread/INFO]: FantasmalKinger[/127.17.33.166:50903] logged in with entity id 3837 at ([world]-2041.4751721204245, 63.5, 1622.0272761512947)
+[17:17:35] [Async Chat Thread - #4/INFO]: <FantasmalKinger> VOLVI
+[17:17:42] [Async Chat Thread - #4/INFO]: <FantasmalKinger> Pero estavez sin lag
+[17:17:47] [Server thread/INFO]: SoySander issued server command: /tp FantasmalKinger SoySander
+[17:17:47] [Server thread/INFO]: [SoySander: Teleported FantasmalKinger to SoySander]
+[17:17:48] [Server thread/WARN]: FantasmalKinger was kicked for floating too long!
+[17:17:48] [Server thread/INFO]: FantasmalKinger lost connection: Flying is not enabled on this server
+[17:17:48] [Server thread/INFO]: FantasmalKinger left the game
+[17:17:52] [User Authenticator #4/INFO]: UUID of player FantasmalKinger is 3b3940ea-164b-358b-a48b-f36e8814efb6
+[17:17:52] [Server thread/INFO]: FantasmalKinger joined the game
+[17:17:52] [Server thread/INFO]: FantasmalKinger[/127.17.33.166:39189] logged in with entity id 3893 at ([world]-2041.2970031867821, 63.5, 1621.1476248176207)
+[17:17:58] [Async Chat Thread - #4/INFO]: <FantasmalKinger> Que mierda??
+[17:18:00] [Server thread/INFO]: SoySander issued server command: /lifestealz giveItem SoySander defaultheart
+[17:18:08] [Server thread/INFO]: SoySander issued server command: /withdrawheart 1
+[17:18:10] [Server thread/INFO]: SoySander issued server command: /gamemode creative
+[17:18:10] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
+[17:18:13] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[17:18:13] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[17:18:14] [Async Chat Thread - #4/INFO]: <FantasmalKinger> Andaba en el spawn XDDD
+[17:18:27] [Server thread/WARN]: FantasmalKinger was kicked for floating too long!
+[17:18:27] [Server thread/INFO]: FantasmalKinger lost connection: Flying is not enabled on this server
+[17:18:27] [Server thread/INFO]: [LifeStealZ] Player FantasmalKinger died!
+[17:18:27] [Server thread/INFO]: FantasmalKinger was slain by SoySander
+[17:18:27] [Server thread/INFO]: FantasmalKinger left the game
+[17:18:31] [User Authenticator #4/INFO]: UUID of player FantasmalKinger is 3b3940ea-164b-358b-a48b-f36e8814efb6
+[17:18:31] [Server thread/INFO]: FantasmalKinger joined the game
+[17:18:31] [Server thread/INFO]: FantasmalKinger[/127.17.33.166:45595] logged in with entity id 3960 at ([world]-2035.782665653801, 64.59395507422808, 1624.5260679092132)
+[17:18:42] [Async Chat Thread - #4/INFO]: <SoySander> ya??
+[17:18:45] [Server thread/INFO]: SoySander issued server command: /withdrawheart 1
+[17:18:49] [Async Chat Thread - #4/INFO]: <SoySander> PELEA
+[17:18:49] [User Authenticator #4/INFO]: Disconnecting com.mojang.authlib.GameProfile@27298aac[id=3b3940ea-164b-358b-a48b-f36e8814efb6,name=FantasmalKinger,properties={},legacy=false] (/127.17.33.166:38083): [LoginSecurity] This player is already online!
+[17:18:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@27298aac[id=3b3940ea-164b-358b-a48b-f36e8814efb6,name=FantasmalKinger,properties={},legacy=false] (/127.17.33.166:38083) lost connection: [LoginSecurity] This player is already online!
+[17:18:52] [Server thread/INFO]: SoySander issued server command: /tp FantasmalKinger SoySander
+[17:18:52] [Server thread/INFO]: [SoySander: Teleported FantasmalKinger to SoySander]
+[17:19:06] [User Authenticator #4/INFO]: Disconnecting com.mojang.authlib.GameProfile@622b102d[id=3b3940ea-164b-358b-a48b-f36e8814efb6,name=FantasmalKinger,properties={},legacy=false] (/127.17.33.166:45019): [LoginSecurity] This player is already online!
+[17:19:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@622b102d[id=3b3940ea-164b-358b-a48b-f36e8814efb6,name=FantasmalKinger,properties={},legacy=false] (/127.17.33.166:45019) lost connection: [LoginSecurity] This player is already online!
+[17:19:11] [Server thread/INFO]: FantasmalKinger lost connection: Timed out
+[17:19:11] [Server thread/INFO]: FantasmalKinger left the game
+[17:19:23] [User Authenticator #4/INFO]: UUID of player FantasmalKinger is 3b3940ea-164b-358b-a48b-f36e8814efb6
+[17:19:23] [Server thread/INFO]: FantasmalKinger joined the game
+[17:19:23] [Server thread/INFO]: FantasmalKinger[/127.17.33.166:60051] logged in with entity id 4105 at ([world]-2039.9673472734928, 63.5, 1624.6083823029903)
+[17:19:36] [Async Chat Thread - #4/INFO]: <FantasmalKinger> volvi
+[17:19:39] [Async Chat Thread - #4/INFO]: <FantasmalKinger> pero con mas lag
+[17:19:44] [Async Chat Thread - #4/INFO]: <FantasmalKinger> ahora si
+[17:19:47] [Async Chat Thread - #4/INFO]: <SoySander> dale click
+[17:19:51] [Async Chat Thread - #4/INFO]: <FantasmalKinger> lag
+[17:19:52] [Async Chat Thread - #4/INFO]: <FantasmalKinger> XD
+[17:20:10] [Async Chat Thread - #4/INFO]: <FantasmalKinger> LAG
+[17:20:13] [Server thread/INFO]: SoySander issued server command: /effect clear SoySander
+[17:20:13] [Server thread/INFO]: [SoySander: Removed every effect from SoySander]
+[17:20:22] [Server thread/INFO]: SoySander issued server command: /effect give SoySander minecraft:strength 11111 0 true
+[17:20:22] [Server thread/INFO]: [SoySander: Applied effect Strength to SoySander]
+[17:20:24] [Server thread/INFO]: SoySander issued server command: /effect clear SoySander
+[17:20:24] [Server thread/INFO]: [SoySander: Removed every effect from SoySander]
+[17:20:29] [Async Chat Thread - #4/INFO]: <FantasmalKinger> Mori?
+[17:20:32] [Async Chat Thread - #4/INFO]: <SoySander> no
+[17:20:38] [Server thread/INFO]: SoySander issued server command: /gamemode creative
+[17:20:38] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
+[17:20:46] [Async Chat Thread - #4/INFO]: <FantasmalKinger> ey ey ey
+[17:20:51] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[17:20:51] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[17:21:11] [Async Chat Thread - #4/INFO]: <SoySander> pelea ps coño
+[17:21:13] [Async Chat Thread - #4/INFO]: <SoySander> si no me voty
+[17:21:26] [Server thread/INFO]: [LifeStealZ] Player SoySander died!
+[17:21:26] [Server thread/INFO]: SoySander was slain by FantasmalKinger
+[17:21:29] [Server thread/INFO]: SoySander issued server command: /back
+[17:21:30] [Async Chat Thread - #4/INFO]: <FantasmalKinger> ya
+[17:21:32] [Async Chat Thread - #4/INFO]: <SoySander> no
+[17:21:39] [Async Chat Thread - #4/INFO]: <SoySander> 1/3
+[17:21:42] [Async Chat Thread - #4/INFO]: <SoySander> asi va el coliseo
+[17:21:42] [Async Chat Thread - #4/INFO]: <FantasmalKinger> aaa ok
+[17:21:48] [Async Chat Thread - #4/INFO]: <SoySander> espera coño
+[17:21:50] [Async Chat Thread - #4/INFO]: <FantasmalKinger> a ok
+[17:21:52] [Async Chat Thread - #4/INFO]: <FantasmalKinger> coño ya se
+[17:21:54] [Server thread/INFO]: SoySander issued server command: /gamemode creative
+[17:21:54] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
+[17:22:04] [Server thread/INFO]: SoySander issued server command: /effect give SoySander minecraft:strength 11111 0 true
+[17:22:04] [Server thread/INFO]: [SoySander: Applied effect Strength to SoySander]
+[17:22:05] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[17:22:05] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[17:22:17] [Server thread/INFO]: [LifeStealZ] Player FantasmalKinger died!
+[17:22:17] [Server thread/INFO]: FantasmalKinger was slain by SoySander
+[17:22:22] [Server thread/INFO]: FantasmalKinger issued server command: /tpa SoySander
+[17:22:22] [Async Chat Thread - #4/INFO]: <SoySander> 2/3
+[17:22:24] [Server thread/INFO]: SoySander issued server command: /tpaccept
+[17:22:24] [Async Chat Thread - #4/INFO]: <FantasmalKinger> si
+[17:22:30] [Async Chat Thread - #4/INFO]: <FantasmalKinger> ez
+[17:22:54] [Server thread/INFO]: [LifeStealZ] Player SoySander died!
+[17:22:54] [Server thread/INFO]: SoySander was slain by FantasmalKinger
+[17:22:59] [Server thread/INFO]: SoySander issued server command: /back
+[17:23:00] [Async Chat Thread - #4/INFO]: <FantasmalKinger> la ultima
+[17:23:02] [Async Chat Thread - #4/INFO]: <FantasmalKinger> aqui se decide
+[17:23:08] [Server thread/INFO]: SoySander issued server command: /effect give SoySander minecraft:strength 11111 0 true
+[17:23:08] [Server thread/INFO]: [SoySander: Applied effect Strength to SoySander]
+[17:23:09] [Async Chat Thread - #4/INFO]: <FantasmalKinger> 2 - 1
+[17:23:21] [Server thread/INFO]: [LifeStealZ] Player FantasmalKinger died!
+[17:23:21] [Server thread/INFO]: FantasmalKinger was slain by SoySander
+[17:23:23] [Async Chat Thread - #4/INFO]: <FantasmalKinger> gg
+[17:23:25] [Async Chat Thread - #4/INFO]: <FantasmalKinger> 2 - 2
+[17:23:26] [Async Chat Thread - #4/INFO]: <FantasmalKinger> ultima
+[17:23:28] [Async Chat Thread - #4/INFO]: <FantasmalKinger> hasta 3
+[17:23:31] [Server thread/INFO]: FantasmalKinger issued server command: /tpa SoySander
+[17:23:33] [Server thread/INFO]: SoySander issued server command: /tpaccept
+[17:23:40] [Async Chat Thread - #4/INFO]: <FantasmalKinger> dame 4 manzanas
+[17:23:43] [Server thread/INFO]: SoySander issued server command: /gamemode creative
+[17:23:43] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
+[17:23:54] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[17:23:54] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[17:23:54] [Async Chat Thread - #4/INFO]: <FantasmalKinger> listo
+[17:23:55] [Async Chat Thread - #4/INFO]: <FantasmalKinger> 1
+[17:23:56] [Async Chat Thread - #4/INFO]: <FantasmalKinger> 2
+[17:23:57] [Async Chat Thread - #4/INFO]: <FantasmalKinger> 3
+[17:24:27] [Server thread/INFO]: [LifeStealZ] Player SoySander died!
+[17:24:27] [Server thread/INFO]: SoySander was slain by FantasmalKinger
+[17:24:28] [Async Chat Thread - #4/INFO]: <FantasmalKinger> LOL
+[17:24:30] [Server thread/INFO]: SoySander issued server command: /back
+[17:24:30] [Async Chat Thread - #4/INFO]: <FantasmalKinger> 1 CORA
+[17:24:41] [Async Chat Thread - #4/INFO]: <SoySander> 2-2 va pa 4 mi rey
+[17:24:50] [Async Chat Thread - #4/INFO]: <FantasmalKinger> no vale
+[17:24:51] [Async Chat Thread - #4/INFO]: <FantasmalKinger> 3 - 2
+[17:24:56] [Async Chat Thread - #4/INFO]: <FantasmalKinger> dame manzanas
+[17:24:58] [Server thread/INFO]: SoySander issued server command: /gamemode creative
+[17:24:58] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
+[17:24:59] [User Authenticator #5/INFO]: UUID of player elvatouwu is 5765b415-e7c4-3a18-b401-c6faf4e7e58b
+[17:24:59] [Server thread/INFO]: elvatouwu joined the game
+[17:24:59] [Server thread/INFO]: elvatouwu[/127.157.241.47:41743] logged in with entity id 4887 at ([world]-2061.5, 72.0, 1708.5)
+[17:25:01] [Async Chat Thread - #4/INFO]: <FantasmalKinger> no tengo
+[17:25:05] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[17:25:05] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[17:25:08] [Server thread/INFO]: FantasmalKinger issued server command: /msg SoySander llego un toxico
+[17:25:25] [Server thread/INFO]: [LifeStealZ] Player FantasmalKinger died!
+[17:25:25] [Server thread/INFO]: FantasmalKinger was slain by SoySander
+[17:25:28] [Async Chat Thread - #4/INFO]: <FantasmalKinger> wtf¿
+[17:25:31] [Server thread/INFO]: elvatouwu lost connection: Disconnected
+[17:25:31] [Server thread/INFO]: elvatouwu left the game
+[17:25:36] [Server thread/INFO]: FantasmalKinger issued server command: /tpa SoySander
+[17:25:36] [Async Chat Thread - #4/INFO]: <SoySander> ?
+[17:25:38] [Server thread/INFO]: SoySander issued server command: /tpaccept
+[17:25:40] [Async Chat Thread - #4/INFO]: <FantasmalKinger> no te quito nada
+[17:25:42] [Async Chat Thread - #4/INFO]: <SoySander> 3-3
+[17:25:44] [Server thread/INFO]: FantasmalKinger issued server command: /tpa SoySander
+[17:25:47] [Async Chat Thread - #4/INFO]: <SoySander> no me pegaste casi
+[17:25:48] [Async Chat Thread - #4/INFO]: <SoySander> xd
+[17:25:53] [Async Chat Thread - #4/INFO]: <SoySander> pera
+[17:25:54] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
+[17:25:54] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
+[17:25:56] [Server thread/INFO]: SoySander issued server command: /gamemode creative
+[17:25:56] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
+[17:26:00] [Server thread/INFO]: SoySander issued server command: /effect give SoySander minecraft:strength 11111 0 true
+[17:26:00] [Server thread/INFO]: [SoySander: Applied effect Strength to SoySander]
+[17:26:01] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[17:26:01] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[17:26:04] [Async Chat Thread - #4/INFO]: <FantasmalKinger> pa 4
+[17:26:04] [Server thread/INFO]: SoySander issued server command: /gamemode creative
+[17:26:04] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
+[17:26:06] [Async Chat Thread - #4/INFO]: <FantasmalKinger> no pa 5
+[17:26:08] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[17:26:08] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[17:26:26] [Server thread/INFO]: [LifeStealZ] Player FantasmalKinger died!
+[17:26:26] [Server thread/INFO]: FantasmalKinger was slain by SoySander
+[17:26:30] [Async Chat Thread - #4/INFO]: <FantasmalKinger> nah que trampa
+[17:26:34] [Async Chat Thread - #4/INFO]: <SoySander> ?
+[17:26:36] [Async Chat Thread - #4/INFO]: <FantasmalKinger> primero me dices que es para 3
+[17:26:39] [Async Chat Thread - #4/INFO]: <FantasmalKinger> y ahora me dices para 4
+[17:26:44] [Async Chat Thread - #4/INFO]: <SoySander> tu dijiste que pa 4 al final
+[17:26:50] [Async Chat Thread - #4/INFO]: <SoySander> el q lo dijo fuiste tu xddd
+[17:26:51] [Async Chat Thread - #4/INFO]: <FantasmalKinger> pero lo dije por sospechas
+[17:26:54] [Async Chat Thread - #4/INFO]: <FantasmalKinger> QUEEE
+[17:26:54] [Async Chat Thread - #4/INFO]: <SoySander> despues lo dijiste tu mismo
+[17:26:56] [Async Chat Thread - #4/INFO]: <FantasmalKinger> EYEYE
+[17:26:58] [Async Chat Thread - #4/INFO]: <FantasmalKinger> MIRA ARRIBA
