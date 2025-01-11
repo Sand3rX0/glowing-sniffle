@@ -1968,3 +1968,75 @@ Reason: Banned by an operator.
 [20:45:46] [Server thread/INFO]: SoySander issued server command: /home spawn
 [20:45:49] [Async Chat Thread - #22/INFO]: <SoySander> mandame tpa
 [20:46:04] [Server thread/INFO]: Josues44 issued server command: /tpa SoySander
+[20:46:07] [Server thread/INFO]: SoySander issued server command: /tpaccept
+[20:46:20] [Async Chat Thread - #22/INFO]: <Josues44> vamos?
+[20:46:30] [Async Chat Thread - #22/INFO]: <SoySander> a donde
+[20:46:34] [Async Chat Thread - #22/INFO]: <SoySander> guarda spawn
+[20:46:46] [Server thread/INFO]: Josues44 issued server command: /sethome 2
+[20:46:48] [Async Chat Thread - #22/INFO]: <Josues44> ya
+[20:46:52] [Server thread/INFO]: Josues44 issued server command: /home 1
+[20:46:57] [Async Chat Thread - #22/INFO]: <Josues44> ui
+[20:47:00] [Server thread/INFO]: Josues44 issued server command: /home 1
+[20:47:03] [Async Chat Thread - #22/INFO]: <SoySander> guarda home q digo
+[20:47:05] [Server thread/INFO]: Josues44 issued server command: /home 2
+[20:47:12] [Async Chat Thread - #22/INFO]: <Josues44> pero tenia una en mi ksa
+[20:47:14] [Async Chat Thread - #22/INFO]: <Josues44> ._.
+[20:47:19] [Async Chat Thread - #22/INFO]: <SoySander> hay mas
+[20:47:23] [Async Chat Thread - #22/INFO]: <Josues44> no
+[20:47:24] [Async Chat Thread - #22/INFO]: <SoySander> puedes poner varios
+[20:47:25] [Async Chat Thread - #22/INFO]: <SoySander> si
+[20:47:30] [Async Chat Thread - #22/INFO]: <SoySander> yo tengo 2o
+[20:47:32] [Async Chat Thread - #22/INFO]: <SoySander> mira
+[20:47:35] [Server thread/INFO]: SoySander issued server command: /home casa
+[20:47:38] [Server thread/INFO]: SoySander issued server command: /home spawn
+[20:47:40] [Async Chat Thread - #22/INFO]: <Josues44> a xd vamnos al drop luego boy y le pido tpa a xuter
+[20:47:49] [Async Chat Thread - #22/INFO]: <Josues44> donde es?
+[20:47:49] [Async Chat Thread - #22/INFO]: <SoySander> vamo
+[20:47:54] [Async Chat Thread - #22/INFO]: <SoySander> no tengo idea
+[20:48:05] [Async Chat Thread - #22/INFO]: <Josues44> aca
+[20:48:34] [Server thread/INFO]: SoySander issued server command: /gamemode creative
+[20:48:34] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
+[20:48:42] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[20:48:42] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[20:48:43] [Server thread/INFO]: Josues44 issued server command: /home 1
+[20:49:02] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
+[20:49:02] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
+[20:49:06] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[20:49:06] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[20:49:11] [Async Chat Thread - #23/INFO]: <Josues44> no hay nda
+[20:49:14] [Async Chat Thread - #23/INFO]: <SoySander> ya vi
+[20:50:04] [Async Chat Thread - #23/INFO]: <Josues44> sander?
+[20:50:11] [Server thread/INFO]: Josues44 issued server command: /homelist
+[20:50:13] [Async Chat Thread - #23/INFO]: <SoySander> ?
+[20:50:20] [Async Chat Thread - #23/INFO]: <Josues44> no habia nda
+[20:50:26] [Async Chat Thread - #23/INFO]: <SoySander> jodido
+[20:50:28] [Async Chat Thread - #23/INFO]: <SoySander> ptm
+[20:50:33] [Async Chat Thread - #23/INFO]: <Josues44> me tepas a mi ksa pofa :))))))))))
+[20:51:07] [Async Chat Thread - #23/INFO]: <SoySander> hazte home en tu cas
+[20:51:12] [Async Chat Thread - #23/INFO]: <SoySander> di coords
+[20:51:13] [Async Chat Thread - #23/INFO]: <Josues44> el home se me bugeo
+[20:51:24] [Async Chat Thread - #23/INFO]: <Josues44> pero no nos traiciones eh
+[20:51:33] [Async Chat Thread - #23/INFO]: <SoySander> no
+[20:51:49] [Async Chat Thread - #23/INFO]: <SoySander> di coords ps
+[20:51:55] [Async Chat Thread - #23/INFO]: <Josues44> ok
+[20:51:57] [Async Chat Thread - #23/INFO]: <Josues44> pera
+[20:51:59] [Async Chat Thread - #23/INFO]: <SoySander> o dile al otro q entre y ya
+[20:52:21] [Async Chat Thread - #23/INFO]: <Josues44> -5100 -1410 y altura 66
+[20:52:55] [Server thread/INFO]: SoySander issued server command: /tp Josues44 -5100 66.81 1410
+[20:52:55] [Server thread/INFO]: [SoySander: Teleported Josues44 to -5099.500000, 66.810000, 1410.500000]
+[20:53:06] [Async Chat Thread - #23/INFO]: <SoySander> ya?
+[20:53:17] [Async Chat Thread - #23/INFO]: <Josues44> espera
+[20:53:29] [Server thread/INFO]: SoySander issued server command: /gamemode creative
+[20:53:29] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
+[20:53:37] [Async Chat Thread - #23/INFO]: <Josues44> era - 1410
+[20:53:42] [Async Chat Thread - #23/INFO]: <Josues44> menoos
+[20:53:48] [Server thread/INFO]: SoySander issued server command: /tp Josues44 -1410 66.81 1410
+[20:53:48] [Server thread/INFO]: [SoySander: Teleported Josues44 to -1409.500000, 66.810000, 1410.500000]
+[20:54:04] [Async Chat Thread - #23/INFO]: <Josues44> aaaaaaa ya nda mejor luego le pido tpa a xuter
+[20:54:19] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[20:54:19] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[20:54:27] [Server thread/INFO]: SoySander lost connection: Disconnected
+[20:54:27] [Server thread/INFO]: SoySander left the game
+[20:54:31] [Async Chat Thread - #23/INFO]: <Josues44> me voi a cmoer
+[20:54:33] [Server thread/INFO]: Josues44 lost connection: Disconnected
+[20:54:33] [Server thread/INFO]: Josues44 left the game
