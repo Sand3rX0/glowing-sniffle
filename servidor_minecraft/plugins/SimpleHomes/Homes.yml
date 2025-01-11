@@ -10,6 +10,11 @@
     x: -2046
     y: 73
     z: 1709
+  casa:
+    world: world
+    x: 3344
+    y: 93
+    z: -364
 bc83c48d-239b-3c9d-8ef1-19b53d610ac4:
   default:
     world: world
