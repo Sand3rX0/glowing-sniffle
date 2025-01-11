@@ -759,3 +759,889 @@ org.bukkit.command.CommandException: Cannot execute command 'endergive' in plugi
 [19:29:05] [Server thread/INFO]: un_randompro left the game
 [19:31:45] [Server thread/INFO]: Josues44 lost connection: Disconnected
 [19:31:45] [Server thread/INFO]: Josues44 left the game
+[19:38:54] [User Authenticator #11/INFO]: UUID of player Josues44 is be14b746-ebad-3897-ba51-0ecc152e8308
+[19:38:54] [Server thread/INFO]: Josues44 joined the game
+[19:38:54] [Server thread/INFO]: Josues44[/127.162.87.84:36855] logged in with entity id 22158 at ([world_nether]-675.320883592982, 11.0, -158.69999998807907)
+[19:39:10] [Server thread/INFO]: <Server> XDDD
+[19:39:17] [Server thread/INFO]: <Server> quien anda conectado
+[19:39:18] [Async Chat Thread - #8/INFO]: <Josues44> qe
+[19:39:20] [Server thread/INFO]: <Server> ?
+[19:39:42] [Server thread/INFO]: <Server> s e x o
+[19:39:48] [Async Chat Thread - #8/INFO]: <Josues44> sigue estando lo de los crepeers??????
+[19:40:03] [Async Chat Thread - #8/INFO]: <Josues44> ¿?
+[19:40:19] [Async Chat Thread - #8/INFO]: <Josues44> pq se me laguea cuando pasa eso
+[19:41:44] [Server thread/INFO]: Josues44 issued server command: /home 1
+[19:42:01] [Server thread/INFO]: <Server> no
+[19:42:09] [Async Chat Thread - #9/INFO]: <Josues44> ok
+[19:44:07] [User Authenticator #12/INFO]: UUID of player un_randompro is 4f2ddd44-221e-3406-80eb-bdd38f185eca
+[19:44:07] [Server thread/INFO]: un_randompro joined the game
+[19:44:07] [Server thread/INFO]: un_randompro[/127.233.145.50:46983] logged in with entity id 24296 at ([world]-890.479863016765, 84.82449849556127, 2270.54538382436)
+[19:44:22] [Server thread/INFO]: un_randompro issued server command: /tp un_randompro Josues44
+[19:44:22] [Server thread/INFO]: [un_randompro: Teleported un_randompro to Josues44]
+[19:44:22] [User Authenticator #12/INFO]: UUID of player SoySander is 2fdec197-58fd-3a92-a8c9-336e26aeae55
+[19:44:22] [Server thread/INFO]: SoySander joined the game
+[19:44:22] [Server thread/INFO]: SoySander[/127.87.61.29:51089] logged in with entity id 24589 at ([world]3278.4772548490346, 95.0, -416.7155642737636)
+[19:44:39] [Server thread/INFO]: SoySander issued server command: /gamemode creative
+[19:44:39] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
+[19:44:41] [Server thread/INFO]: un_randompro issued server command: /gamemode creative
+[19:44:41] [Server thread/INFO]: [un_randompro: Set own game mode to Creative Mode]
+[19:44:55] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[19:44:55] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[19:45:09] [Server thread/INFO]: un_randompro issued server command: /effect give un_randompro minecraft:invisibility 219128
+[19:45:09] [Server thread/INFO]: [un_randompro: Applied effect Invisibility to un_randompro]
+[19:45:14] [Server thread/INFO]: SoySander issued server command: /gamemode creative
+[19:45:14] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
+[19:45:17] [Server thread/INFO]: un_randompro issued server command: /gamemode survival
+[19:45:17] [Server thread/INFO]: [un_randompro: Set own game mode to Survival Mode]
+[19:45:17] [Async Chat Thread - #10/INFO]: <Josues44> te viii
+[19:45:18] [Server thread/INFO]: un_randompro issued server command: /gamemode creative
+[19:45:18] [Server thread/INFO]: [un_randompro: Set own game mode to Creative Mode]
+[19:45:53] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[19:45:53] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[19:45:57] [Server thread/INFO]: un_randompro issued server command: /gamemode survival
+[19:45:57] [Server thread/INFO]: [un_randompro: Set own game mode to Survival Mode]
+[19:46:06] [Server thread/INFO]: SoySander issued server command: /gamemode creative
+[19:46:06] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
+[19:46:10] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[19:46:10] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[19:46:15] [Server thread/INFO]: SoySander issued server command: /tpa Josues44
+[19:46:33] [Server thread/INFO]: SoySander issued server command: /gamemode creative
+[19:46:33] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
+[19:46:48] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[19:46:48] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[19:46:51] [Server thread/INFO]: un_randompro issued server command: /gamemode creative
+[19:46:51] [Server thread/INFO]: [un_randompro: Set own game mode to Creative Mode]
+[19:46:55] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
+[19:46:55] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
+[19:46:59] [Server thread/INFO]: SoySander issued server command: /tp un_randompro
+[19:46:59] [Server thread/INFO]: [SoySander: Teleported SoySander to un_randompro]
+[19:47:00] [Server thread/INFO]: un_randompro issued server command: /gamemode survival
+[19:47:00] [Server thread/INFO]: [un_randompro: Set own game mode to Survival Mode]
+[19:47:07] [Async Chat Thread - #11/INFO]: <un_randompro> EHHH
+[19:47:09] [Async Chat Thread - #11/INFO]: <un_randompro> ILEGAL
+[19:47:12] [Server thread/INFO]: un_randompro issued server command: /gamemode creative
+[19:47:12] [Server thread/INFO]: [un_randompro: Set own game mode to Creative Mode]
+[19:47:14] [Async Chat Thread - #11/INFO]: <Josues44> qe cosaaaaaaaaa
+[19:47:21] [Async Chat Thread - #11/INFO]: <un_randompro> LA ARMADURA DE NETHERITE
+[19:47:24] [Async Chat Thread - #11/INFO]: <Josues44> aaaaaaaaaaaaaaaaaaaaa
+[19:47:29] [Async Chat Thread - #11/INFO]: <un_randompro> PASA
+[19:47:32] [Async Chat Thread - #11/INFO]: <Josues44> perdon no decia en las reglas
+[19:47:39] [Async Chat Thread - #11/INFO]: <un_randompro> lo dijimos ayer
+[19:47:40] [Async Chat Thread - #11/INFO]: <un_randompro> pasa
+[19:47:40] [Async Chat Thread - #11/INFO]: <SoySander> yo lo dije ayer
+[19:47:51] [Async Chat Thread - #11/INFO]: <SoySander> xd
+[19:47:51] [Async Chat Thread - #11/INFO]: <un_randompro> te doy el lingote y la pechera con los enchants
+[19:47:53] [Async Chat Thread - #11/INFO]: <un_randompro> pasa
+[19:47:55] [Async Chat Thread - #11/INFO]: <Josues44> te lo doy si me pasas el lingote
+[19:47:59] [Async Chat Thread - #11/INFO]: <Josues44> ok
+[19:48:15] [Async Chat Thread - #11/INFO]: <Josues44> y las herramientas de netherite son legales?
+[19:48:16] [Server thread/INFO]: un_randompro issued server command: /enchant un_randompro minecraft:protection 1
+[19:48:16] [Server thread/INFO]: [un_randompro: Applied enchantment Protection I to un_randompro's item]
+[19:48:17] [Async Chat Thread - #11/INFO]: <SoySander> si
+[19:48:20] [Async Chat Thread - #11/INFO]: <un_randompro> Josues44
+[19:48:21] [Async Chat Thread - #11/INFO]: <SoySander> las herramientas si
+[19:48:23] [Async Chat Thread - #11/INFO]: <SoySander> la armor no
+[19:48:28] [Async Chat Thread - #11/INFO]: <Josues44> aaaaaaaaaaaaaaaa oka
+[19:48:33] [Async Chat Thread - #11/INFO]: <un_randompro> que quieres un lingote o un cora?
+[19:48:36] [Async Chat Thread - #11/INFO]: <Josues44> es q no me alcanse a meter al esenario
+[19:48:41] [Async Chat Thread - #11/INFO]: <Josues44> un cora
+[19:48:56] [Async Chat Thread - #11/INFO]: <Josues44> ey random
+[19:49:17] [Server thread/INFO]: un_randompro issued server command: /home
+[19:49:18] [Async Chat Thread - #11/INFO]: <un_randompro> q
+[19:49:18] [Async Chat Thread - #11/INFO]: <Josues44> el end esta abilitadpo¡
+[19:49:20] [Async Chat Thread - #11/INFO]: <Josues44> ¿?
+[19:49:21] [Async Chat Thread - #11/INFO]: <un_randompro> NO
+[19:49:24] [Async Chat Thread - #11/INFO]: <Josues44> a oka
+[19:49:38] [Server thread/INFO]: Josues44 has made the advancement [What a Deal!]
+[19:49:40] [Async Chat Thread - #11/INFO]: <un_randompro> CASINO CERRADO
+[19:49:47] [Server thread/INFO]: un_randompro issued server command: /give un_randompro minecraft:barrier
+[19:49:47] [Server thread/INFO]: [un_randompro: Gave 1 [Barrier] to un_randompro]
+[19:50:21] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[19:50:21] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[19:50:24] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
+[19:50:24] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
+[19:50:29] [Async Chat Thread - #11/INFO]: <SoySander> s e m e n
+[19:50:30] [Server thread/INFO]: un_randompro issued server command: /tp un_randompro SoySander
+[19:50:30] [Server thread/INFO]: [un_randompro: Teleported un_randompro to SoySander]
+[19:50:36] [Async Chat Thread - #11/INFO]: <Josues44> ey
+[19:50:36] [Server thread/INFO]: un_randompro issued server command: /tp un_randompro SoySander
+[19:50:36] [Server thread/INFO]: [un_randompro: Teleported un_randompro to SoySander]
+[19:50:44] [Async Chat Thread - #11/INFO]: <un_randompro> asemos drop?
+[19:50:47] [Async Chat Thread - #11/INFO]: <Josues44> entonces los coras valen 1 lingote de netherita?
+[19:50:47] [Async Chat Thread - #11/INFO]: <SoySander> se
+[19:50:51] [Async Chat Thread - #11/INFO]: <SoySander> no
+[19:50:53] [Async Chat Thread - #11/INFO]: <SoySander> un vloque
+[19:50:56] [Server thread/INFO]: SoySander issued server command: /home spawn
+[19:50:58] [Async Chat Thread - #11/INFO]: <Josues44> ok
+[19:50:58] [Async Chat Thread - #11/INFO]: <un_randompro> el drop puede traer mierda o algo good
+[19:51:01] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[19:51:01] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[19:51:04] [Async Chat Thread - #11/INFO]: <SoySander> nono
+[19:51:09] [Async Chat Thread - #11/INFO]: <SoySander> si valen un lingote
+[19:51:13] [Async Chat Thread - #11/INFO]: <Josues44> a xd
+[19:51:25] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
+[19:51:25] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
+[19:51:32] [Async Chat Thread - #11/INFO]: <Josues44> sander
+[19:51:33] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[19:51:33] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[19:51:41] [Async Chat Thread - #11/INFO]: <SoySander> ??
+[19:51:44] [Async Chat Thread - #11/INFO]: <Josues44> van a poner lo de los cripers? denuevo????????
+[19:51:46] [Async Chat Thread - #11/INFO]: <un_randompro> drop en -5128 68 -1358
+[19:51:50] [Async Chat Thread - #11/INFO]: <Josues44> es q mi pc explotaaaaaa xd
+[19:51:52] [Async Chat Thread - #11/INFO]: <un_randompro> drop en -5128 68 -1358
+[19:52:04] [Server thread/INFO]: SoySander issued server command: /co rollback radius: 50 time: 22h
+[19:52:07] [Server thread/INFO]: un_randompro issued server command: /gamemode spectator
+[19:52:07] [Server thread/INFO]: [un_randompro: Set own game mode to Spectator Mode]
+[19:52:07] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
+[19:52:07] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
+[19:52:12] [Async Chat Thread - #11/INFO]: <Josues44> eeeeeeeee mas lejos
+[19:52:16] [Async Chat Thread - #11/INFO]: <un_randompro> zzzz
+[19:52:26] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[19:52:26] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[19:52:26] [Async Chat Thread - #11/INFO]: <un_randompro> esta alado qlicagado
+[19:52:34] [Server thread/INFO]: un_randompro issued server command: /gamemode creative
+[19:52:34] [Server thread/INFO]: [un_randompro: Set own game mode to Creative Mode]
+[19:52:38] [Server thread/INFO]: Josues44 has made the advancement [Sweet Dreams]
+[19:52:46] [Async Chat Thread - #11/INFO]: <un_randompro> drop alado tuyo
+[19:52:47] [Server thread/INFO]: un_randompro issued server command: /gamemode spectator
+[19:52:47] [Server thread/INFO]: [un_randompro: Set own game mode to Spectator Mode]
+[19:52:51] [Server thread/INFO]: un_randompro issued server command: /time set day
+[19:52:51] [Server thread/INFO]: [un_randompro: Set the time to 1000]
+[19:52:57] [Server thread/INFO]: SoySander issued server command: /home casa
+[19:53:00] [Server thread/INFO]: un_randompro issued server command: /gamemode creative
+[19:53:00] [Server thread/INFO]: [un_randompro: Set own game mode to Creative Mode]
+[19:53:02] [Server thread/INFO]: SoySander lost connection: Disconnected
+[19:53:02] [Server thread/INFO]: SoySander left the game
+[19:53:07] [User Authenticator #13/INFO]: UUID of player SoySander is 2fdec197-58fd-3a92-a8c9-336e26aeae55
+[19:53:07] [Server thread/INFO]: SoySander joined the game
+[19:53:07] [Server thread/INFO]: SoySander[/127.124.220.85:35633] logged in with entity id 27913 at ([world]3345.6730359724993, 93.0, -365.70217798778106)
+[19:53:09] [Async Chat Thread - #11/INFO]: <un_randompro> mal agradecido
+[19:53:15] [Async Chat Thread - #11/INFO]: <Josues44> era tierra-_-
+[19:53:21] [Async Chat Thread - #11/INFO]: <SoySander> XD
+[19:53:32] [Server thread/INFO]: un_randompro issued server command: /tp un_randompro SoySander
+[19:53:32] [Server thread/INFO]: [un_randompro: Teleported un_randompro to SoySander]
+[19:53:34] [Async Chat Thread - #11/INFO]: <Josues44> me dolio ;(
+[19:53:42] [Async Chat Thread - #11/INFO]: <un_randompro> bro :skull:
+[19:55:16] [Server thread/INFO]: SoySander issued server command: /ban un_randompro
+[19:55:16] [Server thread/INFO]: [SoySander: Banned un_randompro: Banned by an operator.]
+[19:55:16] [Server thread/INFO]: un_randompro lost connection: You are banned from this server
+[19:55:16] [Server thread/INFO]: [LifeStealZ] Player un_randompro died!
+[19:55:16] [Server thread/INFO]: un_randompro died
+[19:55:16] [Server thread/INFO]: un_randompro left the game
+[19:55:19] [User Authenticator #14/INFO]: UUID of player un_randompro is 4f2ddd44-221e-3406-80eb-bdd38f185eca
+[19:55:19] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@3162229[id=4f2ddd44-221e-3406-80eb-bdd38f185eca,name=un_randompro,properties={textures=[com.mojang.authlib.properties.Property@56e85816]},legacy=false] (/127.233.145.50:34525): You are banned from this server.
+Reason: Banned by an operator.
+[19:55:19] [Server thread/INFO]: com.mojang.authlib.GameProfile@3162229[id=4f2ddd44-221e-3406-80eb-bdd38f185eca,name=un_randompro,properties={textures=[com.mojang.authlib.properties.Property@56e85816]},legacy=false] (/127.233.145.50:34525) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[19:55:30] [Server thread/INFO]: SoySander issued server command: /pardon un_randompro
+[19:55:30] [Server thread/INFO]: [SoySander: Unbanned un_randompro]
+[19:55:43] [User Authenticator #14/INFO]: UUID of player un_randompro is 4f2ddd44-221e-3406-80eb-bdd38f185eca
+[19:55:43] [Server thread/INFO]: un_randompro joined the game
+[19:55:43] [Server thread/INFO]: un_randompro[/127.233.145.50:51743] logged in with entity id 28603 at ([world]3338.6970466329394, 95.04474267660358, -415.89003652285476)
+[19:55:52] [Server thread/INFO]: un_randompro issued server command: /tp un_randompro SoySander
+[19:55:52] [Server thread/INFO]: [un_randompro: Teleported un_randompro to SoySander]
+[19:55:59] [Server thread/INFO]: un_randompro issued server command: /kill SoySander
+[19:55:59] [Server thread/INFO]: [LifeStealZ] Player SoySander died!
+[19:55:59] [Server thread/INFO]: SoySander fell out of the world
+[19:55:59] [Server thread/INFO]: [un_randompro: Killed SoySander]
+[19:56:06] [Server thread/INFO]: SoySander issued server command: /tp un_randompro
+[19:56:06] [Server thread/INFO]: [SoySander: Teleported SoySander to un_randompro]
+[19:56:33] [Server thread/INFO]: un_randompro issued server command: /gamerule keepInventory false
+[19:56:33] [Server thread/INFO]: [un_randompro: Gamerule keepInventory is now set to: false]
+[19:56:36] [Server thread/INFO]: un_randompro issued server command: /kill SoySander
+[19:56:36] [Server thread/INFO]: [LifeStealZ] Player SoySander died!
+[19:56:36] [Server thread/INFO]: SoySander fell out of the world
+[19:56:36] [Server thread/INFO]: [un_randompro: Killed SoySander]
+[19:56:39] [Server thread/INFO]: SoySander issued server command: /tp un_randompro
+[19:56:39] [Server thread/INFO]: [SoySander: Teleported SoySander to un_randompro]
+[19:56:41] [Server thread/INFO]: un_randompro issued server command: /gamemode survival
+[19:56:41] [Server thread/INFO]: [un_randompro: Set own game mode to Survival Mode]
+[19:56:45] [Server thread/INFO]: un_randompro issued server command: /kill SoySander
+[19:56:45] [Server thread/INFO]: [LifeStealZ] Player SoySander died!
+[19:56:45] [Server thread/INFO]: SoySander fell out of the world
+[19:56:45] [Server thread/INFO]: [un_randompro: Killed SoySander]
+[19:56:47] [Server thread/INFO]: SoySander issued server command: /tp un_randompro
+[19:56:47] [Server thread/INFO]: [SoySander: Teleported SoySander to un_randompro]
+[19:56:52] [Server thread/INFO]: un_randompro issued server command: /gamemode creative
+[19:56:52] [Server thread/INFO]: [un_randompro: Set own game mode to Creative Mode]
+[19:57:34] [Server thread/INFO]: un_randompro issued server command: /gamemode spectator
+[19:57:34] [Server thread/INFO]: [un_randompro: Set own game mode to Spectator Mode]
+[19:57:36] [Server thread/INFO]: un_randompro issued server command: /gamemode creative
+[19:57:36] [Server thread/INFO]: [un_randompro: Set own game mode to Creative Mode]
+[19:57:39] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
+[19:57:39] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
+[19:57:39] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[19:57:39] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[19:57:40] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
+[19:57:40] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
+[19:57:40] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[19:57:40] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[19:57:41] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
+[19:57:41] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
+[19:57:41] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[19:57:41] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[19:57:42] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
+[19:57:42] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
+[19:57:43] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[19:57:43] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[19:57:44] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
+[19:57:44] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
+[19:57:44] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[19:57:44] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[19:57:44] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
+[19:57:44] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
+[19:57:45] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[19:57:45] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[19:57:46] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
+[19:57:46] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
+[19:57:47] [Server thread/INFO]: un_randompro issued server command: /gamemode spectator
+[19:57:47] [Server thread/INFO]: [un_randompro: Set own game mode to Spectator Mode]
+[19:57:51] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[19:57:51] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[19:57:53] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
+[19:57:53] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
+[19:57:54] [Server thread/INFO]: un_randompro issued server command: /gamemode creative
+[19:57:54] [Server thread/INFO]: [un_randompro: Set own game mode to Creative Mode]
+[19:57:58] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[19:57:58] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[19:57:59] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
+[19:57:59] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
+[19:58:00] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[19:58:00] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[19:58:01] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
+[19:58:01] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
+[19:58:03] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[19:58:03] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[19:58:37] [Server thread/WARN]: SoySander moved wrongly!
+[20:00:08] [Server thread/INFO]: un_randompro issued server command: /gamerule keepInventory true
+[20:00:08] [Server thread/INFO]: [un_randompro: Gamerule keepInventory is now set to: true]
+[20:00:12] [Async Chat Thread - #12/INFO]: <un_randompro> MOMENTO STEAL???
+[20:00:16] [Async Chat Thread - #12/INFO]: <un_randompro> MOMENTO STEAL???
+[20:00:16] [Async Chat Thread - #12/INFO]: <un_randompro> MOMENTO STEAL???
+[20:00:16] [Async Chat Thread - #12/INFO]: <un_randompro> MOMENTO STEAL???
+[20:00:16] [Async Chat Thread - #12/INFO]: <un_randompro> MOMENTO STEAL???
+[20:00:17] [Async Chat Thread - #12/INFO]: <SoySander> SISISISISISISISIIS
+[20:00:20] [Async Chat Thread - #12/INFO]: <SoySander> pero creeepers no
+[20:00:24] [Async Chat Thread - #12/INFO]: <Josues44> me torturan noooooooooo
+[20:00:27] [Async Chat Thread - #12/INFO]: <un_randompro> MOMENTO STEAL
+[20:00:50] [Async Chat Thread - #12/INFO]: <un_randompro> A ALGUN JUGADOR RANDOM SELE DEJARA A UN CORA Y TENDRA 2 TOTEMS Y SE LE SPAWNEARAN MOBS Q NO SEAN CREEPERS
+[20:00:52] [Async Chat Thread - #12/INFO]: <un_randompro> A ALGUN JUGADOR RANDOM SELE DEJARA A UN CORA Y TENDRA 2 TOTEMS Y SE LE SPAWNEARAN MOBS Q NO SEAN CREEPERS
+[20:00:53] [Async Chat Thread - #12/INFO]: <un_randompro> A ALGUN JUGADOR RANDOM SELE DEJARA A UN CORA Y TENDRA 2 TOTEMS Y SE LE SPAWNEARAN MOBS Q NO SEAN CREEPERS
+[20:01:06] [Async Chat Thread - #12/INFO]: <Josues44> me cago en tooodoooo
+[20:01:13] [Async Chat Thread - #12/INFO]: <Josues44> no quiero
+[20:01:21] [Async Chat Thread - #12/INFO]: <Josues44> si sale eso me salgo y no juego nunca mas
+[20:01:28] [Async Chat Thread - #12/INFO]: <SoySander> Q
+[20:01:37] [Async Chat Thread - #12/INFO]: <SoySander> NO SPAWNEES ,MOBS MIERDA
+[20:01:45] [Async Chat Thread - #12/INFO]: <SoySander> jugador aleatorio
+[20:01:48] [Async Chat Thread - #12/INFO]: <SoySander> todo yo
+[20:01:48] [Async Chat Thread - #12/INFO]: <SoySander> todo yo
+[20:01:51] [Async Chat Thread - #12/INFO]: <SoySander> malparido
+[20:01:57] [Server thread/INFO]: SoySander issued server command: /gamemode creative
+[20:01:57] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
+[20:02:03] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[20:02:03] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[20:02:03] [Async Chat Thread - #12/INFO]: <Josues44> como q aleatorio si soy solo yo .
+[20:02:06] [Async Chat Thread - #12/INFO]: <Josues44> ._.
+[20:02:09] [Async Chat Thread - #12/INFO]: <un_randompro> sander
+[20:02:11] [Async Chat Thread - #12/INFO]: <SoySander> a mi cabrom
+[20:02:14] [Server thread/INFO]: un_randompro issued server command: /kill SoySander
+[20:02:14] [Server thread/INFO]: [LifeStealZ] Player SoySander died!
+[20:02:14] [Server thread/INFO]: SoySander fell out of the world
+[20:02:14] [Server thread/INFO]: [un_randompro: Killed SoySander]
+[20:02:18] [Server thread/INFO]: SoySander issued server command: /back
+[20:02:37] [Server thread/INFO]: SoySander issued server command: /withdrawheart 1
+[20:02:38] [Server thread/INFO]: SoySander issued server command: /withdrawheart 1
+[20:02:38] [Server thread/INFO]: SoySander issued server command: /withdrawheart 1
+[20:02:38] [Server thread/INFO]: SoySander issued server command: /withdrawheart 1
+[20:02:38] [Server thread/INFO]: SoySander issued server command: /withdrawheart 1
+[20:02:38] [Server thread/INFO]: SoySander issued server command: /withdrawheart 1
+[20:02:39] [Server thread/INFO]: SoySander issued server command: /withdrawheart 1
+[20:02:39] [Server thread/INFO]: un_randompro issued server command: /kill SoySander
+[20:02:39] [Server thread/INFO]: [LifeStealZ] Player SoySander died!
+[20:02:39] [Server thread/INFO]: SoySander didn't want to live in the same world as un_randompro
+[20:02:39] [Server thread/INFO]: [un_randompro: Killed SoySander]
+[20:02:39] [Server thread/INFO]: SoySander issued server command: /withdrawheart 1
+[20:02:39] [Server thread/INFO]: SoySander issued server command: /withdrawheart 1
+[20:02:40] [Server thread/INFO]: SoySander issued server command: /withdrawheart 1
+[20:02:40] [Server thread/INFO]: SoySander issued server command: /withdrawheart 1
+[20:02:41] [Server thread/INFO]: SoySander issued server command: /withdrawheart 1
+[20:02:48] [Server thread/INFO]: SoySander issued server command: /tp un_randompro
+[20:02:48] [Server thread/INFO]: [SoySander: Teleported SoySander to un_randompro]
+[20:02:51] [Server thread/INFO]: SoySander issued server command: /tp un_randompro
+[20:02:51] [Server thread/INFO]: [SoySander: Teleported SoySander to un_randompro]
+[20:03:01] [Async Chat Thread - #12/INFO]: <SoySander> hermano mi vida
+[20:03:03] [Async Chat Thread - #12/INFO]: <SoySander> cabrom
+[20:03:16] [Async Chat Thread - #12/INFO]: <Josues44> podrian dormir pls
+[20:03:21] [Async Chat Thread - #12/INFO]: <Josues44> ?
+[20:03:31] [Server thread/INFO]: un_randompro issued server command: /give SoySander minecraft:totem_of_undying 2
+[20:03:31] [Server thread/INFO]: [un_randompro: Gave 2 [Totem of Undying] to SoySander]
+[20:03:32] [Async Chat Thread - #12/INFO]: <SoySander> zzzz
+[20:03:33] [Async Chat Thread - #12/INFO]: <SoySander> zzzz
+[20:03:33] [Async Chat Thread - #12/INFO]: <SoySander> zzz
+[20:03:33] [Async Chat Thread - #12/INFO]: <SoySander> zzz
+[20:03:34] [Async Chat Thread - #12/INFO]: <SoySander> zz
+[20:03:34] [Async Chat Thread - #12/INFO]: <SoySander> zz
+[20:03:34] [Async Chat Thread - #12/INFO]: <SoySander> zzz
+[20:03:34] [Async Chat Thread - #12/INFO]: <SoySander> zz
+[20:03:35] [Async Chat Thread - #12/INFO]: <SoySander> z
+[20:03:37] [Server thread/INFO]: un_randompro issued server command: /time set day
+[20:03:37] [Server thread/INFO]: [un_randompro: Set the time to 1000]
+[20:03:41] [Async Chat Thread - #12/INFO]: <Josues44> thanks
+[20:04:11] [Server thread/INFO]: un_randompro issued server command: /tp un_randompro SoySander
+[20:04:11] [Server thread/INFO]: [un_randompro: Teleported un_randompro to SoySander]
+[20:04:14] [Async Chat Thread - #12/INFO]: <un_randompro> EMPIEZA
+[20:04:33] [Server thread/INFO]: un_randompro issued server command: /effect give un_randompro minecraft:invisibility 12839
+[20:04:33] [Server thread/INFO]: [un_randompro: Applied effect Invisibility to un_randompro]
+[20:04:43] [Server thread/INFO]: un_randompro issued server command: /effect give un_randompro minecraft:invisibility 12839
+[20:04:43] [Server thread/INFO]: [un_randompro: Applied effect Invisibility to un_randompro]
+[20:04:46] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:04:46] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:04:46] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:04:46] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:04:46] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:04:46] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:04:53] [Server thread/INFO]: un_randompro issued server command: /gamemode survival
+[20:04:53] [Server thread/INFO]: [un_randompro: Set own game mode to Survival Mode]
+[20:04:55] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:04:55] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:04:55] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:04:55] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:04:55] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:04:55] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:04:58] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:04:58] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:04:58] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:04:58] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:04:58] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:04:58] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:05:04] [Server thread/INFO]: un_randompro issued server command: /gamemode creative
+[20:05:04] [Server thread/INFO]: [un_randompro: Set own game mode to Creative Mode]
+[20:05:34] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
+[20:05:34] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
+[20:05:59] [Server thread/INFO]: SoySander issued server command: /co rollback radius: 50 time: 10m
+[20:06:04] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[20:06:04] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[20:06:12] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:06:12] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:06:12] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:06:12] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:06:12] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:06:12] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:06:30] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:06:30] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:06:30] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:06:30] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:06:30] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:06:30] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:06:30] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:06:30] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:06:30] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:06:30] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:06:30] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:06:30] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:06:35] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:06:35] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:06:35] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:06:35] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:06:35] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:06:35] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:06:35] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:06:35] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:06:35] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:06:35] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:06:35] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:06:35] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:06:35] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:06:35] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:06:35] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:06:35] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:06:35] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:06:35] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:06:35] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:06:35] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:06:35] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:06:35] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:06:35] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:06:35] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:06:46] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:06:46] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:06:46] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:06:46] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:06:46] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:06:46] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:06:46] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:06:46] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:06:46] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:06:46] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:06:46] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:06:46] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:06:55] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:06:55] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:06:55] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:06:55] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:06:55] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:06:55] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:06:55] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:06:55] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:06:55] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:06:55] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:06:55] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:06:55] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:06:55] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:06:55] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:06:55] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:06:55] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:06:55] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:06:55] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:06:55] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:06:55] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:06:55] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:06:55] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:06:55] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:06:55] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:07:00] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:07:00] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:07:00] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:07:00] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:07:00] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:07:00] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:07:00] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:07:00] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:07:00] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:07:00] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:07:00] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:07:00] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:07:00] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:07:00] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:07:00] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:07:00] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:07:00] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:07:00] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:07:01] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:07:01] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:07:01] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:07:01] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:07:01] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:07:01] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:07:02] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:07:02] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:07:02] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:07:02] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:07:02] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:07:02] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:07:11] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:07:11] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:07:11] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:07:11] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:07:11] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:07:11] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:07:11] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:07:11] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:07:11] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:07:11] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:07:11] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:07:11] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:07:11] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:07:11] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:07:11] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:07:11] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:07:11] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:07:11] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:07:17] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:07:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:07:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:07:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:07:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:07:17] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:07:17] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:07:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:07:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:07:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:07:17] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:07:17] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:07:26] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:07:26] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:07:26] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:07:26] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:07:26] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:07:26] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:07:26] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:07:26] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:07:26] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:07:26] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:07:26] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:07:26] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:07:28] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:07:28] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:07:28] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:07:28] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:07:28] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:07:28] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:07:28] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:07:28] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:07:28] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:07:28] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:07:28] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:07:28] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:07:30] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:07:30] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:07:30] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:07:30] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:07:30] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:07:30] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:07:31] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:07:31] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:07:31] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:07:31] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:07:31] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:07:31] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:07:37] [Server thread/INFO]: un_randompro issued server command: /gamemode spectator
+[20:07:37] [Server thread/INFO]: [un_randompro: Set own game mode to Spectator Mode]
+[20:07:39] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:07:39] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:07:39] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:07:39] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:07:39] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:07:39] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:07:40] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:07:40] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:07:40] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:07:40] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:07:40] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:07:40] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:07:40] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:07:40] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:07:40] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:07:40] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:07:40] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:07:40] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:07:42] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:07:42] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:07:42] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:07:42] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:07:42] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:07:42] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:07:42] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:07:42] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:07:42] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:07:42] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:07:42] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:07:42] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:07:42] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:07:42] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:07:42] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:07:42] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:07:42] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:07:42] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:07:46] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:07:46] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:07:46] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:07:46] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:07:46] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:07:46] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:07:46] [Server thread/INFO]: un_randompro issued server command: /effect give un_randompro minecraft:invisibility 12839
+[20:07:46] [Server thread/INFO]: [un_randompro: Applied effect Invisibility to un_randompro]
+[20:07:48] [Server thread/INFO]: un_randompro issued server command: /effect give un_randompro minecraft:invisibility 12839
+[20:07:48] [Server thread/INFO]: [un_randompro: Applied effect Invisibility to un_randompro]
+[20:07:48] [Server thread/INFO]: un_randompro issued server command: /effect give un_randompro minecraft:invisibility 12839
+[20:07:48] [Server thread/INFO]: [un_randompro: Applied effect Invisibility to un_randompro]
+[20:07:48] [Server thread/INFO]: un_randompro issued server command: /effect give un_randompro minecraft:invisibility 12839
+[20:07:48] [Server thread/INFO]: [un_randompro: Applied effect Invisibility to un_randompro]
+[20:07:48] [Server thread/INFO]: un_randompro issued server command: /effect give un_randompro minecraft:invisibility 12839
+[20:07:48] [Server thread/INFO]: [un_randompro: Applied effect Invisibility to un_randompro]
+[20:07:50] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:07:50] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:07:50] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:07:50] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:07:50] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:07:50] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:07:50] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:07:50] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:07:50] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:07:50] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:07:50] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:07:50] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:07:50] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:07:50] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:07:50] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:07:50] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:07:50] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:07:50] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:07:50] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:07:50] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:07:50] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:07:50] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:07:50] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:07:50] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:07:51] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:07:51] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:07:51] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:07:51] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:07:51] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:07:51] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:07:54] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:07:54] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:07:54] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:07:54] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:07:54] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:07:54] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:07:54] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:07:54] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:07:54] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:07:54] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:07:54] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:07:54] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:07:55] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:07:55] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:07:55] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:07:55] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:07:55] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:07:55] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:07:58] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:07:58] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:07:58] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:07:58] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:07:58] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:07:58] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:07:58] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:07:58] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:07:58] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:07:58] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:07:58] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:07:58] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:07:58] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:07:58] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:07:58] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:07:58] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:07:58] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:07:58] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:07:59] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:07:59] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:07:59] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:07:59] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:07:59] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:07:59] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:07:59] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:07:59] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:07:59] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:07:59] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:07:59] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:07:59] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:07:59] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:07:59] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:07:59] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:07:59] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:07:59] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:07:59] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:08:02] [Async Chat Thread - #13/INFO]: <un_randompro> Josues44
+[20:08:03] [Server thread/INFO]: SoySander lost connection: Disconnected
+[20:08:03] [Server thread/INFO]: SoySander left the game
+[20:08:04] [Async Chat Thread - #13/INFO]: <Josues44> q
+[20:08:08] [User Authenticator #15/INFO]: UUID of player SoySander is 2fdec197-58fd-3a92-a8c9-336e26aeae55
+[20:08:08] [Server thread/INFO]: SoySander joined the game
+[20:08:08] [Server thread/INFO]: SoySander[/127.87.61.29:44419] logged in with entity id 34650 at ([world]3177.021627194373, 89.49520087700593, -460.6150334837647)
+[20:08:14] [Async Chat Thread - #13/INFO]: <un_randompro> tu elijes cuando para
+[20:08:15] [Async Chat Thread - #13/INFO]: <un_randompro> ahora
+[20:08:17] [Async Chat Thread - #13/INFO]: <un_randompro> o despues
+[20:08:20] [Async Chat Thread - #13/INFO]: <Josues44> de q
+[20:08:20] [Async Chat Thread - #13/INFO]: <un_randompro> o despues
+[20:08:23] [Server thread/INFO]: SoySander lost connection: Disconnected
+[20:08:23] [Server thread/INFO]: SoySander left the game
+[20:08:25] [Async Chat Thread - #13/INFO]: <Josues44> q cosa?
+[20:08:26] [User Authenticator #15/INFO]: UUID of player SoySander is 2fdec197-58fd-3a92-a8c9-336e26aeae55
+[20:08:26] [Server thread/INFO]: SoySander joined the game
+[20:08:26] [Server thread/INFO]: SoySander[/127.251.247.108:48525] logged in with entity id 34804 at ([world]3171.885194296967, 93.0, -443.82541919784524)
+[20:08:27] [Async Chat Thread - #13/INFO]: <un_randompro> de sander
+[20:08:30] [Async Chat Thread - #13/INFO]: <Josues44> ya para
+[20:08:38] [Async Chat Thread - #13/INFO]: <SoySander> que paso
+[20:08:40] [Async Chat Thread - #13/INFO]: <un_randompro> algo op si dices q si
+[20:08:41] [Async Chat Thread - #13/INFO]: <un_randompro> dea
+[20:08:46] [Async Chat Thread - #13/INFO]: <Josues44> si
+[20:08:48] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:08:48] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:08:48] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:08:48] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:08:48] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:08:48] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:08:49] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:08:49] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:08:49] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:08:49] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:08:49] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:08:49] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:08:49] [Async Chat Thread - #13/INFO]: <Josues44> xd
+[20:08:49] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:08:49] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:08:49] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:08:49] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:08:49] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:08:49] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:08:49] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:08:49] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:08:49] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:08:49] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:08:49] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:08:49] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:08:49] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:08:49] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:08:49] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:08:49] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:08:49] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:08:49] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:08:49] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:08:49] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:08:49] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:08:49] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:08:49] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:08:49] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:08:50] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:08:50] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:08:50] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:08:50] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:08:50] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:08:50] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:08:50] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:08:50] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:08:50] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:08:50] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:08:50] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:08:50] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:08:58] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:08:58] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:08:58] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:08:58] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:08:58] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:08:58] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:08:58] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:08:58] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:08:58] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:08:58] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:08:58] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:08:58] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:08:58] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:08:58] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:08:58] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:08:58] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:08:58] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:08:58] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:09:01] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:09:01] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:09:01] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:09:01] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:09:01] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:09:01] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:09:01] [Server thread/INFO]: un_randompro issued server command: /summon minecraft:creeper ~ ~1 ~ {powered:1,Health:1,Attributes:[{Name:"generic.maxHealth",Base:1},{Name:"generic.followRange",Base:90},{Name:"generic.knockbackResistance",Base:0.8f},{Name:"generic.movementSpeed",Base:6.8f}],ExplosionRadius:15}
+[20:09:01] [Server thread/WARN]: Ignoring unknown attribute 'generic.maxHealth'
+[20:09:01] [Server thread/WARN]: Ignoring unknown attribute 'generic.followRange'
+[20:09:01] [Server thread/WARN]: Ignoring unknown attribute 'generic.knockbackResistance'
+[20:09:01] [Server thread/WARN]: Ignoring unknown attribute 'generic.movementSpeed'
+[20:09:01] [Server thread/INFO]: [un_randompro: Summoned new Creeper]
+[20:09:11] [Server thread/INFO]: un_randompro issued server command: /gamemode creative
+[20:09:11] [Server thread/INFO]: [un_randompro: Set own game mode to Creative Mode]
+[20:09:41] [Server thread/INFO]: SoySander issued server command: /withdrawheart
+[20:09:42] [Server thread/INFO]: SoySander issued server command: /withdrawheart
+[20:09:42] [Server thread/INFO]: un_randompro issued server command: /gamerule keepInventory false
+[20:09:42] [Server thread/INFO]: [un_randompro: Gamerule keepInventory is now set to: false]
+[20:09:42] [Server thread/INFO]: SoySander issued server command: /withdrawheart
+[20:09:43] [Server thread/INFO]: SoySander issued server command: /withdrawheart
+[20:09:43] [Server thread/INFO]: SoySander issued server command: /withdrawheart
+[20:09:43] [Server thread/INFO]: SoySander issued server command: /withdrawheart
+[20:09:51] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
+[20:09:51] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
+[20:09:52] [User Authenticator #16/INFO]: UUID of player DrakoOsmar is 0669bb43-6cc6-3673-b43b-7b1dc34bd8dd
+[20:09:52] [Server thread/INFO]: DrakoOsmar joined the game
+[20:09:52] [Server thread/INFO]: DrakoOsmar[/127.60.68.65:45499] logged in with entity id 35550 at ([world]-2061.5, 72.0, 1708.5)
+[20:10:00] [Server thread/INFO]: un_randompro issued server command: /tp un_randompro DrakoOsmar
+[20:10:00] [Server thread/INFO]: [un_randompro: Teleported un_randompro to DrakoOsmar]
+[20:10:04] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[20:10:04] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[20:10:05] [Server thread/INFO]: SoySander issued server command: /gamemode creative
+[20:10:05] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
+[20:10:13] [Server thread/INFO]: DrakoOsmar has made the advancement [Suit Up]
+[20:10:14] [Async Chat Thread - #14/INFO]: <DrakoOsmar> MHHH
+[20:10:17] [Async Chat Thread - #14/INFO]: <Josues44> ola
+[20:10:17] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[20:10:17] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[20:10:20] [Async Chat Thread - #14/INFO]: <SoySander> JOSUES
+[20:10:22] [Server thread/INFO]: DrakoOsmar has made the advancement [Isn't It Iron Pick]
+[20:10:22] [Async Chat Thread - #14/INFO]: <DrakoOsmar> ola
+[20:10:24] [Async Chat Thread - #14/INFO]: <SoySander> alianza asi de chill
+[20:10:30] [Server thread/INFO]: DrakoOsmar has made the advancement [Hot Stuff]
+[20:10:36] [Async Chat Thread - #14/INFO]: <Josues44> pero tu eres admin no?
+[20:10:39] [Async Chat Thread - #14/INFO]: <SoySander> nono
+[20:10:44] [Async Chat Thread - #14/INFO]: <SoySander> ahora el random chambea por mi
+[20:10:49] [Async Chat Thread - #14/INFO]: <DrakoOsmar> q
+[20:10:54] [Async Chat Thread - #14/INFO]: <DrakoOsmar> como asi
+[20:10:57] [Server thread/INFO]: SoySander issued server command: /home spawn
+[20:11:00] [Async Chat Thread - #14/INFO]: <DrakoOsmar> :O
+[20:11:00] [Async Chat Thread - #14/INFO]: <Josues44> xd?
+[20:11:12] [Async Chat Thread - #14/INFO]: <DrakoOsmar> hackel
+[20:11:27] [Server thread/INFO]: un_randompro issued server command: /tp un_randompro DrakoOsmar
+[20:11:27] [Server thread/INFO]: [un_randompro: Teleported un_randompro to DrakoOsmar]
+[20:11:36] [Async Chat Thread - #14/INFO]: <DrakoOsmar> AJAJAJJA
+[20:11:46] [Server thread/INFO]: SoySander issued server command: /home casa
+[20:11:46] [Async Chat Thread - #14/INFO]: <DrakoOsmar> un_randompro
+[20:11:48] [Server thread/INFO]: un_randompro issued server command: /tp DrakoOsmar un_randompro
+[20:11:48] [Server thread/INFO]: [un_randompro: Teleported DrakoOsmar to un_randompro]
+[20:11:51] [Async Chat Thread - #14/INFO]: <DrakoOsmar> dame un escudo
+[20:11:51] [Server thread/INFO]: SoySander lost connection: Disconnected
+[20:11:51] [Server thread/INFO]: [LifeStealZ] Player SoySander died!
+[20:11:51] [Server thread/INFO]: SoySander died
+[20:11:51] [Server thread/INFO]: SoySander left the game
+[20:11:54] [Async Chat Thread - #14/INFO]: <DrakoOsmar> JAJAJA
+[20:11:55] [User Authenticator #17/INFO]: UUID of player SoySander is 2fdec197-58fd-3a92-a8c9-336e26aeae55
+[20:11:55] [Server thread/INFO]: SoySander joined the game
+[20:11:55] [Server thread/INFO]: SoySander[/127.251.247.108:44163] logged in with entity id 37282 at ([world]3338.6002955118174, 95.33226489655115, -357.07305310277815)
+[20:12:04] [Async Chat Thread - #14/INFO]: <SoySander> a
+[20:12:05] [Server thread/INFO]: un_randompro issued server command: /tp un_randompro DrakoOsmar
+[20:12:05] [Server thread/INFO]: [un_randompro: Teleported un_randompro to DrakoOsmar]
+[20:12:07] [Server thread/INFO]: SoySander lost connection: Disconnected
+[20:12:07] [Server thread/INFO]: SoySander left the game
+[20:12:10] [User Authenticator #17/INFO]: UUID of player SoySander is 2fdec197-58fd-3a92-a8c9-336e26aeae55
+[20:12:10] [Server thread/INFO]: SoySander joined the game
+[20:12:10] [Server thread/INFO]: SoySander[/127.251.247.108:58889] logged in with entity id 37604 at ([world]3344.4784994584857, 91.0, -383.30000001192093)
+[20:12:16] [Server thread/INFO]: un_randompro issued server command: /give DrakoOsmar minecraft:shield
+[20:12:16] [Server thread/INFO]: [un_randompro: Gave 1 [Shield] to DrakoOsmar]
+[20:12:16] [Async Chat Thread - #14/INFO]: <SoySander> aaa
+[20:12:21] [Server thread/INFO]: SoySander issued server command: /back
+[20:12:27] [Server thread/INFO]: SoySander issued server command: /home casa
+[20:12:27] [Async Chat Thread - #14/INFO]: <un_randompro> HABRO LA DUNGEON OP?
+[20:12:28] [Async Chat Thread - #14/INFO]: <un_randompro> HABRO LA DUNGEON OP?
+[20:12:28] [Async Chat Thread - #14/INFO]: <un_randompro> HABRO LA DUNGEON OP?
+[20:12:41] [Async Chat Thread - #14/INFO]: <un_randompro> VA A SER EXTREMADAMENTE DIFICIL
+[20:12:41] [Async Chat Thread - #14/INFO]: <un_randompro> VA A SER EXTREMADAMENTE DIFICIL
+[20:12:42] [Async Chat Thread - #14/INFO]: <un_randompro> VA A SER EXTREMADAMENTE DIFICIL
+[20:12:42] [Async Chat Thread - #14/INFO]: <un_randompro> VA A SER EXTREMADAMENTE DIFICIL
+[20:12:42] [Async Chat Thread - #14/INFO]: <un_randompro> HABRO LA DUNGEON OP?
+[20:12:43] [Async Chat Thread - #14/INFO]: <un_randompro> HABRO LA DUNGEON OP?
+[20:12:43] [Async Chat Thread - #14/INFO]: <un_randompro> HABRO LA DUNGEON OP?
+[20:12:54] [Server thread/INFO]: un_randompro issued server command: /gamemode survival
+[20:12:54] [Server thread/INFO]: [un_randompro: Set own game mode to Survival Mode]
+[20:12:57] [Server thread/INFO]: SoySander issued server command: /home spawn
+[20:13:05] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
+[20:13:05] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
+[20:13:10] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[20:13:10] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[20:13:34] [Server thread/INFO]: un_randompro issued server command: /gamemode spectator
+[20:13:34] [Server thread/INFO]: [un_randompro: Set own game mode to Spectator Mode]
+[20:13:44] [Server thread/INFO]: un_randompro issued server command: /clear un_randompro
+[20:13:44] [Server thread/INFO]: [un_randompro: Removed 368 items from player un_randompro]
+[20:13:46] [Server thread/INFO]: un_randompro issued server command: /gamemode creative
+[20:13:46] [Server thread/INFO]: [un_randompro: Set own game mode to Creative Mode]
+[20:14:05] [Server thread/INFO]: un_randompro issued server command: /gamerule keepInventory true
+[20:14:05] [Server thread/INFO]: [un_randompro: Gamerule keepInventory is now set to: true]
+[20:14:22] [Server thread/INFO]: un_randompro issued server command: /gamerule keepInventory false
+[20:14:22] [Server thread/INFO]: [un_randompro: Gamerule keepInventory is now set to: false]
+[20:14:32] [Server thread/INFO]: un_randompro issued server command: /gamemode survival
+[20:14:32] [Server thread/INFO]: [un_randompro: Set own game mode to Survival Mode]
+[20:14:38] [Server thread/INFO]: DrakoOsmar has reached the goal [Postmortal]
+[20:14:39] [Server thread/INFO]: un_randompro issued server command: /stack
+[20:14:40] [Async Chat Thread - #15/INFO]: <Josues44> apero q no sea alado de mi ksa no joda
+[20:14:42] [Server thread/INFO]: un_randompro issued server command: /gamemode creative
+[20:14:42] [Server thread/INFO]: [un_randompro: Set own game mode to Creative Mode]
+[20:14:54] [Server thread/INFO]: un_randompro issued server command: /gamemode survival
+[20:14:54] [Server thread/INFO]: [un_randompro: Set own game mode to Survival Mode]
+[20:14:57] [Server thread/INFO]: un_randompro issued server command: /stack
+[20:14:59] [Server thread/INFO]: un_randompro issued server command: /gamemode creative
+[20:14:59] [Server thread/INFO]: [un_randompro: Set own game mode to Creative Mode]
+[20:15:11] [Async Chat Thread - #15/INFO]: <Josues44> drako puedes dormir???????
