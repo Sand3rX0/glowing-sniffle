@@ -1926,3 +1926,45 @@ Reason: Banned by an operator.
 [20:34:55] [Server thread/INFO]: un_randompro issued server command: /tp @a un_randompro
 [20:34:55] [Server thread/INFO]: [un_randompro: Teleported 5 entities to un_randompro]
 [20:35:22] [Async Chat Thread - #20/INFO]: <Josues44> pokito
+[20:36:22] [Server thread/INFO]: XuterMC issued server command: /home al
+[20:37:12] [Async Chat Thread - #21/INFO]: <un_randompro> mas loot?
+[20:37:16] [Server thread/INFO]: Josues44 issued server command: /home 1
+[20:37:20] [Async Chat Thread - #21/INFO]: <Josues44> tp pofa
+[20:37:21] [Async Chat Thread - #21/INFO]: <Josues44> ami
+[20:37:30] [Server thread/INFO]: [LifeStealZ] Player SoySander died!
+[20:37:30] [Server thread/INFO]: SoySander was slain by Ravager
+[20:37:36] [Async Chat Thread - #21/INFO]: <Josues44> random
+[20:37:38] [Server thread/INFO]: SoySander issued server command: /back
+[20:37:40] [Async Chat Thread - #21/INFO]: <un_randompro> ?¿?¿?¿
+[20:37:45] [Server thread/INFO]: un_randompro issued server command: /tp DrakoOsmar un_randompro
+[20:37:45] [Server thread/INFO]: [un_randompro: Teleported DrakoOsmar to un_randompro]
+[20:37:49] [Server thread/INFO]: DrakoOsmar has reached the goal [Sky's the Limit]
+[20:38:02] [Server thread/INFO]: un_randompro issued server command: /stack
+[20:38:06] [Async Chat Thread - #21/INFO]: <Josues44> tp ami solo pofa es q no pude abrir el cofre y otravez tube q hacer /home
+[20:38:29] [Server thread/INFO]: un_randompro issued server command: /op SoySander
+[20:38:29] [Server thread/INFO]: [un_randompro: Made SoySander a server operator]
+[20:38:32] [Async Chat Thread - #21/INFO]: <un_randompro> BYE
+[20:38:34] [Server thread/INFO]: un_randompro issued server command: /tp DrakoOsmar un_randompro
+[20:38:34] [Server thread/INFO]: [un_randompro: Teleported DrakoOsmar to un_randompro]
+[20:38:38] [Server thread/INFO]: DrakoOsmar lost connection: Disconnected
+[20:38:38] [Server thread/INFO]: DrakoOsmar left the game
+[20:38:40] [Server thread/INFO]: un_randompro lost connection: Disconnected
+[20:38:40] [Server thread/INFO]: un_randompro left the game
+[20:38:42] [Server thread/INFO]: [LifeStealZ] Player SoySander died!
+[20:38:42] [Server thread/INFO]: SoySander was slain by Wither Skeleton
+[20:38:45] [Server thread/INFO]: SoySander lost connection: Disconnected
+[20:38:45] [Server thread/INFO]: SoySander left the game
+[20:38:54] [Async Chat Thread - #21/INFO]: <Josues44> sander tu pudiste abrir cofres?
+[20:39:45] [Async Chat Thread - #21/INFO]: <Josues44> sandeeeeeeer tp pofaaaaaaaaaa
+[20:40:14] [Server thread/INFO]: Josues44 issued server command: /home 1
+[20:42:59] [Server thread/INFO]: XuterMC lost connection: Disconnected
+[20:42:59] [Server thread/INFO]: XuterMC left the game
+[20:45:14] [User Authenticator #20/INFO]: UUID of player SoySander is 2fdec197-58fd-3a92-a8c9-336e26aeae55
+[20:45:14] [Server thread/INFO]: SoySander joined the game
+[20:45:14] [Server thread/INFO]: SoySander[/127.251.247.108:35187] logged in with entity id 49683 at ([world]3344.5, 91.0, -384.5)
+[20:45:26] [Async Chat Thread - #22/INFO]: <SoySander> que pso
+[20:45:31] [Async Chat Thread - #22/INFO]: <SoySander> a donde fueron todos amigo
+[20:45:41] [Async Chat Thread - #22/INFO]: <Josues44> ME HACES TP AL spawn pofa?
+[20:45:46] [Server thread/INFO]: SoySander issued server command: /home spawn
+[20:45:49] [Async Chat Thread - #22/INFO]: <SoySander> mandame tpa
+[20:46:04] [Server thread/INFO]: Josues44 issued server command: /tpa SoySander
