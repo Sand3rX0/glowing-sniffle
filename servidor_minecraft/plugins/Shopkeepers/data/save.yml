@@ -78,6 +78,43 @@ data-version: 3|2|3105
         ==: org.bukkit.inventory.ItemStack
         v: 3105
         type: NETHERITE_INGOT
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3105
+        type: WRITTEN_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: BOOK_SIGNED
+          internal: H4sIAAAAAAAA/+NiYOBg4EvLzClJLUpNiS/JLMlJZeBxzs8vSlEIyEmsTC1iAABx9j7IIwAAAA==
+          title: Coord Player
+          author: SoySander
+          pages:
+          - '{"text":"Consulta  A Un admin"}'
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3105
+        type: DIAMOND
+        amount: 32
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3105
+        type: WRITTEN_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: BOOK_SIGNED
+          display-name: '{"text":"Coord De Lo que sea"}'
+          internal: H4sIAAAAAAAA/+NiYOBg4EvLzClJLUpNiS/JLMlJZeBxzs8vSlFwSVVwzClhAADaIid1IwAAAA==
+          title: Coord De Alt
+          author: SoySander
+          pages:
+          - '{"text":"Consulta a un admin\nO Abre Ticket para Reclamar Este Objeto"}'
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3105
+        type: DIAMOND
+        amount: 15
   snapshots: []
 '3':
   uniqueId: 6d7ac0ef-e262-489e-b032-b31b0b86b0d4
@@ -126,4 +163,84 @@ data-version: 3|2|3105
         ==: org.bukkit.inventory.ItemStack
         v: 3105
         type: DIAMOND
+  snapshots: []
+'4':
+  uniqueId: 3f32e870-cc63-4bcc-b28b-d73fa85166c3
+  world: world
+  x: -2022
+  y: 61
+  z: 1651
+  yaw: 39.2481
+  type: admin
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: PLAINS
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3105
+        type: TRIPWIRE_HOOK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"red","text":"Maquina
+            Crate Key"}],"text":""}'
+          enchants:
+            KNOCKBACK: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+          PublicBukkitValues:
+            cratesplusreloaded:name: Maquina
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3105
+        type: IRON_INGOT
+        amount: 10
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3105
+        type: TRIPWIRE_HOOK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"red","text":"Maquina
+            Crate Key"}],"text":""}'
+          enchants:
+            KNOCKBACK: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+          PublicBukkitValues:
+            cratesplusreloaded:name: Maquina
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3105
+        type: DIAMOND
+        amount: 3
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3105
+        type: TRIPWIRE_HOOK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"red","text":"Maquina
+            Crate Key"}],"text":""}'
+          enchants:
+            KNOCKBACK: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+          PublicBukkitValues:
+            cratesplusreloaded:name: Maquina
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3105
+        type: GOLD_INGOT
+        amount: 5
   snapshots: []

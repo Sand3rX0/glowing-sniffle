@@ -10,17 +10,17 @@
 # REMEMBER TO KEEP PERIODICAL BACKUPS.
 #
 regions:
-    spawn2:
-        min: {x: -2069, y: -64, z: 1701}
-        max: {x: -2058, y: 319, z: 1711}
+    zona2:
+        min: {x: -2058, y: -64, z: 1665}
+        max: {x: -2034, y: 319, z: 1686}
         members: {}
-        flags: {}
+        flags: {interact: allow}
         owners: {}
         type: cuboid
         priority: 0
-    spawn:
-        min: {x: -2067, y: 71, z: 1685}
-        max: {x: -2028, y: 72, z: 1717}
+    spawn2:
+        min: {x: -2069, y: -64, z: 1701}
+        max: {x: -2058, y: 319, z: 1711}
         members: {}
         flags: {}
         owners: {}
@@ -50,6 +50,62 @@ regions:
         owners: {}
         type: cuboid
         priority: 0
+    dungeon2:
+        min: {x: -2067, y: -64, z: 1652}
+        max: {x: -2057, y: 319, z: 1689}
+        members: {}
+        flags: {}
+        owners: {}
+        type: cuboid
+        priority: 0
+    pvp:
+        min: {x: -2043, y: -64, z: 1620}
+        max: {x: -2035, y: 319, z: 1630}
+        members: {}
+        flags: {block-break: allow, interact: allow, pvp: allow, block-place: allow}
+        owners: {}
+        type: cuboid
+        priority: 0
+    spleef:
+        min: {x: -2131, y: -64, z: 1580}
+        max: {x: -2080, y: 319, z: 1630}
+        members: {}
+        flags: {block-break: allow}
+        owners: {}
+        type: cuboid
+        priority: 0
+    life:
+        min: {x: -2067, y: -64, z: 1678}
+        max: {x: -2015, y: 319, z: 1730}
+        members: {}
+        flags: {interact: allow}
+        owners: {}
+        type: cuboid
+        priority: 0
+    dungeon:
+        min: {x: -2067, y: 69, z: 1652}
+        max: {x: -2057, y: 71, z: 1689}
+        members: {}
+        flags: {block-trampling: allow, chest-access: allow}
+        owners: {}
+        type: cuboid
+        priority: 0
+    zona:
+        min: {x: -2047, y: -64, z: 1650}
+        max: {x: -2027, y: 319, z: 1675}
+        members: {}
+        flags: {}
+        owners: {}
+        type: cuboid
+        priority: 0
+    spawn:
+        min: {x: -2067, y: 71, z: 1685}
+        max: {x: -2028, y: 72, z: 1717}
+        members: {}
+        flags: {}
+        owners: {}
+        type: cuboid
+        priority: 0
     cueva:
         min: {x: -2076, y: -64, z: 1625}
         max: {x: -2008, y: 319, z: 1688}
@@ -63,22 +119,6 @@ regions:
         max: {x: -2129, y: 319, z: 1595}
         members: {}
         flags: {interact: allow}
-        owners: {}
-        type: cuboid
-        priority: 0
-    pvp:
-        min: {x: -2043, y: -64, z: 1620}
-        max: {x: -2035, y: 319, z: 1630}
-        members: {}
-        flags: {pvp: allow}
-        owners: {}
-        type: cuboid
-        priority: 0
-    life:
-        min: {x: -2067, y: -64, z: 1678}
-        max: {x: -2015, y: 319, z: 1730}
-        members: {}
-        flags: {}
         owners: {}
         type: cuboid
         priority: 0

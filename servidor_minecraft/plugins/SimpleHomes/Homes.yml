@@ -4,3 +4,39 @@
     x: -2031
     y: 64
     z: 1626
+2fdec197-58fd-3a92-a8c9-336e26aeae55:
+  spawn:
+    world: world
+    x: -2046
+    y: 73
+    z: 1709
+bc83c48d-239b-3c9d-8ef1-19b53d610ac4:
+  default:
+    world: world
+    x: -1520
+    y: 79
+    z: 1652
+a0ca1217-835b-34d9-9dea-9fd786f32201:
+  default:
+    world: world
+    x: -5138
+    y: 65
+    z: -1400
+4a212ac4-ab8c-3fc7-bce8-547d3889426f:
+  default:
+    world: world
+    x: -5135
+    y: 69
+    z: -1406
+be14b746-ebad-3897-ba51-0ecc152e8308:
+  default:
+    world: world
+    x: -5147
+    y: 72
+    z: -1345
+4f2ddd44-221e-3406-80eb-bdd38f185eca:
+  default:
+    world: world
+    x: -1513
+    y: 73
+    z: 1641
