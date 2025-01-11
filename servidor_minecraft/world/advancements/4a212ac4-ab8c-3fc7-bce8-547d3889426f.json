@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-01-11 21:48:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-01-11 00:56:22 +0000"
@@ -1069,6 +1075,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-01-11 22:02:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-01-11 03:33:29 +0000"
@@ -1785,6 +1797,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-01-11 22:00:40 +0000",
       "minecraft:sunflower_plains": "2025-01-11 03:32:40 +0000",
       "minecraft:beach": "2025-01-11 00:54:02 +0000",
       "minecraft:river": "2025-01-11 00:55:55 +0000",
