@@ -1,18 +1,41 @@
-[23:09:56] [ServerMain/INFO]: Building unoptimized datafixer
-[23:09:57] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[23:10:00] [ServerMain/INFO]: Loaded 7 recipes
-[23:10:02] [Server thread/INFO]: Starting minecraft server version 1.19
-[23:10:02] [Server thread/INFO]: Loading properties
-[23:10:02] [Server thread/INFO]: This server is running Paper version git-Paper-81 (MC: 1.19) (Implementing API version 1.19-R0.1-SNAPSHOT) (Git: 86f87ba)
-[23:10:02] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[23:10:02] [Server thread/INFO]: Using 4 threads for Netty based IO
-[23:10:03] [Server thread/INFO]: Default game type: SURVIVAL
-[23:10:03] [Server thread/INFO]: Generating keypair
-[23:10:03] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:10:03] [Server thread/INFO]: Using epoll channel type
-[23:10:03] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[23:10:03] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[23:10:04] [Server thread/ERROR]: Could not load 'plugins/ExcellentCrates-5.3.5.jar' in folder 'plugins'
+[00:14:14] [ServerMain/INFO]: Building unoptimized datafixer
+[00:14:16] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[00:14:18] [ServerMain/INFO]: Loaded 7 recipes
+[00:14:21] [Server thread/INFO]: Starting minecraft server version 1.19
+[00:14:21] [Server thread/INFO]: Loading properties
+[00:14:21] [Server thread/INFO]: This server is running Paper version git-Paper-81 (MC: 1.19) (Implementing API version 1.19-R0.1-SNAPSHOT) (Git: 86f87ba)
+[00:14:21] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:14:21] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:14:21] [Server thread/INFO]: Default game type: SURVIVAL
+[00:14:21] [Server thread/INFO]: Generating keypair
+[00:14:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:14:22] [Server thread/INFO]: Using epoll channel type
+[00:14:22] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[00:14:22] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[00:14:22] [Server thread/ERROR]: Could not load 'plugins/MythicMobs-5.7.2.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidDescriptionException: Invalid plugin.yml
+	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:186) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:155) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.loadPlugins(CraftServer.java:421) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:278) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1122) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:303) ~[paper-1.19.jar:git-Paper-81]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.util.zip.ZipException: zip file is empty
+	at java.util.zip.ZipFile$Source.zerror(ZipFile.java:1766) ~[?:?]
+	at java.util.zip.ZipFile$Source.findEND(ZipFile.java:1550) ~[?:?]
+	at java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1645) ~[?:?]
+	at java.util.zip.ZipFile$Source.<init>(ZipFile.java:1483) ~[?:?]
+	at java.util.zip.ZipFile$Source.get(ZipFile.java:1445) ~[?:?]
+	at java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:717) ~[?:?]
+	at java.util.zip.ZipFile.<init>(ZipFile.java:251) ~[?:?]
+	at java.util.zip.ZipFile.<init>(ZipFile.java:180) ~[?:?]
+	at java.util.jar.JarFile.<init>(JarFile.java:346) ~[?:?]
+	at java.util.jar.JarFile.<init>(JarFile.java:317) ~[?:?]
+	at java.util.jar.JarFile.<init>(JarFile.java:283) ~[?:?]
+	at org.bukkit.plugin.java.JavaPluginLoader.getPluginDescription(JavaPluginLoader.java:174) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
+	... 6 more
+[00:14:23] [Server thread/ERROR]: Could not load 'plugins/ExcellentCrates-5.3.5.jar' in folder 'plugins'
 org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [nightcore]. Please download and install these plugins to run 'ExcellentCrates'.
 	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:287) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
 	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.loadPlugins(CraftServer.java:421) ~[paper-1.19.jar:git-Paper-81]
@@ -20,43 +43,44 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1122) ~[paper-1.19.jar:git-Paper-81]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:303) ~[paper-1.19.jar:git-Paper-81]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[23:10:05] [Server thread/ERROR]: [STDERR] [org.bukkit.craftbukkit.v1_19_R1.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[23:10:10] [Server thread/WARN]: Legacy plugin SimpleHomes v2.0.4 does not specify an api-version.
-[23:10:11] [Server thread/INFO]: [SimpleTpa] Loading SimpleTpa v7.4
-[23:10:11] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.3.0-beta-02+e11f161
-[23:10:11] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@65c64e5]
-[23:10:11] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.5.1
-[23:10:11] [Server thread/INFO]: [AnimationsCore] Loading AnimationsCore v0.1-SNAPSHOT
-[23:10:11] [Server thread/INFO]: [CombatLog] Loading CombatLog v1.1.1
-[23:10:11] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.3.0
-[23:10:11] [Server thread/INFO]: [MinerTrack] Loading MinerTrack v1.6.5
-[23:10:11] [Server thread/INFO]: [SimpleHomes] Loading SimpleHomes v2.0.4
-[23:10:11] [Server thread/INFO]: [CratesPlusReloaded] Loading CratesPlusReloaded v4.1-SNAPSHOT
-[23:10:11] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.8+33cdb4a
-[23:10:11] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v22.4
-[23:10:11] [Server thread/INFO]: [LifeStealZ] Loading LifeStealZ v2.9.2
-[23:10:11] [Server thread/INFO]: [LifeStealZ] Loading LifeStealZ...
-[23:10:11] [Server thread/INFO]: [LifeStealZ] WorldGuard found! Enabling WorldGuard support...
-[23:10:11] [Server thread/INFO]: [LifeStealZ] WorldGuard found! Enabled WorldGuard support!
-[23:10:11] [Server thread/INFO]: [Shopkeepers] Loading Shopkeepers v2.19.0
-[23:10:12] [Server thread/INFO]: [Shopkeepers] Loaded all plugin classes (401 ms).
-[23:10:12] [Server thread/INFO]: [Shopkeepers] Loading config.
-[23:10:12] [Server thread/WARN]: [Shopkeepers] Config: Invalid living entity type name in 'enabled-living-shops': CAMEL
-[23:10:12] [Server thread/WARN]: [Shopkeepers] Config: Invalid living entity type name in 'enabled-living-shops': SNIFFER
-[23:10:12] [Server thread/WARN]: [Shopkeepers] Config: All existing entity type names can be found here: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/entity/EntityType.html
-[23:10:12] [Server thread/INFO]: [Shopkeepers] Loading language file: language-en-default.yml
-[23:10:12] [Server thread/WARN]: [Shopkeepers] Config: Invalid living entity type name in 'enabled-living-shops': CAMEL
-[23:10:12] [Server thread/WARN]: [Shopkeepers] Config: Invalid living entity type name in 'enabled-living-shops': SNIFFER
-[23:10:12] [Server thread/WARN]: [Shopkeepers] Config: All existing entity type names can be found here: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/entity/EntityType.html
-[23:10:12] [Server thread/INFO]: [Shopkeepers] Registering WorldGuard flag 'allow-shop'.
-[23:10:12] [Server thread/INFO]: [Shopkeepers] Registering defaults.
-[23:10:12] [Server thread/INFO]: [GSit] Loading GSit v1.13.0
-[23:10:12] [Server thread/INFO]: [ConditionalEvents] Loading ConditionalEvents v4.60.1
-[23:10:12] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[23:10:12] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.0-beta-02+e11f161
-[23:10:12] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[23:10:12] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[23:10:13] [Server thread/WARN]: 
+[00:14:23] [Server thread/ERROR]: [STDERR] [org.bukkit.craftbukkit.v1_19_R1.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[00:14:29] [Server thread/WARN]: Legacy plugin SimpleHomes v2.0.4 does not specify an api-version.
+[00:14:29] [Server thread/INFO]: [SimpleTpa] Loading SimpleTpa v7.4
+[00:14:29] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.3.0-beta-02+e11f161
+[00:14:30] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@4b4aa166]
+[00:14:30] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.5.1
+[00:14:30] [Server thread/INFO]: [AnimationsCore] Loading AnimationsCore v0.1-SNAPSHOT
+[00:14:30] [Server thread/INFO]: [CombatLog] Loading CombatLog v1.1.1
+[00:14:30] [Server thread/INFO]: [PlasmoVoice] Loading PlasmoVoice v2.0.4
+[00:14:30] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.3.0
+[00:14:30] [Server thread/INFO]: [MinerTrack] Loading MinerTrack v1.6.5
+[00:14:30] [Server thread/INFO]: [SimpleHomes] Loading SimpleHomes v2.0.4
+[00:14:30] [Server thread/INFO]: [CratesPlusReloaded] Loading CratesPlusReloaded v4.1-SNAPSHOT
+[00:14:30] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.8+33cdb4a
+[00:14:30] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v22.4
+[00:14:30] [Server thread/INFO]: [LifeStealZ] Loading LifeStealZ v2.9.2
+[00:14:30] [Server thread/INFO]: [LifeStealZ] Loading LifeStealZ...
+[00:14:30] [Server thread/INFO]: [LifeStealZ] WorldGuard found! Enabling WorldGuard support...
+[00:14:30] [Server thread/INFO]: [LifeStealZ] WorldGuard found! Enabled WorldGuard support!
+[00:14:30] [Server thread/INFO]: [Shopkeepers] Loading Shopkeepers v2.19.0
+[00:14:31] [Server thread/INFO]: [Shopkeepers] Loaded all plugin classes (431 ms).
+[00:14:31] [Server thread/INFO]: [Shopkeepers] Loading config.
+[00:14:31] [Server thread/WARN]: [Shopkeepers] Config: Invalid living entity type name in 'enabled-living-shops': CAMEL
+[00:14:31] [Server thread/WARN]: [Shopkeepers] Config: Invalid living entity type name in 'enabled-living-shops': SNIFFER
+[00:14:31] [Server thread/WARN]: [Shopkeepers] Config: All existing entity type names can be found here: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/entity/EntityType.html
+[00:14:31] [Server thread/INFO]: [Shopkeepers] Loading language file: language-en-default.yml
+[00:14:31] [Server thread/WARN]: [Shopkeepers] Config: Invalid living entity type name in 'enabled-living-shops': CAMEL
+[00:14:31] [Server thread/WARN]: [Shopkeepers] Config: Invalid living entity type name in 'enabled-living-shops': SNIFFER
+[00:14:31] [Server thread/WARN]: [Shopkeepers] Config: All existing entity type names can be found here: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/entity/EntityType.html
+[00:14:31] [Server thread/INFO]: [Shopkeepers] Registering WorldGuard flag 'allow-shop'.
+[00:14:31] [Server thread/INFO]: [Shopkeepers] Registering defaults.
+[00:14:31] [Server thread/INFO]: [GSit] Loading GSit v1.13.0
+[00:14:31] [Server thread/INFO]: [ConditionalEvents] Loading ConditionalEvents v4.60.1
+[00:14:31] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:14:31] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.0-beta-02+e11f161
+[00:14:31] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[00:14:31] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[00:14:31] [Server thread/WARN]: 
 **********************************************
 ** This WorldEdit version does not fully support your version of Bukkit.
 **
@@ -67,122 +91,123 @@ org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins
 ** Please see https://worldedit.enginehub.org/en/latest/faq/#bukkit-adapters
 **********************************************
 
-[23:10:13] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
-[23:10:14] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
-[23:10:14] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.19.0[32;1m.[0;39m
-[23:10:15] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
-[23:10:15] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mPlease update your Java runtime to at least Java 21 (your version is 17).[0;39m
-[23:10:15] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mAt some point in the future, SkinsRestorer will no longer be compatible with this version of Java.[0;39m
-[23:10:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:10:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:10:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:10:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:10:15] [Server thread/INFO]: Preparing level "world"
-[23:10:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:10:30] [Server thread/INFO]: Preparing spawn area: 0%
-[23:10:30] [Server thread/INFO]: Preparing spawn area: 0%
-[23:10:30] [Server thread/INFO]: Preparing spawn area: 0%
-[23:10:31] [Server thread/INFO]: Preparing spawn area: 0%
-[23:10:31] [Server thread/INFO]: Preparing spawn area: 0%
-[23:10:32] [Server thread/INFO]: Preparing spawn area: 0%
-[23:10:32] [Server thread/INFO]: Preparing spawn area: 0%
-[23:10:33] [Server thread/INFO]: Preparing spawn area: 0%
-[23:10:33] [Server thread/INFO]: Time elapsed: 3562 ms
-[23:10:33] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[23:10:33] [Server thread/INFO]: Preparing spawn area: 0%
-[23:10:33] [Server thread/INFO]: Preparing spawn area: 0%
-[23:10:34] [Server thread/INFO]: Preparing spawn area: 0%
-[23:10:34] [Server thread/INFO]: Preparing spawn area: 0%
-[23:10:35] [Server thread/INFO]: Time elapsed: 1917 ms
-[23:10:35] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[23:10:35] [Server thread/INFO]: Preparing spawn area: 0%
-[23:10:35] [Server thread/INFO]: Preparing spawn area: 0%
-[23:10:36] [Server thread/INFO]: Preparing spawn area: 0%
-[23:10:36] [Server thread/INFO]: Preparing spawn area: 0%
-[23:10:36] [Server thread/INFO]: Time elapsed: 1623 ms
-[23:10:36] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.4
-[23:10:36] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
-[23:10:36] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.4
-[23:10:36] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
-[23:10:36] [Server thread/INFO]: [AnimationsCore] Enabling AnimationsCore v0.1-SNAPSHOT
-[23:10:36] [Server thread/INFO]: [AnimationsCore] [ACF] Enabled Asynchronous Tab Completion Support!
-[23:10:36] [Server thread/INFO]: [CombatLog] Enabling CombatLog v1.1.1
-[23:10:36] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
-[23:10:37] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
-[23:10:37] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
-[23:10:37] [Server thread/INFO]: [LoginSecurity] Registering commands...
-[23:10:37] [Server thread/INFO]: [LoginSecurity] Registering listeners...
-[23:10:37] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
-[23:10:37] [Server thread/INFO]: [MinerTrack] Enabling MinerTrack v1.6.5
-[23:10:37] [Server thread/WARN]: [MinerTrack] Failed to schedule task on Spigot: org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftScheduler.runTaskTimer(java.lang.Runnable,long,long)
-[23:10:37] [Server thread/WARN]: java.lang.NoSuchMethodException: org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftScheduler.runTaskTimer(java.lang.Runnable,long,long)
-[23:10:37] [Server thread/WARN]: 	at java.base/java.lang.Class.getMethod(Class.java:2227)
-[23:10:37] [Server thread/WARN]: 	at MinerTrack-1.6.5.jar//link.star_dust.MinerTrack.managers.ViolationManager.<init>(ViolationManager.java:70)
-[23:10:37] [Server thread/WARN]: 	at MinerTrack-1.6.5.jar//link.star_dust.MinerTrack.MinerTrack.onEnable(MinerTrack.java:62)
-[23:10:37] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264)
-[23:10:37] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:370)
-[23:10:37] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:542)
-[23:10:37] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.enablePlugin(CraftServer.java:563)
-[23:10:37] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.enablePlugins(CraftServer.java:477)
-[23:10:37] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:634)
-[23:10:37] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:420)
-[23:10:37] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.e(DedicatedServer.java:306)
-[23:10:37] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.v(MinecraftServer.java:1122)
-[23:10:37] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:303)
-[23:10:37] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:840)
-[23:10:37] [Server thread/ERROR]: [MinerTrack] Plugin MinerTrack v1.6.5 has failed to register events for class link.star_dust.MinerTrack.listeners.MiningListener because io/papermc/paper/threadedregions/scheduler/ScheduledTask does not exist.
-[23:10:37] [Server thread/INFO]: ----[MinerTrack v1.6.5 ]-----------
-[23:10:37] [Server thread/INFO]: MinerTrack Anti-XRay Enabled!
-[23:10:37] [Server thread/INFO]: 
-[23:10:37] [Server thread/INFO]: Authors: Author87668
-[23:10:37] [Server thread/INFO]: Original Author: Author87668
-[23:10:37] [Server thread/INFO]: Contributors: Author87668
-[23:10:37] [Server thread/INFO]: 
-[23:10:37] [Server thread/INFO]: Thanks for your use!
-[23:10:37] [Server thread/INFO]: -----------------------------------------
-[23:10:37] [Server thread/INFO]: [MinerTrack] You are using the latest version.
-[23:10:37] [Server thread/INFO]: [SimpleHomes] Enabling SimpleHomes v2.0.4*
-[23:10:37] [Server thread/INFO]: [SimpleHomes] AutoUpdater Enabled: Notify
-[23:10:38] [Server thread/INFO]: [SimpleHomes] No update found.
-[23:10:38] [Server thread/INFO]: [SimpleHomes] SimpleHomes Enabled!
-[23:10:38] [Server thread/INFO]: [CratesPlusReloaded] Enabling CratesPlusReloaded v4.1-SNAPSHOT
-[23:10:38] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.8+33cdb4a
-[23:10:38] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.CHERRY
-[23:10:38] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
-[23:10:38] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
-[23:10:38] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
-[23:10:38] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
-[23:10:38] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
-[23:10:38] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
-[23:10:38] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
-[23:10:38] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
-[23:10:38] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
-[23:10:38] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
-[23:10:38] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
-[23:10:38] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
-[23:10:38] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
-[23:10:38] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
-[23:10:38] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
-[23:10:38] [Server thread/INFO]: [WorldGuard] Loading region data...
-[23:10:38] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v22.4
-[23:10:38] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled! 
-[23:10:38] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
-[23:10:38] [Server thread/INFO]: --------------------
-[23:10:38] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Join our Discord!
-[23:10:38] [Server thread/INFO]: [CoreProtect] Discord: www.coreprotect.net/discord/
-[23:10:38] [Server thread/INFO]: --------------------
-[23:10:38] [Server thread/INFO]: [LifeStealZ] Enabling LifeStealZ v2.9.2
-[23:10:38] [Server thread/INFO]: [LifeStealZ] Using language file: plugins/LifeStealZ/lang/en-US.yml
-[23:10:38] [Server thread/INFO]: [LifeStealZ] Using SQLite storage
-[23:10:39] [Server thread/ERROR]: [LifeStealZ] Plugin LifeStealZ v2.9.2 has failed to register events for class org.strassburger.lifestealz.listeners.PrepareGrindstone because org/bukkit/event/inventory/PrepareGrindstoneEvent does not exist.
-[23:10:39] [Server thread/INFO]: [LifeStealZ] LifeStealZ enabled!
-[23:10:39] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v2.19.0
-[23:10:39] [Server thread/INFO]: [Shopkeepers] Loading the data of 3 shopkeepers ...
-[23:10:39] [Server thread/INFO]: [GSit] Enabling GSit v1.13.0
-[23:10:39] [Server thread/INFO]: [GSit] The plugin was successfully enabled.
-[23:10:39] [Server thread/INFO]: [GSit] Link with WorldGuard successful!
-[23:10:39] [Server thread/INFO]: [ConditionalEvents] Enabling ConditionalEvents v4.60.1
-[23:10:39] [Server thread/ERROR]: Cannot load plugins/ConditionalEvents/config.yml
+[00:14:32] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
+[00:14:32] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
+[00:14:33] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.19.0[32;1m.[0;39m
+[00:14:33] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
+[00:14:33] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mPlease update your Java runtime to at least Java 21 (your version is 17).[0;39m
+[00:14:33] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mAt some point in the future, SkinsRestorer will no longer be compatible with this version of Java.[0;39m
+[00:14:33] [Server thread/INFO]: [PlasmoVoice] Enabling PlasmoVoice v2.0.4
+[00:14:33] [Server thread/INFO]: [PlasmoVoice] UDP server is started on /[0:0:0:0:0:0:0:0]:25565
+[00:14:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:14:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:14:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:14:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:14:34] [Server thread/INFO]: Preparing level "world"
+[00:14:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:14:48] [Server thread/INFO]: Preparing spawn area: 0%
+[00:14:48] [Server thread/INFO]: Preparing spawn area: 0%
+[00:14:48] [Server thread/INFO]: Preparing spawn area: 0%
+[00:14:49] [Server thread/INFO]: Preparing spawn area: 0%
+[00:14:49] [Server thread/INFO]: Preparing spawn area: 0%
+[00:14:50] [Server thread/INFO]: Preparing spawn area: 0%
+[00:14:50] [Server thread/INFO]: Preparing spawn area: 0%
+[00:14:50] [Server thread/INFO]: Time elapsed: 3130 ms
+[00:14:50] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[00:14:51] [Server thread/INFO]: Preparing spawn area: 0%
+[00:14:51] [Server thread/INFO]: Preparing spawn area: 0%
+[00:14:51] [Server thread/INFO]: Preparing spawn area: 0%
+[00:14:52] [Server thread/INFO]: Preparing spawn area: 0%
+[00:14:52] [Server thread/INFO]: Time elapsed: 1911 ms
+[00:14:52] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[00:14:52] [Server thread/INFO]: Preparing spawn area: 0%
+[00:14:53] [Server thread/INFO]: Preparing spawn area: 0%
+[00:14:53] [Server thread/INFO]: Preparing spawn area: 0%
+[00:14:54] [Server thread/INFO]: Preparing spawn area: 0%
+[00:14:54] [Server thread/INFO]: Time elapsed: 1724 ms
+[00:14:54] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.4
+[00:14:54] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[00:14:54] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.4
+[00:14:54] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[00:14:54] [Server thread/INFO]: [AnimationsCore] Enabling AnimationsCore v0.1-SNAPSHOT
+[00:14:54] [Server thread/INFO]: [AnimationsCore] [ACF] Enabled Asynchronous Tab Completion Support!
+[00:14:54] [Server thread/INFO]: [CombatLog] Enabling CombatLog v1.1.1
+[00:14:54] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
+[00:14:54] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[00:14:54] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[00:14:54] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[00:14:54] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[00:14:54] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[00:14:54] [Server thread/INFO]: [MinerTrack] Enabling MinerTrack v1.6.5
+[00:14:54] [Server thread/WARN]: [MinerTrack] Failed to schedule task on Spigot: org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftScheduler.runTaskTimer(java.lang.Runnable,long,long)
+[00:14:54] [Server thread/WARN]: java.lang.NoSuchMethodException: org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftScheduler.runTaskTimer(java.lang.Runnable,long,long)
+[00:14:54] [Server thread/WARN]: 	at java.base/java.lang.Class.getMethod(Class.java:2227)
+[00:14:54] [Server thread/WARN]: 	at MinerTrack-1.6.5.jar//link.star_dust.MinerTrack.managers.ViolationManager.<init>(ViolationManager.java:70)
+[00:14:54] [Server thread/WARN]: 	at MinerTrack-1.6.5.jar//link.star_dust.MinerTrack.MinerTrack.onEnable(MinerTrack.java:62)
+[00:14:54] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264)
+[00:14:54] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:370)
+[00:14:54] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:542)
+[00:14:54] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.enablePlugin(CraftServer.java:563)
+[00:14:54] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.enablePlugins(CraftServer.java:477)
+[00:14:54] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:634)
+[00:14:54] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:420)
+[00:14:54] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.e(DedicatedServer.java:306)
+[00:14:54] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.v(MinecraftServer.java:1122)
+[00:14:54] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:303)
+[00:14:54] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[00:14:55] [Server thread/ERROR]: [MinerTrack] Plugin MinerTrack v1.6.5 has failed to register events for class link.star_dust.MinerTrack.listeners.MiningListener because io/papermc/paper/threadedregions/scheduler/ScheduledTask does not exist.
+[00:14:55] [Server thread/INFO]: ----[MinerTrack v1.6.5 ]-----------
+[00:14:55] [Server thread/INFO]: MinerTrack Anti-XRay Enabled!
+[00:14:55] [Server thread/INFO]: 
+[00:14:55] [Server thread/INFO]: Authors: Author87668
+[00:14:55] [Server thread/INFO]: Original Author: Author87668
+[00:14:55] [Server thread/INFO]: Contributors: Author87668
+[00:14:55] [Server thread/INFO]: 
+[00:14:55] [Server thread/INFO]: Thanks for your use!
+[00:14:55] [Server thread/INFO]: -----------------------------------------
+[00:14:55] [Server thread/INFO]: [MinerTrack] You are using the latest version.
+[00:14:55] [Server thread/INFO]: [SimpleHomes] Enabling SimpleHomes v2.0.4*
+[00:14:55] [Server thread/INFO]: [SimpleHomes] AutoUpdater Enabled: Notify
+[00:14:55] [Server thread/INFO]: [SimpleHomes] No update found.
+[00:14:55] [Server thread/INFO]: [SimpleHomes] SimpleHomes Enabled!
+[00:14:55] [Server thread/INFO]: [CratesPlusReloaded] Enabling CratesPlusReloaded v4.1-SNAPSHOT
+[00:14:55] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.8+33cdb4a
+[00:14:55] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.CHERRY
+[00:14:55] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[00:14:55] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[00:14:55] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[00:14:55] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[00:14:55] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[00:14:55] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[00:14:55] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[00:14:55] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[00:14:55] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[00:14:55] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[00:14:55] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[00:14:55] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[00:14:55] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[00:14:55] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[00:14:55] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[00:14:55] [Server thread/INFO]: [WorldGuard] Loading region data...
+[00:14:55] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v22.4
+[00:14:55] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled! 
+[00:14:55] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[00:14:55] [Server thread/INFO]: --------------------
+[00:14:55] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Join our Discord!
+[00:14:55] [Server thread/INFO]: [CoreProtect] Discord: www.coreprotect.net/discord/
+[00:14:55] [Server thread/INFO]: --------------------
+[00:14:55] [Server thread/INFO]: [LifeStealZ] Enabling LifeStealZ v2.9.2
+[00:14:55] [Server thread/INFO]: [LifeStealZ] Using language file: plugins/LifeStealZ/lang/en-US.yml
+[00:14:55] [Server thread/INFO]: [LifeStealZ] Using SQLite storage
+[00:14:56] [Server thread/ERROR]: [LifeStealZ] Plugin LifeStealZ v2.9.2 has failed to register events for class org.strassburger.lifestealz.listeners.PrepareGrindstone because org/bukkit/event/inventory/PrepareGrindstoneEvent does not exist.
+[00:14:56] [Server thread/INFO]: [LifeStealZ] LifeStealZ enabled!
+[00:14:56] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v2.19.0
+[00:14:56] [Server thread/INFO]: [Shopkeepers] Loading the data of 3 shopkeepers ...
+[00:14:56] [Server thread/INFO]: [GSit] Enabling GSit v1.13.0
+[00:14:56] [Server thread/INFO]: [GSit] The plugin was successfully enabled.
+[00:14:56] [Server thread/INFO]: [GSit] Link with WorldGuard successful!
+[00:14:56] [Server thread/INFO]: [ConditionalEvents] Enabling ConditionalEvents v4.60.1
+[00:14:56] [Server thread/ERROR]: Cannot load plugins/ConditionalEvents/config.yml
 org.bukkit.configuration.InvalidConfigurationException: while parsing a block mapping
  in 'reader', line 129, column 7:
           default:
@@ -250,7 +275,7 @@ expected <block end>, but found '<block mapping start>'
 	at org.yaml.snakeyaml.Yaml.compose(Yaml.java:575) ~[snakeyaml-1.30.jar:?]
 	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:102) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
 	... 19 more
-[23:10:39] [Server thread/ERROR]: Error occurred while enabling ConditionalEvents v4.60.1 (Is it up to date?)
+[00:14:56] [Server thread/ERROR]: Error occurred while enabling ConditionalEvents v4.60.1 (Is it up to date?)
 java.lang.NullPointerException: Cannot invoke "org.bukkit.configuration.file.FileConfiguration.getBoolean(String)" because "config" is null
 	at ce.ajneb97.configs.MainConfigManager.configure(MainConfigManager.java:40) ~[ConditionalEvents.jar:?]
 	at ce.ajneb97.configs.ConfigsManager.configure(ConfigsManager.java:31) ~[ConditionalEvents.jar:?]
@@ -266,151 +291,47 @@ java.lang.NullPointerException: Cannot invoke "org.bukkit.configuration.file.Fil
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1122) ~[paper-1.19.jar:git-Paper-81]
 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:303) ~[paper-1.19.jar:git-Paper-81]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[23:10:39] [Server thread/INFO]: [ConditionalEvents] Disabling ConditionalEvents v4.60.1
-[23:10:39] [Server thread/INFO]: [ConditionalEvents] Has been disabled! Version: 4.60.1
-[23:10:39] [Server thread/INFO]: Running delayed init tasks
-[23:10:39] [Server thread/INFO]: [CoreProtect] WorldEdit logging successfully initialized.
-[23:10:39] [Server thread/INFO]: Done (36.681s)! For help, type "help"
-[23:10:39] [Server thread/INFO]: Timings Reset
-[23:10:39] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[23:10:39] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-[23:10:39] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
-[23:10:39] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
-[23:10:39] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
-[23:10:39] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-[23:10:39] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[23:10:39] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.5.1[0;39m
-[23:10:39] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1md5d8613[0;39m
-[23:10:39] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
-[23:10:39] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[23:10:39] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
-[23:10:39] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
-[23:13:29] [User Authenticator #1/INFO]: UUID of player farnan777xd is 5bb8e96b-9de9-310f-9663-f624089c0ae7
-[23:13:29] [Server thread/INFO]: farnan777xd joined the game
-[23:13:29] [Server thread/INFO]: farnan777xd[/127.242.77.160:56043] logged in with entity id 190 at ([world]-2037.8433317681809, 64.20000004768372, 1626.671931957807)
-[23:13:30] [Server thread/WARN]: UUID of added entity already exists: EntityTurtle['Turtle'/218, uuid='ff8dbafc-3807-4bb3-9378-e2a005e9a755', l='ServerLevel[world]', x=-2026.99, y=60.00, z=1478.25, cpos=[-127, 92], tl=40752, v=false]
-[23:13:31] [Server thread/WARN]: UUID of added entity already exists: EntityTurtle['Turtle'/237, uuid='2e973254-8527-4c4c-970c-755bd8f93155', l='ServerLevel[world]', x=-1912.97, y=63.00, z=1504.87, cpos=[-120, 94], tl=67124, v=false]
-[23:13:44] [Server thread/INFO]: farnan777xd issued server command: /gamemode spectator
-[23:13:44] [Server thread/INFO]: [farnan777xd: Set own game mode to Spectator Mode]
-[23:13:48] [Server thread/INFO]: farnan777xd issued server command: /gamemode creative
-[23:13:48] [Server thread/INFO]: [farnan777xd: Set own game mode to Creative Mode]
-[23:13:55] [Server thread/INFO]: farnan777xd issued server command: /gamemode spectator
-[23:13:55] [Server thread/INFO]: [farnan777xd: Set own game mode to Spectator Mode]
-[23:14:01] [Server thread/INFO]: farnan777xd issued server command: /gamemode creative
-[23:14:01] [Server thread/INFO]: [farnan777xd: Set own game mode to Creative Mode]
-[23:14:33] [Server thread/INFO]: <Server> farnan pon la withelist
-[23:15:15] [Server thread/INFO]: farnan777xd issued server command: /whitelist on
-[23:15:15] [Server thread/INFO]: [farnan777xd: Whitelist is now turned on]
-[23:19:41] [Server thread/INFO]: farnan777xd issued server command: /sit
-[23:20:37] [User Authenticator #2/INFO]: UUID of player SoySander is 2fdec197-58fd-3a92-a8c9-336e26aeae55
-[23:20:37] [Server thread/INFO]: SoySander joined the game
-[23:20:37] [Server thread/INFO]: SoySander[/127.251.247.108:41449] logged in with entity id 1401 at ([world]-2049.5267933003856, 36.0, 1675.4708607460225)
-[23:21:07] [Server thread/INFO]: farnan777xd issued server command: /whitelist off
-[23:21:07] [Server thread/INFO]: [farnan777xd: Whitelist is now turned off]
-[23:21:10] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
-[23:21:10] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
-[23:21:19] [Server thread/INFO]: SoySander issued server command: /gamemode survival
-[23:21:19] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
-[23:23:24] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
-[23:23:24] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
-[23:23:32] [Server thread/INFO]: SoySander issued server command: /gamemode creative
-[23:23:32] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
-[23:24:26] [Server thread/INFO]: farnan777xd issued server command: /gamemode spectator
-[23:24:26] [Server thread/INFO]: [farnan777xd: Set own game mode to Spectator Mode]
-[23:24:29] [Server thread/INFO]: farnan777xd issued server command: /gamemode creative
-[23:24:29] [Server thread/INFO]: [farnan777xd: Set own game mode to Creative Mode]
-[23:24:59] [Server thread/INFO]: farnan777xd issued server command: /gamemode spectator
-[23:24:59] [Server thread/INFO]: [farnan777xd: Set own game mode to Spectator Mode]
-[23:25:00] [Server thread/INFO]: SoySander lost connection: Disconnected
-[23:25:00] [Server thread/INFO]: SoySander left the game
-[23:25:07] [Server thread/INFO]: farnan777xd issued server command: /gamemode creative
-[23:25:07] [Server thread/INFO]: [farnan777xd: Set own game mode to Creative Mode]
-[23:25:22] [Server thread/INFO]: farnan777xd issued server command: /gamemode spectator
-[23:25:22] [Server thread/INFO]: [farnan777xd: Set own game mode to Spectator Mode]
-[23:25:25] [Server thread/INFO]: farnan777xd issued server command: /gamemode survival
-[23:25:25] [Server thread/INFO]: [farnan777xd: Set own game mode to Survival Mode]
-[23:25:28] [Server thread/INFO]: farnan777xd issued server command: /gamemode creative
-[23:25:28] [Server thread/INFO]: [farnan777xd: Set own game mode to Creative Mode]
-[23:25:41] [Server thread/INFO]: farnan777xd issued server command: /gamemode survival
-[23:25:41] [Server thread/INFO]: [farnan777xd: Set own game mode to Survival Mode]
-[23:25:47] [Server thread/INFO]: farnan777xd issued server command: /gamemode spectator
-[23:25:47] [Server thread/INFO]: [farnan777xd: Set own game mode to Spectator Mode]
-[23:26:41] [Server thread/INFO]: farnan777xd issued server command: /gamemode creative
-[23:26:41] [Server thread/INFO]: [farnan777xd: Set own game mode to Creative Mode]
-[23:26:42] [Server thread/INFO]: farnan777xd issued server command: /gamemode survival
-[23:26:42] [Server thread/INFO]: [farnan777xd: Set own game mode to Survival Mode]
-[23:26:51] [Server thread/INFO]: farnan777xd issued server command: /gamemode creative
-[23:26:51] [Server thread/INFO]: [farnan777xd: Set own game mode to Creative Mode]
-[23:27:13] [Server thread/INFO]: farnan777xd issued server command: /gamemode spectator
-[23:27:13] [Server thread/INFO]: [farnan777xd: Set own game mode to Spectator Mode]
-[23:27:37] [Server thread/INFO]: farnan777xd issued server command: /gamemode creative
-[23:27:37] [Server thread/INFO]: [farnan777xd: Set own game mode to Creative Mode]
-[23:27:38] [Server thread/INFO]: farnan777xd issued server command: /gamemode survival
-[23:27:38] [Server thread/INFO]: [farnan777xd: Set own game mode to Survival Mode]
-[23:27:39] [Server thread/INFO]: farnan777xd issued server command: /gamemode creative
-[23:27:39] [Server thread/INFO]: [farnan777xd: Set own game mode to Creative Mode]
-[23:28:57] [Server thread/INFO]: farnan777xd has made the advancement [Sweet Dreams]
-[23:32:36] [User Authenticator #3/INFO]: UUID of player Jeiker45 is bc83c48d-239b-3c9d-8ef1-19b53d610ac4
-[23:32:36] [Server thread/INFO]: Jeiker45 joined the game
-[23:32:36] [Server thread/INFO]: Jeiker45[/127.103.243.65:59269] logged in with entity id 3581 at ([world]-2061.734878695362, 72.0625, 1708.500162734844)
-[23:32:46] [Server thread/INFO]: Jeiker45 lost connection: Kicked by an operator
-[23:32:46] [Server thread/INFO]: Jeiker45 left the game
-[23:32:46] [Server thread/INFO]: Kicked Jeiker45: Kicked by an operator
-[23:32:48] [Server thread/INFO]: farnan777xd issued server command: /kick Jeiker45
-[23:33:51] [User Authenticator #4/INFO]: UUID of player Jeiker45 is bc83c48d-239b-3c9d-8ef1-19b53d610ac4
-[23:33:51] [Server thread/INFO]: Jeiker45 joined the game
-[23:33:51] [Server thread/INFO]: Jeiker45[/127.103.243.65:44079] logged in with entity id 3891 at ([world]-2061.734878695362, 72.0625, 1708.500162734844)
-[23:34:27] [Async Chat Thread - #0/INFO]: <Jeiker45> farnan777xd
-[23:34:32] [Async Chat Thread - #0/INFO]: <farnan777xd> dime
-[23:34:37] [Async Chat Thread - #0/INFO]: <Jeiker45> que haces mucahcho
-[23:34:46] [Async Chat Thread - #0/INFO]: <farnan777xd> follando mano
-[23:34:57] [Async Chat Thread - #0/INFO]: <Jeiker45> como
-[23:35:27] [Async Chat Thread - #0/INFO]: <Jeiker45> donde andas
-[23:35:40] [Async Chat Thread - #0/INFO]: <Jeiker45> dame op
-[23:35:40] [Async Chat Thread - #0/INFO]: <farnan777xd> no tengo plasmo
-[23:35:44] [Async Chat Thread - #0/INFO]: <farnan777xd> buya buya yes yes yes
-[23:35:47] [Async Chat Thread - #0/INFO]: <Jeiker45> no
-[23:35:56] [Async Chat Thread - #0/INFO]: <Jeiker45> y mi op
-[23:35:57] [Server thread/INFO]: farnan777xd issued server command: /op Jeiker45
-[23:35:57] [Server thread/INFO]: [farnan777xd: Made Jeiker45 a server operator]
-[23:36:01] [Server thread/INFO]: Jeiker45 issued server command: /gamemode creative
-[23:36:01] [Server thread/INFO]: [Jeiker45: Set own game mode to Creative Mode]
-[23:36:38] [Async Chat Thread - #0/INFO]: <Jeiker45> veni vamos hacer un parkour imposible
-[23:37:23] [Server thread/INFO]: Jeiker45 issued server command: /tp Jeiker45 -1500 75 1300
-[23:37:23] [Server thread/INFO]: [Jeiker45: Teleported Jeiker45 to -1499.500000, 75.000000, 1300.500000]
-[23:37:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6145ms or 122 ticks behind
-[23:37:29] [Server thread/WARN]: farnan777xd moved too quickly! 11.472682459013868,-13.833669918216629,-10.166764141681824
-[23:37:53] [Server thread/INFO]: Jeiker45 issued server command: /tp Jeiker45 farnan777xd
-[23:37:53] [Server thread/INFO]: [Jeiker45: Teleported Jeiker45 to farnan777xd]
-[23:46:54] [Server thread/INFO]: Jeiker45 issued server command: /fill -2137 66 1554
-[23:47:54] [Server thread/INFO]: Jeiker45 issued server command: /fill -2137 66 1554 ~ ~ ~ minecraft:scaffolding
-[23:47:54] [Server thread/INFO]: [Jeiker45: Successfully filled 1 blocks]
-[23:47:58] [Server thread/INFO]: Jeiker45 issued server command: /fill -2137 66 1554 ~ ~ ~ minecraft:scaffolding
-[23:47:58] [Server thread/INFO]: [Jeiker45: Successfully filled 2 blocks]
-[23:48:01] [Server thread/INFO]: Jeiker45 issued server command: /fill -2137 66 1554 ~ ~ ~ minecraft:scaffolding
-[23:48:01] [Server thread/INFO]: [Jeiker45: Successfully filled 8 blocks]
-[23:48:17] [Async Chat Thread - #1/INFO]: <Jeiker45> che farnan777xd
-[23:48:33] [Async Chat Thread - #1/INFO]: <Jeiker45> cual era el bloque invisible que no te podes motar encima
-[23:49:48] [Server thread/INFO]: Jeiker45 issued server command: /give Jeiker45 minecraft:structure_void
-[23:49:48] [Server thread/INFO]: [Jeiker45: Gave 1 [Structure Void] to Jeiker45]
-[23:50:03] [Server thread/INFO]: Jeiker45 issued server command: /fill -2137 66 1554 ~ ~ ~ minecraft:scaffolding
-[23:50:03] [Server thread/INFO]: [Jeiker45: Successfully filled 1 blocks]
-[23:50:37] [Server thread/INFO]: farnan777xd lost connection: Disconnected
-[23:50:37] [Server thread/INFO]: farnan777xd left the game
-[23:54:15] [User Authenticator #5/INFO]: UUID of player SoySander is 2fdec197-58fd-3a92-a8c9-336e26aeae55
-[23:54:15] [Server thread/INFO]: SoySander joined the game
-[23:54:15] [Server thread/INFO]: SoySander[/127.87.61.29:40919] logged in with entity id 7884 at ([world]-2032.7214886012716, 58.5, 1665.8215719912946)
-[23:54:27] [Server thread/INFO]: SoySander lost connection: Disconnected
-[23:54:27] [Server thread/INFO]: SoySander left the game
-[23:54:29] [User Authenticator #5/INFO]: UUID of player SoySander is 2fdec197-58fd-3a92-a8c9-336e26aeae55
-[23:54:29] [Server thread/INFO]: SoySander joined the game
-[23:54:29] [Server thread/INFO]: SoySander[/127.87.61.29:52263] logged in with entity id 7946 at ([world]-2032.7214886012716, 58.5, 1665.8215719912946)
-[23:54:45] [User Authenticator #5/INFO]: UUID of player SoySander is 2fdec197-58fd-3a92-a8c9-336e26aeae55
-[23:54:45] [Server thread/INFO]: SoySander lost connection: You logged in from another location
-[23:54:45] [Server thread/INFO]: SoySander left the game
-[23:54:45] [Server thread/INFO]: SoySander joined the game
-[23:54:45] [Server thread/INFO]: SoySander[/127.87.61.29:47977] logged in with entity id 8004 at ([world]-2032.7214886012716, 58.5, 1665.8215719912946)
-[23:54:53] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
-[23:54:53] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
-[23:54:56] [Server thread/INFO]: SoySander lost connection: Disconnected
-[23:54:56] [Server thread/INFO]: SoySander left the game
+[00:14:56] [Server thread/INFO]: [ConditionalEvents] Disabling ConditionalEvents v4.60.1
+[00:14:56] [Server thread/INFO]: [ConditionalEvents] Has been disabled! Version: 4.60.1
+[00:14:56] [Server thread/INFO]: Running delayed init tasks
+[00:14:56] [Server thread/INFO]: [CoreProtect] WorldEdit logging successfully initialized.
+[00:14:56] [Server thread/INFO]: Done (35.537s)! For help, type "help"
+[00:14:56] [Server thread/INFO]: Timings Reset
+[00:14:56] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[00:14:56] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[00:14:56] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[00:14:56] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[00:14:56] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+[00:14:56] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[00:14:56] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[00:14:56] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.5.1[0;39m
+[00:14:56] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1md5d8613[0;39m
+[00:14:56] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[00:14:56] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[00:14:56] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+[00:14:56] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+[00:14:56] [User Authenticator #1/INFO]: UUID of player Jeiker45 is bc83c48d-239b-3c9d-8ef1-19b53d610ac4
+[00:14:57] [Server thread/INFO]: Jeiker45 joined the game
+[00:14:57] [Server thread/INFO]: Jeiker45[/127.103.243.65:55441] logged in with entity id 2 at ([world]-2134.5647039869714, 66.29547524034523, 1553.0577861558932)
+[00:23:24] [Server thread/INFO]: Jeiker45 issued server command: /gamemode survival
+[00:23:24] [Server thread/INFO]: [Jeiker45: Set own game mode to Survival Mode]
+[00:23:31] [Server thread/INFO]: Jeiker45 issued server command: /gamemode creative
+[00:23:31] [Server thread/INFO]: [Jeiker45: Set own game mode to Creative Mode]
+[00:23:53] [Server thread/INFO]: Jeiker45 issued server command: /gamemode survival
+[00:23:53] [Server thread/INFO]: [Jeiker45: Set own game mode to Survival Mode]
+[00:24:03] [Server thread/INFO]: Jeiker45 issued server command: /gamemode creative
+[00:24:03] [Server thread/INFO]: [Jeiker45: Set own game mode to Creative Mode]
+[00:24:08] [Server thread/INFO]: Jeiker45 issued server command: /gamemode survival
+[00:24:08] [Server thread/INFO]: [Jeiker45: Set own game mode to Survival Mode]
+[00:24:36] [Server thread/INFO]: Jeiker45 issued server command: /gamemode creative
+[00:24:36] [Server thread/INFO]: [Jeiker45: Set own game mode to Creative Mode]
+[00:24:57] [Server thread/INFO]: Jeiker45 issued server command: /gamemode survival
+[00:24:57] [Server thread/INFO]: [Jeiker45: Set own game mode to Survival Mode]
+[00:25:37] [Server thread/INFO]: Jeiker45 issued server command: /gamemode creative
+[00:25:37] [Server thread/INFO]: [Jeiker45: Set own game mode to Creative Mode]
+[00:25:59] [Server thread/INFO]: Jeiker45 issued server command: /gamemode survival
+[00:25:59] [Server thread/INFO]: [Jeiker45: Set own game mode to Survival Mode]
+[00:26:07] [Server thread/INFO]: Jeiker45 issued server command: /gamemode creative
+[00:26:07] [Server thread/INFO]: [Jeiker45: Set own game mode to Creative Mode]
+[00:34:07] [Server thread/INFO]: Jeiker45 issued server command: /fill -2144 75 1583 ~ ~ ~ minecraft:big_dripleaf
+[00:34:07] [Server thread/INFO]: [Jeiker45: Successfully filled 1 blocks]
