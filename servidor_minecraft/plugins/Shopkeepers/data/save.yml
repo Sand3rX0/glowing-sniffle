@@ -60,28 +60,6 @@ data-version: 3|2|3105
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         v: 3105
-        type: NETHER_STAR
-        meta:
-          ==: ItemMeta
-          meta-type: UNSPECIFIC
-          display-name: '{"italic":false,"color":"red","text":"Heart"}'
-          lore:
-          - '{"italic":false,"color":"gray","text":"Rightclick to use"}'
-          custom-model-data: 100
-          ItemFlags:
-          - HIDE_ATTRIBUTES
-          PublicBukkitValues:
-            lifestealz:customitemid: defaultheart
-            lifestealz:customitemtype: heart
-            lifestealz:customheartvalue: 1i
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3105
-        type: NETHERITE_INGOT
-    '2':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3105
         type: WRITTEN_BOOK
         meta:
           ==: ItemMeta
@@ -96,7 +74,7 @@ data-version: 3|2|3105
         v: 3105
         type: DIAMOND
         amount: 32
-    '3':
+    '2':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         v: 3105
