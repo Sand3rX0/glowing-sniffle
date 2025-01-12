@@ -1607,3 +1607,530 @@ java.lang.NullPointerException: Cannot invoke "org.bukkit.configuration.file.Fil
 [05:27:41] [Async Chat Thread - #5/INFO]: <_ThePlexyZzZ_> voy
 [05:30:17] [Server thread/INFO]: _ThePlexyZzZ_ issued server command: /pl
 [05:30:30] [Server thread/INFO]: SoySander issued server command: /pl
+[05:31:46] [Async Chat Thread - #6/INFO]: <_ThePlexyZzZ_> ah y we
+[05:32:19] [Async Chat Thread - #6/INFO]: <SoySander> ?
+[05:32:25] [Server thread/INFO]: SoySander issued server command: /reload confirm
+[05:32:25] [Server thread/INFO]: SoySander: Please note that this command is not supported and may cause issues when using some plugins.
+[05:32:25] [Server thread/INFO]: SoySander: If you encounter any issues please use the /stop command to restart your server.
+[05:32:25] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[05:32:25] [Server thread/INFO]: Using 4 threads for Netty based IO
+[05:32:25] [Server thread/INFO]: [GSit] Disabling GSit v1.13.0
+[05:32:25] [Server thread/INFO]: [GSit] The plugin was successfully disabled.
+[05:32:25] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v2.19.0
+[05:32:25] [Server thread/INFO]: [LifeStealZ] Disabling LifeStealZ v2.9.2
+[05:32:25] [Server thread/INFO]: [LifeStealZ] LifeStealZ disabled!
+[05:32:25] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v22.4
+[05:32:25] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
+[05:32:26] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v22.4
+[05:32:26] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.8+33cdb4a
+[05:32:26] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[05:32:26] [Server thread/INFO]: [CratesPlusReloaded] Disabling CratesPlusReloaded v4.1-SNAPSHOT
+[05:32:26] [Server thread/INFO]: [SimpleHomes] Disabling SimpleHomes v2.0.4
+[05:32:26] [Server thread/INFO]: [SimpleHomes] SimpleHomes Disabled!
+[05:32:26] [Server thread/INFO]: [MinerTrack] Disabling MinerTrack v1.6.5
+[05:32:26] [Server thread/INFO]: ----[MinerTrack v1.6.5 ]-----------
+[05:32:26] [Server thread/INFO]: MinerTrack Anti-XRay Disabled!
+[05:32:26] [Server thread/INFO]: 
+[05:32:26] [Server thread/INFO]: Authors: Author87668
+[05:32:26] [Server thread/INFO]: Original Author: Author87668
+[05:32:26] [Server thread/INFO]: Contributors: Author87668
+[05:32:26] [Server thread/INFO]: 
+[05:32:26] [Server thread/INFO]: Good bye!
+[05:32:26] [Server thread/INFO]: -----------------------------------------
+[05:32:26] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.0
+[05:32:26] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[05:32:26] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[05:32:26] [Server thread/INFO]: [PlasmoVoice] Disabling PlasmoVoice v1.0.11
+[05:32:26] [Server thread/INFO]: [CombatLog] Disabling CombatLog v1.1.1
+[05:32:26] [Server thread/INFO]: [AnimationsCore] Disabling AnimationsCore v0.1-SNAPSHOT
+[05:32:26] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.15+6463-5ca4dff
+[05:32:26] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[05:32:26] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
+[05:32:26] [Server thread/INFO]: [SimpleTimer] Disabling SimpleTimer v1.5.2
+[05:32:26] [Server thread/INFO]: [SimpleTimer] Successfully Disabled
+[05:32:26] [Server thread/INFO]: [SimpleTimer] Xhasi » Good Bye
+[05:32:26] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v7.4
+[05:32:26] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[05:32:26] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been disabled on version 7.4
+[05:32:27] [Server thread/INFO]: Loaded 7 recipes
+[05:32:27] [Server thread/ERROR]: Could not load 'plugins/ExcellentCrates-5.3.5.jar' in folder 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Unknown/missing dependency plugins: [nightcore]. Please download and install these plugins to run 'ExcellentCrates'.
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:287) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.loadPlugins(CraftServer.java:421) ~[paper-1.19.jar:git-Paper-81]
+	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.reload(CraftServer.java:1016) ~[paper-1.19.jar:git-Paper-81]
+	at org.bukkit.Bukkit.reload(Bukkit.java:909) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:54) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:155) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.dispatchCommand(CraftServer.java:909) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleCommand(ServerGamePacketListenerImpl.java:2382) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$18(ServerGamePacketListenerImpl.java:2153) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1359) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:183) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1336) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1329) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[?:?]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1307) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1192) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:303) ~[paper-1.19.jar:git-Paper-81]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[05:32:27] [Server thread/WARN]: Legacy plugin SimpleHomes v2.0.4 does not specify an api-version.
+[05:32:27] [Server thread/INFO]: [SimpleTpa] Loading SimpleTpa v7.4
+[05:32:27] [Server thread/INFO]: [ItemEditor] Loading ItemEditor v2.0.3
+[05:32:27] [Server thread/INFO]: [SimpleTimer] Loading SimpleTimer v1.5.2
+[05:32:27] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.5.1
+[05:32:27] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.15+6463-5ca4dff
+[05:32:28] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@c0a3776]
+[05:32:28] [Server thread/INFO]: [AnimationsCore] Loading AnimationsCore v0.1-SNAPSHOT
+[05:32:28] [Server thread/INFO]: [CombatLog] Loading CombatLog v1.1.1
+[05:32:28] [Server thread/INFO]: [PlasmoVoice] Loading PlasmoVoice v1.0.11
+[05:32:28] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.3.0
+[05:32:28] [Server thread/INFO]: [MinerTrack] Loading MinerTrack v1.6.5
+[05:32:28] [Server thread/INFO]: [SimpleHomes] Loading SimpleHomes v2.0.4
+[05:32:28] [Server thread/INFO]: [CratesPlusReloaded] Loading CratesPlusReloaded v4.1-SNAPSHOT
+[05:32:28] [Server thread/INFO]: [InvSee++] Loading InvSeePlusPlus v0.29.11
+[05:32:28] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.8+33cdb4a
+[05:32:28] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v22.4
+[05:32:28] [Server thread/INFO]: [LifeStealZ] Loading LifeStealZ v2.9.2
+[05:32:28] [Server thread/INFO]: [LifeStealZ] Loading LifeStealZ...
+[05:32:28] [Server thread/INFO]: [LifeStealZ] WorldGuard found! Enabling WorldGuard support...
+[05:32:28] [Server thread/INFO]: [LifeStealZ] WorldGuard found! Enabled WorldGuard support!
+[05:32:28] [Server thread/INFO]: [Shopkeepers] Loading Shopkeepers v2.19.0
+[05:32:28] [Server thread/INFO]: [Shopkeepers] Loaded all plugin classes (190 ms).
+[05:32:28] [Server thread/INFO]: [Shopkeepers] Loading config.
+[05:32:28] [Server thread/WARN]: [Shopkeepers] Config: Invalid living entity type name in 'enabled-living-shops': CAMEL
+[05:32:28] [Server thread/WARN]: [Shopkeepers] Config: Invalid living entity type name in 'enabled-living-shops': SNIFFER
+[05:32:28] [Server thread/WARN]: [Shopkeepers] Config: All existing entity type names can be found here: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/entity/EntityType.html
+[05:32:28] [Server thread/INFO]: [Shopkeepers] Loading language file: language-en-default.yml
+[05:32:28] [Server thread/WARN]: [Shopkeepers] Config: Invalid living entity type name in 'enabled-living-shops': CAMEL
+[05:32:28] [Server thread/WARN]: [Shopkeepers] Config: Invalid living entity type name in 'enabled-living-shops': SNIFFER
+[05:32:28] [Server thread/WARN]: [Shopkeepers] Config: All existing entity type names can be found here: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/entity/EntityType.html
+[05:32:28] [Server thread/INFO]: [Shopkeepers] Registering WorldGuard flag 'allow-shop'.
+[05:32:28] [Server thread/INFO]: [Shopkeepers] Registering defaults.
+[05:32:28] [Server thread/INFO]: [InvSee++_Clear] Loading InvSeePlusPlus_Clear v0.29.11
+[05:32:28] [Server thread/INFO]: [InvSee++_Give] Loading InvSeePlusPlus_Give v0.29.11
+[05:32:28] [Server thread/INFO]: [GSit] Loading GSit v1.13.0
+[05:32:28] [Server thread/INFO]: [ConditionalEvents] Loading ConditionalEvents v4.58.1
+[05:32:28] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[05:32:28] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
+[05:32:28] [Server thread/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mSkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.[0;39m
+[05:32:28] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
+[05:32:29] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.19.0[32;1m.[0;39m
+[05:32:29] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
+[05:32:29] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mPlease update your Java runtime to at least Java 21 (your version is 17).[0;39m
+[05:32:29] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mAt some point in the future, SkinsRestorer will no longer be compatible with this version of Java.[0;39m
+[05:32:29] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.15+6463-5ca4dff
+[05:32:29] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[05:32:29] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[05:32:29] [Server thread/WARN]: [WorldEdit] Server reload detected. This may cause various issues with WorldEdit and dependent plugins.
+[05:32:29] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_19_R1.PaperweightAdapter as the Bukkit adapter
+[05:32:30] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.4
+[05:32:30] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[05:32:30] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.4
+[05:32:30] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[05:32:30] [Server thread/INFO]: [ItemEditor] Enabling ItemEditor v2.0.3
+[05:32:30] [Server thread/INFO]: [ItemEditor] Detected minecraft 1.19.0
+[05:32:30] [Server thread/INFO]: [ItemEditor] Reloading items.
+[05:32:30] [Server thread/INFO]: [ItemEditor] Loaded 0 items from storage.
+[05:32:30] [Server thread/INFO]: [SimpleTimer] Enabling SimpleTimer v1.5.2
+[05:32:30] [Server thread/INFO]: [SimpleTimer] Successfully Enabled (v1.5.2)
+[05:32:30] [Server thread/INFO]: [SimpleTimer] Xhasi » Thanks for using my plugin
+[05:32:30] [Server thread/INFO]: [SimpleTimer] There is a new version available. (v1.6.0)
+[05:32:30] [Server thread/INFO]: [SimpleTimer] You can download it at: https://www.spigotmc.org/resources/109565/
+[05:32:30] [Server thread/INFO]: [AnimationsCore] Enabling AnimationsCore v0.1-SNAPSHOT
+[05:32:30] [Server thread/INFO]: [AnimationsCore] [ACF] Enabled Asynchronous Tab Completion Support!
+[05:32:30] [Server thread/INFO]: [CombatLog] Enabling CombatLog v1.1.1
+[05:32:30] [Server thread/INFO]: [PlasmoVoice] Enabling PlasmoVoice v1.0.11
+[05:32:30] [Thread-60/INFO]: [PlasmoVoice] Voice UDP server started on /0.0.0.0:25565
+[05:32:30] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
+[05:32:30] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[05:32:30] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[05:32:30] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[05:32:30] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[05:32:30] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[05:32:30] [Server thread/INFO]: [MinerTrack] Enabling MinerTrack v1.6.5
+[05:32:30] [Server thread/WARN]: [MinerTrack] Failed to schedule task on Spigot: org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftScheduler.runTaskTimer(java.lang.Runnable,long,long)
+[05:32:30] [Server thread/WARN]: java.lang.NoSuchMethodException: org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftScheduler.runTaskTimer(java.lang.Runnable,long,long)
+[05:32:30] [Server thread/WARN]: 	at java.base/java.lang.Class.getMethod(Class.java:2227)
+[05:32:30] [Server thread/WARN]: 	at MinerTrack-1.6.5.jar//link.star_dust.MinerTrack.managers.ViolationManager.<init>(ViolationManager.java:70)
+[05:32:30] [Server thread/WARN]: 	at MinerTrack-1.6.5.jar//link.star_dust.MinerTrack.MinerTrack.onEnable(MinerTrack.java:62)
+[05:32:30] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264)
+[05:32:30] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:370)
+[05:32:30] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:542)
+[05:32:30] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.enablePlugin(CraftServer.java:563)
+[05:32:30] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.enablePlugins(CraftServer.java:477)
+[05:32:30] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.reload(CraftServer.java:1018)
+[05:32:30] [Server thread/WARN]: 	at org.bukkit.Bukkit.reload(Bukkit.java:909)
+[05:32:30] [Server thread/WARN]: 	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:54)
+[05:32:30] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:155)
+[05:32:30] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.dispatchCommand(CraftServer.java:909)
+[05:32:30] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection.handleCommand(PlayerConnection.java:2382)
+[05:32:30] [Server thread/WARN]: 	at net.minecraft.server.network.PlayerConnection.lambda$handleChatCommand$18(PlayerConnection.java:2153)
+[05:32:30] [Server thread/WARN]: 	at net.minecraft.server.TickTask.run(TickTask.java:18)
+[05:32:30] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.d(IAsyncTaskHandler.java:153)
+[05:32:30] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandlerReentrant.d(IAsyncTaskHandlerReentrant.java:24)
+[05:32:30] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1359)
+[05:32:30] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:183)
+[05:32:30] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.x(IAsyncTaskHandler.java:126)
+[05:32:30] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.bh(MinecraftServer.java:1336)
+[05:32:30] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1329)
+[05:32:30] [Server thread/WARN]: 	at net.minecraft.util.thread.IAsyncTaskHandler.c(IAsyncTaskHandler.java:136)
+[05:32:30] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1307)
+[05:32:30] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.v(MinecraftServer.java:1192)
+[05:32:30] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:303)
+[05:32:30] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[05:32:30] [Server thread/ERROR]: [MinerTrack] Plugin MinerTrack v1.6.5 has failed to register events for class link.star_dust.MinerTrack.listeners.MiningListener because io/papermc/paper/threadedregions/scheduler/ScheduledTask does not exist.
+[05:32:30] [Server thread/INFO]: ----[MinerTrack v1.6.5 ]-----------
+[05:32:30] [Server thread/INFO]: MinerTrack Anti-XRay Enabled!
+[05:32:30] [Server thread/INFO]: 
+[05:32:30] [Server thread/INFO]: Authors: Author87668
+[05:32:30] [Server thread/INFO]: Original Author: Author87668
+[05:32:30] [Server thread/INFO]: Contributors: Author87668
+[05:32:30] [Server thread/INFO]: 
+[05:32:30] [Server thread/INFO]: Thanks for your use!
+[05:32:30] [Server thread/INFO]: -----------------------------------------
+[05:32:30] [Server thread/INFO]: [MinerTrack] You are using the latest version.
+[05:32:30] [Server thread/INFO]: [SimpleHomes] Enabling SimpleHomes v2.0.4*
+[05:32:30] [Server thread/INFO]: [SimpleHomes] AutoUpdater Enabled: Notify
+[05:32:30] [Server thread/INFO]: [SimpleHomes] No update found.
+[05:32:30] [Server thread/INFO]: [SimpleHomes] SimpleHomes Enabled!
+[05:32:30] [Server thread/INFO]: [CratesPlusReloaded] Enabling CratesPlusReloaded v4.1-SNAPSHOT
+[05:32:30] [Server thread/INFO]: [InvSee++] Enabling InvSeePlusPlus v0.29.11
+[05:32:30] [Server thread/ERROR]: [InvSee++] The latest release of InvSee++ that supported Minecraft 1.19 is InvSee++ v0.15.2.
+You can download this release from SpigotMC: https://www.spigotmc.org/resources/invsee.82342/download?version=480562
+It is also available on GitHub: https://github.com/Jannyboy11/InvSee-plus-plus/releases/tag/v0.15.2
+
+[05:32:30] [Server thread/ERROR]: Error occurred while enabling InvSeePlusPlus v0.29.11 (Is it up to date?)
+java.lang.RuntimeException: CraftBukkit version git-Paper-81 (MC: 1.19) is not supported by this release of InvSee++. Please use one of the following CraftBukkit versions: [1.8.8, 1.12.2, 1.16.5, 1.17.1, 1.18.2, 1.19.4, 1.20.1, 1.20.4, 1.20.6, 1.21, 1.21.1, 1.21.3, 1.21.4]. Alternatively you can try upgrading InvSee++ if any of the versions listed here is older than your server's Minecraft version. InvSee++ is available on SpigotMC (recommended): https://www.spigotmc.org/resources/invsee.82342/ and on GitHub: https://github.com/Jannyboy11/InvSee-plus-plus/releases
+	at com.janboerman.invsee.spigot.Setup.setup(Setup.java:37) ~[InvSee++.jar:?]
+	at com.janboerman.invsee.spigot.InvseePlusPlus.onEnable(InvseePlusPlus.java:84) ~[InvSee++.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:370) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:542) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.enablePlugin(CraftServer.java:563) ~[paper-1.19.jar:git-Paper-81]
+	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.enablePlugins(CraftServer.java:477) ~[paper-1.19.jar:git-Paper-81]
+	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.reload(CraftServer.java:1018) ~[paper-1.19.jar:git-Paper-81]
+	at org.bukkit.Bukkit.reload(Bukkit.java:909) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:54) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:155) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.dispatchCommand(CraftServer.java:909) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleCommand(ServerGamePacketListenerImpl.java:2382) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$18(ServerGamePacketListenerImpl.java:2153) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1359) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:183) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1336) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1329) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[?:?]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1307) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1192) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:303) ~[paper-1.19.jar:git-Paper-81]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[05:32:30] [Server thread/INFO]: [InvSee++] Disabling InvSeePlusPlus v0.29.11
+[05:32:30] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.8+33cdb4a
+[05:32:30] [Server thread/ERROR]: No TreeType mapping for TreeGenerator.TreeType.CHERRY
+[05:32:30] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[05:32:30] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[05:32:30] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[05:32:30] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[05:32:30] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[05:32:30] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[05:32:30] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[05:32:30] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[05:32:30] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[05:32:30] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[05:32:31] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[05:32:31] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[05:32:31] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[05:32:31] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[05:32:31] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[05:32:31] [Server thread/INFO]: [WorldGuard] Loading region data...
+[05:32:31] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v22.4
+[05:32:31] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled! 
+[05:32:31] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[05:32:31] [Server thread/INFO]: --------------------
+[05:32:31] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Join our Discord!
+[05:32:31] [Server thread/INFO]: [CoreProtect] Discord: www.coreprotect.net/discord/
+[05:32:31] [Server thread/INFO]: --------------------
+[05:32:31] [Server thread/INFO]: [LifeStealZ] Enabling LifeStealZ v2.9.2
+[05:32:31] [Server thread/INFO]: [LifeStealZ] Using language file: plugins/LifeStealZ/lang/en-US.yml
+[05:32:31] [Server thread/INFO]: [LifeStealZ] Using SQLite storage
+[05:32:31] [Server thread/ERROR]: [LifeStealZ] Plugin LifeStealZ v2.9.2 has failed to register events for class org.strassburger.lifestealz.listeners.PrepareGrindstone because org/bukkit/event/inventory/PrepareGrindstoneEvent does not exist.
+[05:32:31] [Server thread/INFO]: [LifeStealZ] LifeStealZ enabled!
+[05:32:31] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v2.19.0
+[05:32:31] [Server thread/INFO]: [Shopkeepers] Loading the data of 4 shopkeepers ...
+[05:32:31] [Server thread/INFO]: [InvSee++_Clear] Enabling InvSeePlusPlus_Clear v0.29.11
+[05:32:31] [Server thread/ERROR]: Error occurred while enabling InvSeePlusPlus_Clear v0.29.11 (Is it up to date?)
+java.lang.NoClassDefFoundError: com/janboerman/invsee/spigot/InvseePlusPlus
+	at com.janboerman.invsee.spigot.addon.clear.ClearPlugin.onEnable(ClearPlugin.java:22) ~[InvSee++_Clear.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:370) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:542) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.enablePlugin(CraftServer.java:563) ~[paper-1.19.jar:git-Paper-81]
+	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.enablePlugins(CraftServer.java:477) ~[paper-1.19.jar:git-Paper-81]
+	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.reload(CraftServer.java:1018) ~[paper-1.19.jar:git-Paper-81]
+	at org.bukkit.Bukkit.reload(Bukkit.java:909) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:54) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:155) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.dispatchCommand(CraftServer.java:909) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleCommand(ServerGamePacketListenerImpl.java:2382) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$18(ServerGamePacketListenerImpl.java:2153) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1359) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:183) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1336) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1329) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[?:?]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1307) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1192) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:303) ~[paper-1.19.jar:git-Paper-81]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.ClassNotFoundException: com.janboerman.invsee.spigot.InvseePlusPlus
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:151) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:103) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	... 26 more
+[05:32:31] [Server thread/INFO]: [InvSee++_Clear] Disabling InvSeePlusPlus_Clear v0.29.11
+[05:32:31] [Server thread/INFO]: [InvSee++_Give] Enabling InvSeePlusPlus_Give v0.29.11
+[05:32:31] [Server thread/ERROR]: Error occurred while enabling InvSeePlusPlus_Give v0.29.11 (Is it up to date?)
+java.lang.NoClassDefFoundError: com/janboerman/invsee/spigot/internal/version/ServerSoftware
+	at com.janboerman.invsee.spigot.addon.give.Setup.setup(Setup.java:13) ~[InvSee++_Give.jar:?]
+	at com.janboerman.invsee.spigot.addon.give.GivePlugin.onEnable(GivePlugin.java:30) ~[InvSee++_Give.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:370) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:542) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.enablePlugin(CraftServer.java:563) ~[paper-1.19.jar:git-Paper-81]
+	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.enablePlugins(CraftServer.java:477) ~[paper-1.19.jar:git-Paper-81]
+	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.reload(CraftServer.java:1018) ~[paper-1.19.jar:git-Paper-81]
+	at org.bukkit.Bukkit.reload(Bukkit.java:909) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:54) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:155) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.dispatchCommand(CraftServer.java:909) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleCommand(ServerGamePacketListenerImpl.java:2382) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$18(ServerGamePacketListenerImpl.java:2153) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1359) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:183) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1336) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1329) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[?:?]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1307) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1192) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:303) ~[paper-1.19.jar:git-Paper-81]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.ClassNotFoundException: com.janboerman.invsee.spigot.internal.version.ServerSoftware
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:151) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:103) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	... 27 more
+[05:32:31] [Server thread/INFO]: [InvSee++_Give] Disabling InvSeePlusPlus_Give v0.29.11
+[05:32:31] [Server thread/INFO]: [GSit] Enabling GSit v1.13.0
+[05:32:31] [Server thread/INFO]: [GSit] The plugin was successfully enabled.
+[05:32:31] [Server thread/INFO]: [GSit] Link with WorldGuard successful!
+[05:32:31] [Server thread/INFO]: [ConditionalEvents] Enabling ConditionalEvents v4.58.1
+[05:32:31] [Server thread/ERROR]: Cannot load plugins/ConditionalEvents/config.yml
+org.bukkit.configuration.InvalidConfigurationException: while parsing a block mapping
+ in 'reader', line 129, column 7:
+          default:
+          ^
+expected <block end>, but found '<block mapping start>'
+ in 'reader', line 133, column 9:
+            muertededsafio:
+            ^
+
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:104) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:160) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:128) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at ce.ajneb97.configs.CEConfig.loadConfiguration(CEConfig.java:108) ~[ConditionalEvents (1).jar:?]
+	at ce.ajneb97.configs.CEConfig.reloadConfig(CEConfig.java:75) ~[ConditionalEvents (1).jar:?]
+	at ce.ajneb97.configs.CEConfig.getConfig(CEConfig.java:61) ~[ConditionalEvents (1).jar:?]
+	at ce.ajneb97.configs.MainConfigManager.configure(MainConfigManager.java:38) ~[ConditionalEvents (1).jar:?]
+	at ce.ajneb97.configs.ConfigsManager.configure(ConfigsManager.java:31) ~[ConditionalEvents (1).jar:?]
+	at ce.ajneb97.ConditionalEvents.onEnable(ConditionalEvents.java:63) ~[ConditionalEvents (1).jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:370) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:542) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.enablePlugin(CraftServer.java:563) ~[paper-1.19.jar:git-Paper-81]
+	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.enablePlugins(CraftServer.java:477) ~[paper-1.19.jar:git-Paper-81]
+	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.reload(CraftServer.java:1018) ~[paper-1.19.jar:git-Paper-81]
+	at org.bukkit.Bukkit.reload(Bukkit.java:909) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:54) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:155) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.dispatchCommand(CraftServer.java:909) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleCommand(ServerGamePacketListenerImpl.java:2382) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$18(ServerGamePacketListenerImpl.java:2153) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1359) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:183) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1336) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1329) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[?:?]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1307) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1192) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:303) ~[paper-1.19.jar:git-Paper-81]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: org.yaml.snakeyaml.parser.ParserException: while parsing a block mapping
+ in 'reader', line 129, column 7:
+          default:
+          ^
+expected <block end>, but found '<block mapping start>'
+ in 'reader', line 133, column 9:
+            muertededsafio:
+            ^
+
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:644) ~[snakeyaml-1.30.jar:?]
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:166) ~[snakeyaml-1.30.jar:?]
+	at org.yaml.snakeyaml.comments.CommentEventsCollector$1.peek(CommentEventsCollector.java:59) ~[snakeyaml-1.30.jar:?]
+	at org.yaml.snakeyaml.comments.CommentEventsCollector$1.peek(CommentEventsCollector.java:45) ~[snakeyaml-1.30.jar:?]
+	at org.yaml.snakeyaml.comments.CommentEventsCollector.collectEvents(CommentEventsCollector.java:140) ~[snakeyaml-1.30.jar:?]
+	at org.yaml.snakeyaml.comments.CommentEventsCollector.collectEvents(CommentEventsCollector.java:119) ~[snakeyaml-1.30.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.composeSequenceNode(Composer.java:252) ~[snakeyaml-1.30.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:186) ~[snakeyaml-1.30.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:314) ~[snakeyaml-1.30.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:305) ~[snakeyaml-1.30.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:286) ~[snakeyaml-1.30.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:188) ~[snakeyaml-1.30.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:314) ~[snakeyaml-1.30.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:305) ~[snakeyaml-1.30.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:286) ~[snakeyaml-1.30.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:188) ~[snakeyaml-1.30.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:314) ~[snakeyaml-1.30.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:305) ~[snakeyaml-1.30.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:286) ~[snakeyaml-1.30.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:188) ~[snakeyaml-1.30.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.composeValueNode(Composer.java:314) ~[snakeyaml-1.30.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:305) ~[snakeyaml-1.30.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:286) ~[snakeyaml-1.30.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:188) ~[snakeyaml-1.30.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.getNode(Composer.java:115) ~[snakeyaml-1.30.jar:?]
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:142) ~[snakeyaml-1.30.jar:?]
+	at org.yaml.snakeyaml.Yaml.compose(Yaml.java:575) ~[snakeyaml-1.30.jar:?]
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:102) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
+	... 33 more
+[05:32:31] [Server thread/ERROR]: Error occurred while enabling ConditionalEvents v4.58.1 (Is it up to date?)
+java.lang.NullPointerException: Cannot invoke "org.bukkit.configuration.file.FileConfiguration.getBoolean(String)" because "config" is null
+	at ce.ajneb97.configs.MainConfigManager.configure(MainConfigManager.java:40) ~[ConditionalEvents (1).jar:?]
+	at ce.ajneb97.configs.ConfigsManager.configure(ConfigsManager.java:31) ~[ConditionalEvents (1).jar:?]
+	at ce.ajneb97.ConditionalEvents.onEnable(ConditionalEvents.java:63) ~[ConditionalEvents (1).jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:370) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:542) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.enablePlugin(CraftServer.java:563) ~[paper-1.19.jar:git-Paper-81]
+	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.enablePlugins(CraftServer.java:477) ~[paper-1.19.jar:git-Paper-81]
+	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.reload(CraftServer.java:1018) ~[paper-1.19.jar:git-Paper-81]
+	at org.bukkit.Bukkit.reload(Bukkit.java:909) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:54) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:155) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.dispatchCommand(CraftServer.java:909) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleCommand(ServerGamePacketListenerImpl.java:2382) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$18(ServerGamePacketListenerImpl.java:2153) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1359) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:183) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1336) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1329) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[?:?]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1307) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1192) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:303) ~[paper-1.19.jar:git-Paper-81]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[05:32:31] [Server thread/INFO]: [ConditionalEvents] Disabling ConditionalEvents v4.58.1
+[05:32:31] [Server thread/INFO]: [ConditionalEvents] Has been disabled! Version: 4.58.1
+[05:32:31] [Server thread/INFO]: SoySander: Reload complete.
+[05:32:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5934ms or 118 ticks behind
+[05:32:31] [Server thread/INFO]: Timings Reset
+[05:32:31] [Server thread/INFO]: [CoreProtect] WorldEdit logging successfully initialized.
+[05:32:31] [Craft Scheduler Thread - 195 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[05:32:31] [Craft Scheduler Thread - 195 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[05:32:31] [Craft Scheduler Thread - 195 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[05:32:31] [Craft Scheduler Thread - 195 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[05:32:31] [Craft Scheduler Thread - 195 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+[05:32:31] [Craft Scheduler Thread - 195 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[05:32:31] [Craft Scheduler Thread - 195 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[05:32:31] [Craft Scheduler Thread - 195 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.5.1[0;39m
+[05:32:31] [Craft Scheduler Thread - 195 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1md5d8613[0;39m
+[05:32:31] [Craft Scheduler Thread - 195 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[05:32:31] [Craft Scheduler Thread - 195 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[05:32:31] [Craft Scheduler Thread - 195 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+[05:32:31] [Craft Scheduler Thread - 195 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+[05:32:40] [Server thread/INFO]: SoySander issued server command: /pl
+[05:32:44] [Async Chat Thread - #6/INFO]: <_ThePlexyZzZ_> tambien se hacer bots de discords con comandos y muchas opciones unicas
+[05:33:02] [Async Chat Thread - #6/INFO]: <_ThePlexyZzZ_> con el bot te hago un chat de dc enlazado con el de mc tmb eso es recontra remil facil
+[05:33:10] [Async Chat Thread - #6/INFO]: <_ThePlexyZzZ_> si qres
+[05:33:51] [Async Chat Thread - #6/INFO]: <_ThePlexyZzZ_> eso si tu lo tendrias que hostear 24/7 yo te enseño un lugar pa hostearlo 24/7 gratis y tu lo hosteas ahi que yo ya hostee uno ahi
+[05:34:56] [Async Chat Thread - #7/INFO]: <SoySander> aver
+[05:34:59] [Async Chat Thread - #7/INFO]: <SoySander> pasa host
+[05:35:02] [Async Chat Thread - #7/INFO]: <SoySander> pa otra serie
+[05:35:10] [Async Chat Thread - #7/INFO]: <SoySander> esta la idea no es q sea 24/7
+[05:35:10] [Async Chat Thread - #7/INFO]: <_ThePlexyZzZ_> como?
+[05:35:15] [Async Chat Thread - #7/INFO]: <SoySander> si no que tenga horarios nomas
+[05:35:21] [Async Chat Thread - #7/INFO]: <_ThePlexyZzZ_> no me refiero a eso
+[05:35:23] [Async Chat Thread - #7/INFO]: <_ThePlexyZzZ_> lee todo xd
+[05:35:43] [Async Chat Thread - #7/INFO]: <SoySander> aaa
+[05:35:50] [Async Chat Thread - #7/INFO]: <SoySander> es para el chat de discord y mc?
+[05:35:57] [Async Chat Thread - #7/INFO]: <SoySander> tu decime q hacer y yo lo hago noma
+[05:36:03] [Async Chat Thread - #7/INFO]: <_ThePlexyZzZ_> si y si queres le meto comandos divertidos y todo
+[05:37:18] [Async Chat Thread - #8/INFO]: <SoySander> sis
+[05:37:21] [Async Chat Thread - #8/INFO]: <_ThePlexyZzZ_> va
+[05:37:28] [Async Chat Thread - #8/INFO]: <_ThePlexyZzZ_> eso lo hago mñn
+[05:37:34] [Async Chat Thread - #8/INFO]: <_ThePlexyZzZ_> xd hoy tengo sueño
+[05:37:35] [Server thread/INFO]: SoySander issued server command: /tp _ThePlexyZzZ_
+[05:37:35] [Server thread/INFO]: [SoySander: Teleported SoySander to _ThePlexyZzZ_]
+[05:37:36] [Async Chat Thread - #8/INFO]: <SoySander> sis
+[05:37:40] [Async Chat Thread - #8/INFO]: <SoySander> ahi pongo las cosas y ya
+[05:37:43] [Async Chat Thread - #8/INFO]: <_ThePlexyZzZ_> pon eso del conditional y hago algunos cambios
+[05:37:45] [Async Chat Thread - #8/INFO]: <_ThePlexyZzZ_> para mañana
+[05:37:57] [Async Chat Thread - #8/INFO]: <_ThePlexyZzZ_> tu dime los cambios que quieres
+[05:37:59] [Async Chat Thread - #8/INFO]: <_ThePlexyZzZ_> y yo los hago
+[05:38:24] [Async Chat Thread - #8/INFO]: <SoySander> estoy cargando los ultimos plugins
+[05:38:26] [Async Chat Thread - #8/INFO]: <SoySander> ya te digo
+[05:38:27] [Async Chat Thread - #8/INFO]: <_ThePlexyZzZ_> va
+[05:38:33] [Server thread/INFO]: _ThePlexyZzZ_ issued server command: /pl
+[05:39:03] [Server thread/INFO]: _ThePlexyZzZ_ issued server command: /ie edit
+[05:39:43] [Server thread/INFO]: _ThePlexyZzZ_ issued server command: /itemeditor edit
+[05:40:14] [Async Chat Thread - #8/INFO]: <_ThePlexyZzZ_> ah y pon el essentials x
+[05:40:17] [Async Chat Thread - #8/INFO]: <SoySander> ok
+[05:40:19] [Async Chat Thread - #8/INFO]: <_ThePlexyZzZ_> cuando puedas
+[05:40:25] [Async Chat Thread - #8/INFO]: <_ThePlexyZzZ_> lo uso para usar comandos mas rapido
+[05:40:40] [Async Chat Thread - #8/INFO]: <_ThePlexyZzZ_> y sirve para ver inventarios tmb y todo porq por lo que veo no sirve el invsee plus
+[05:40:44] [Server thread/INFO]: _ThePlexyZzZ_ issued server command: /invsee SoySander
+[05:40:44] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Cannot execute command 'invsee' in plugin InvSeePlusPlus v0.29.11 - plugin is disabled.
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:37) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:155) ~[paper-api-1.19-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_19_R1.CraftServer.dispatchCommand(CraftServer.java:909) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.handleCommand(ServerGamePacketListenerImpl.java:2382) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$18(ServerGamePacketListenerImpl.java:2153) ~[?:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:153) ~[?:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[?:?]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1359) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.server.MinecraftServer.d(MinecraftServer.java:183) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:126) ~[?:?]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1336) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1329) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:136) ~[?:?]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1307) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1192) ~[paper-1.19.jar:git-Paper-81]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:303) ~[paper-1.19.jar:git-Paper-81]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[05:40:51] [Async Chat Thread - #8/INFO]: <_ThePlexyZzZ_> y otras cosas hace
+[05:41:00] [Server thread/INFO]: _ThePlexyZzZ_ issued server command: /ie edit
