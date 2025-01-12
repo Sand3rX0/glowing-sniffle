@@ -3308,3 +3308,91 @@ java.lang.NullPointerException: Cannot invoke "org.bukkit.configuration.file.Fil
 [06:01:15] [Async Chat Thread - #9/INFO]: <_ThePlexyZzZ_> si se puede
 [06:01:28] [Async Chat Thread - #9/INFO]: <_ThePlexyZzZ_> por ejemplo modifico el prefix de los users rapido mira
 [06:01:35] [Async Chat Thread - #9/INFO]: <~Sander> aver
+[06:02:16] [Server thread/INFO]: _ThePlexyZzZ_ issued server command: /lp group default meta setprefix &8[&7&lUsuario&8]&f-
+[06:02:16] [luckperms-command-executor/INFO]: [LP] LOG > (_ThePlexyZzZ_) [G] (default)
+[06:02:16] [luckperms-command-executor/INFO]: [LP] LOG > meta setprefix 1 &8[&7&lUsuario&8]&f-
+[06:02:21] [Async Chat Thread - #9/INFO]: <_ThePlexyZzZ_> ya
+[06:02:26] [Async Chat Thread - #9/INFO]: <~Sander> que
+[06:02:29] [Async Chat Thread - #9/INFO]: <~Sander> mp emtemdo
+[06:02:38] [Async Chat Thread - #9/INFO]: <~Sander> no entiendo
+[06:02:38] [Server thread/INFO]: _ThePlexyZzZ_ issued server command: /lp user _ThePlexyZzZ_ parent set default
+[06:02:38] [luckperms-command-executor/INFO]: [LP] LOG > (_ThePlexyZzZ_) [U] (_theplexyzzz_)
+[06:02:38] [luckperms-command-executor/INFO]: [LP] LOG > parent set default
+[06:02:40] [Async Chat Thread - #9/INFO]: <~Sander> que paso
+[06:02:42] [Async Chat Thread - #9/INFO]: <_ThePlexyZzZ_> aver
+[06:02:44] [Async Chat Thread - #9/INFO]: <_ThePlexyZzZ_> sal y entra
+[06:02:47] [Server thread/INFO]: SoySander lost connection: Disconnected
+[06:02:47] [Server thread/INFO]: SoySander left the game
+[06:02:53] [User Authenticator #3/INFO]: UUID of player SoySander is 2fdec197-58fd-3a92-a8c9-336e26aeae55
+[06:02:53] [Server thread/INFO]: SoySander joined the game
+[06:02:53] [Server thread/INFO]: SoySander[/127.87.61.29:40909] logged in with entity id 7325 at ([world]-2038.8080595992608, 130.0, 1671.3637107844966)
+[06:02:53] [Server thread/WARN]: [Essentials] File motd.txt does not exist. Creating one for you.
+[06:02:59] [Async Chat Thread - #9/INFO]: <~Sander> a
+[06:03:01] [Async Chat Thread - #9/INFO]: <_ThePlexyZzZ_> creo que no sale por lo de la vida
+[06:03:06] [Async Chat Thread - #9/INFO]: <~Sander> ptm
+[06:03:09] [Server thread/INFO]: _ThePlexyZzZ_ issued server command: /lp group default meta setprefix "&8[&7&lUsuario&8]&f-"
+[06:03:09] [luckperms-command-executor/INFO]: [LP] LOG > (_ThePlexyZzZ_) [G] (default)
+[06:03:09] [luckperms-command-executor/INFO]: [LP] LOG > meta setprefix 1 &8[&7&lUsuario&8]&f-
+[06:03:16] [Async Chat Thread - #9/INFO]: <~Sander> y lo de la vida es necesario
+[06:03:24] [Async Chat Thread - #9/INFO]: <_ThePlexyZzZ_> mm
+[06:03:43] [Server thread/INFO]: _ThePlexyZzZ_ issued server command: /lp group default meta addprefix "&8[&7&lUsuario&8]&f-"
+[06:03:56] [Server thread/INFO]: _ThePlexyZzZ_ issued server command: /lp group default meta addprefix &8[&7&lUsuario&8]&f-
+[06:03:59] [Server thread/INFO]: _ThePlexyZzZ_ issued server command: /lp group default meta setsuffix &8[&7&lUsuario&8]&f-
+[06:03:59] [luckperms-command-executor/INFO]: [LP] LOG > (_ThePlexyZzZ_) [G] (default)
+[06:03:59] [luckperms-command-executor/INFO]: [LP] LOG > meta setsuffix 1 &8[&7&lUsuario&8]&f-
+[06:04:25] [Server thread/INFO]: _ThePlexyZzZ_ issued server command: /scoreboard players remove _ThePlexyZzZ_ Vida
+[06:04:29] [Async Chat Thread - #10/INFO]: <~Sander> pero tipo
+[06:04:35] [Async Chat Thread - #10/INFO]: <~Sander> no podes hacer que salga arriba en el name taf
+[06:04:37] [Async Chat Thread - #10/INFO]: <~Sander> no podes hacer que salga arriba en el name tag
+[06:04:42] [Async Chat Thread - #10/INFO]: <~Sander> no en la scoreboard
+[06:04:50] [Async Chat Thread - #10/INFO]: <~Sander> o es muy dificil :v?
+[06:04:51] [Async Chat Thread - #10/INFO]: <_ThePlexyZzZ_> es lo que estoy haciendo pero el luckperms lo pone en los 2
+[06:05:03] [Server thread/INFO]: _ThePlexyZzZ_ issued server command: /pl
+[06:05:14] [Async Chat Thread - #10/INFO]: <_ThePlexyZzZ_> es facil
+[06:05:32] [Server thread/INFO]: SoySander issued server command: /tellraw @a {"text":"SpreenDMC was joined the server","color":"yellow"}
+[06:05:34] [Server thread/INFO]: _ThePlexyZzZ_ issued server command: /lp group default parent set default
+[06:05:34] [luckperms-command-executor/INFO]: [LP] LOG > (_ThePlexyZzZ_) [G] (default)
+[06:05:34] [luckperms-command-executor/INFO]: [LP] LOG > parent set default
+[06:05:46] [Async Chat Thread - #10/INFO]: <_ThePlexyZzZ_> y eso?
+[06:05:55] [Server thread/INFO]: _ThePlexyZzZ_ issued server command: /tp SpreenDMC
+[06:05:57] [Server thread/INFO]: SoySander issued server command: /tellraw @a {"text":"SpreenDMC: sexito rico\n "}
+[06:06:05] [Async Chat Thread - #10/INFO]: <~Sander> wtf spreen
+[06:06:10] [Async Chat Thread - #10/INFO]: <_ThePlexyZzZ_> ese spreen mas trucho
+[06:06:32] [Server thread/INFO]: SoySander issued server command: /tellraw @a {"text":"SpreenDMC: spreen tu vieja que me la garcho todos los dias boludito\n "}
+[06:06:37] [Async Chat Thread - #10/INFO]: <~Sander> eyeyeye
+[06:06:40] [Async Chat Thread - #10/INFO]: <_ThePlexyZzZ_> ey
+[06:06:42] [Async Chat Thread - #10/INFO]: <~Sander> ya ando alucinando
+[06:06:56] [Async Chat Thread - #10/INFO]: <_ThePlexyZzZ_> Asi de quemado queda tu viejo luego de que me garcho de verdad bien fuerte a tu vieja
+[06:07:06] [Server thread/INFO]: SoySander issued server command: /tellraw @a ["",{"text":"SpreenDMC left the game","color":"yellow"},{"text":"\n "}]
+[06:07:13] [Async Chat Thread - #10/INFO]: <_ThePlexyZzZ_> de tal humillada se fue
+[06:07:32] [Server thread/INFO]: [LifeStealZ] Player _ThePlexyZzZ_ died!
+[06:07:32] [Server thread/INFO]: _ThePlexyZzZ_ was blown up by Wither
+[06:07:33] [Server thread/INFO]: SoySander issued server command: /effect give SoySander minecraft:strength 999 99
+[06:07:33] [Server thread/INFO]: [SoySander: Applied effect Strength to SoySander]
+[06:07:35] [Async Chat Thread - #10/INFO]: <_ThePlexyZzZ_> XDDD
+[06:07:40] [Async Chat Thread - #10/INFO]: <_ThePlexyZzZ_> me mori
+[06:07:42] [Server thread/INFO]: _ThePlexyZzZ_ issued server command: /tp SoySander
+[06:07:46] [Async Chat Thread - #10/INFO]: <~Sander> xddd
+[06:07:48] [Async Chat Thread - #10/INFO]: <~Sander> bueno
+[06:07:49] [Server thread/INFO]: _ThePlexyZzZ_ issued server command: /gm 1
+[06:07:51] [Async Chat Thread - #10/INFO]: <~Sander> hacemos los cambios?¿
+[06:07:54] [Async Chat Thread - #10/INFO]: <_ThePlexyZzZ_> si
+[06:07:55] [Async Chat Thread - #10/INFO]: <~Sander> los que se puedan
+[06:07:57] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
+[06:07:58] [Async Chat Thread - #10/INFO]: <_ThePlexyZzZ_> pero primero hay que hace
+[06:07:59] [Async Chat Thread - #10/INFO]: <_ThePlexyZzZ_> pero primero hay que hacer
+[06:08:00] [Server thread/INFO]: SoySander issued server command: /gamemode creative
+[06:08:02] [Async Chat Thread - #10/INFO]: <_ThePlexyZzZ_> que funcione
+[06:08:03] [Async Chat Thread - #10/INFO]: <_ThePlexyZzZ_> eso
+[06:08:10] [Async Chat Thread - #10/INFO]: <~Sander> q cosa?
+[06:08:16] [Async Chat Thread - #10/INFO]: <_ThePlexyZzZ_> va puedo tratar de hacer en bloque de comandos
+[06:08:24] [Async Chat Thread - #10/INFO]: <~Sander> sis
+[06:08:32] [Async Chat Thread - #10/INFO]: <~Sander> tratemos los que se puedan en bloques de comandos
+[06:08:39] [Async Chat Thread - #10/INFO]: <_ThePlexyZzZ_> pero solo puedo hacer lo de que en vez de spawnear calamares spawneen guardianes
+[06:08:41] [Async Chat Thread - #10/INFO]: <~Sander> despues los otros cuando lo solucione
+[06:08:47] [Async Chat Thread - #10/INFO]: <~Sander> bueno
+[06:08:48] [Async Chat Thread - #10/INFO]: <_ThePlexyZzZ_> va intentar hacer eso
+[06:08:49] [Async Chat Thread - #10/INFO]: <~Sander> sirve
+[06:08:57] [Async Chat Thread - #10/INFO]: <_ThePlexyZzZ_> nunca lo hice con bloque de comandos pero creo que se puede
+[06:09:01] [Server thread/INFO]: _ThePlexyZzZ_ issued server command: /gm 3
+[06:09:04] [Server thread/INFO]: _ThePlexyZzZ_ issued server command: /gm 1
