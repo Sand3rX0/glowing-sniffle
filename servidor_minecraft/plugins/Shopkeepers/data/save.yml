@@ -93,6 +93,48 @@ data-version: 3|2|3105
         v: 3105
         type: DIAMOND
         amount: 15
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3105
+        type: SPLASH_POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:strong_strength
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3105
+        type: DIAMOND
+        amount: 10
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3105
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:long_fire_resistance
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3105
+        type: DIAMOND
+        amount: 5
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3105
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:strong_swiftness
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3105
+        type: DIAMOND
+        amount: 4
   snapshots: []
 '3':
   uniqueId: 6d7ac0ef-e262-489e-b032-b31b0b86b0d4

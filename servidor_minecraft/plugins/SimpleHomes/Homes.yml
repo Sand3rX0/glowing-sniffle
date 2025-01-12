@@ -30,9 +30,9 @@ a0ca1217-835b-34d9-9dea-9fd786f32201:
 4a212ac4-ab8c-3fc7-bce8-547d3889426f:
   default:
     world: world
-    x: -2613
-    y: -54
-    z: 1817
+    x: 581
+    y: -41
+    z: 2771
 be14b746-ebad-3897-ba51-0ecc152e8308:
   default:
     world: world
@@ -51,3 +51,33 @@ be14b746-ebad-3897-ba51-0ecc152e8308:
     x: -926
     y: 72
     z: 2268
+a8ef7c66-54a2-3742-98e6-c71015b59932:
+  default:
+    world: world
+    x: -5148
+    y: 65
+    z: -1385
+326044c1-2d5b-3095-8358-82997a3cff82:
+  default:
+    world: world
+    x: -5135
+    y: 69
+    z: -1405
+0669bb43-6cc6-3673-b43b-7b1dc34bd8dd:
+  default:
+    world: world
+    x: -1911
+    y: -40
+    z: 2275
+3b3940ea-164b-358b-a48b-f36e8814efb6:
+  default:
+    world: world
+    x: -1830
+    y: -31
+    z: 2208
+25b5aa45-6098-35be-873c-099f9744a636:
+  default:
+    world: world
+    x: -3088
+    y: 66
+    z: 2191
