@@ -966,3 +966,110 @@ java.lang.NullPointerException: Cannot invoke "org.bukkit.configuration.file.Fil
 [05:09:08] [Async Chat Thread - #0/INFO]: <_ThePlexyZzZ_> voy
 [05:09:08] [Async Chat Thread - #0/INFO]: <SoySander> y ves mi pantalla?
 [05:09:14] [Async Chat Thread - #0/INFO]: <SoySander> que el video es larguisimo
+[05:09:46] [Async Chat Thread - #0/INFO]: <_ThePlexyZzZ_> XD
+[05:10:14] [Async Chat Thread - #0/INFO]: <_ThePlexyZzZ_> estas hablando
+[05:10:15] [Async Chat Thread - #0/INFO]: <_ThePlexyZzZ_> ?
+[05:11:54] [Async Chat Thread - #1/INFO]: <_ThePlexyZzZ_> no escuche
+[05:11:54] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[05:11:54] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[05:11:55] [Async Chat Thread - #1/INFO]: <_ThePlexyZzZ_> pero tubo cheto
+[05:11:58] [Server thread/INFO]: _ThePlexyZzZ_ issued server command: /gm 0
+[05:12:00] [Server thread/INFO]: _ThePlexyZzZ_ issued server command: /gamemode survival
+[05:12:00] [Server thread/INFO]: [_ThePlexyZzZ_: Set own game mode to Survival Mode]
+[05:12:06] [Async Chat Thread - #1/INFO]: <_ThePlexyZzZ_> che
+[05:12:13] [Async Chat Thread - #1/INFO]: <_ThePlexyZzZ_> igual a mi me hicieron kill
+[05:12:20] [Async Chat Thread - #1/INFO]: <SoySander> xd
+[05:12:21] [Async Chat Thread - #1/INFO]: <_ThePlexyZzZ_> andaba con 8 coras, 2 totems en mano
+[05:12:26] [Async Chat Thread - #1/INFO]: <_ThePlexyZzZ_> y mori de la nada
+[05:12:28] [Async Chat Thread - #1/INFO]: <_ThePlexyZzZ_> sin popear
+[05:12:29] [Async Chat Thread - #1/INFO]: <_ThePlexyZzZ_> totem
+[05:12:35] [Async Chat Thread - #1/INFO]: <SoySander> te hicieron /kill y ya xd?
+[05:12:38] [Async Chat Thread - #1/INFO]: <_ThePlexyZzZ_> si
+[05:12:45] [Async Chat Thread - #1/INFO]: <SoySander> eso es q querian que murieran todos a la fuerza
+[05:12:50] [Async Chat Thread - #1/INFO]: <_ThePlexyZzZ_> XD
+[05:12:56] [Async Chat Thread - #1/INFO]: <_ThePlexyZzZ_> pero a mi me hizo kissy kill
+[05:12:56] [Async Chat Thread - #1/INFO]: <SoySander> a mi me hicieron doble infinite damage
+[05:13:02] [Async Chat Thread - #1/INFO]: <SoySander> xd
+[05:13:03] [Async Chat Thread - #1/INFO]: <_ThePlexyZzZ_> porq la banearon del sv un tiempo por mi culpa
+[05:13:05] [Async Chat Thread - #1/INFO]: <_ThePlexyZzZ_> y nose qe mas
+[05:13:07] [Async Chat Thread - #1/INFO]: <_ThePlexyZzZ_> le hicieron
+[05:13:08] [Async Chat Thread - #1/INFO]: <_ThePlexyZzZ_> que*
+[05:13:16] [Async Chat Thread - #1/INFO]: <_ThePlexyZzZ_> xd
+[05:13:25] [Async Chat Thread - #1/INFO]: <_ThePlexyZzZ_> ten
+[05:13:29] [Async Chat Thread - #1/INFO]: <_ThePlexyZzZ_> los os bloques de comandos
+[05:13:32] [Async Chat Thread - #1/INFO]: <_ThePlexyZzZ_> ponlos cuando quieras
+[05:13:33] [Server thread/INFO]: SoySander issued server command: /gamemode creative
+[05:13:33] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
+[05:13:40] [Async Chat Thread - #1/INFO]: <_ThePlexyZzZ_> para mañana estaran los cambios?
+[05:13:41] [Async Chat Thread - #1/INFO]: <_ThePlexyZzZ_> esos
+[05:13:54] [Server thread/INFO]: _ThePlexyZzZ_ issued server command: /gm 1
+[05:13:57] [Server thread/INFO]: _ThePlexyZzZ_ issued server command: /gamemode creative
+[05:13:57] [Server thread/INFO]: [_ThePlexyZzZ_: Set own game mode to Creative Mode]
+[05:14:16] [Server thread/INFO]: _ThePlexyZzZ_ has made the advancement [Glow and Behold!]
+[05:14:46] [Async Chat Thread - #2/INFO]: <_ThePlexyZzZ_> sale hacer que todos los enemigos hagan el doble de daño
+[05:14:48] [Async Chat Thread - #2/INFO]: <_ThePlexyZzZ_> para mañana
+[05:15:00] [Async Chat Thread - #2/INFO]: <SoySander> sis
+[05:15:02] [Async Chat Thread - #2/INFO]: <_ThePlexyZzZ_> god
+[05:15:04] [Async Chat Thread - #2/INFO]: <SoySander> lo hacemos de una?
+[05:15:07] [Async Chat Thread - #2/INFO]: <_ThePlexyZzZ_> se
+[05:15:10] [Async Chat Thread - #2/INFO]: <_ThePlexyZzZ_> eso lo hago ez
+[05:15:21] [Async Chat Thread - #2/INFO]: <_ThePlexyZzZ_> tengo el code hecho ese ya
+[05:15:26] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
+[05:15:26] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
+[05:15:28] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[05:15:28] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[05:15:29] [Async Chat Thread - #2/INFO]: <_ThePlexyZzZ_> lo hice en un sv mio y lo tengo guardado
+[05:15:36] [Async Chat Thread - #2/INFO]: <SoySander> plexy
+[05:15:38] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
+[05:15:38] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
+[05:15:40] [Async Chat Thread - #2/INFO]: <_ThePlexyZzZ_> dime
+[05:15:40] [Server thread/INFO]: SoySander issued server command: /gamemode creative
+[05:15:40] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
+[05:15:48] [Async Chat Thread - #2/INFO]: <SoySander> agarra una shulker
+[05:15:49] [Server thread/INFO]: _ThePlexyZzZ_ issued server command: /gamemode spectator
+[05:15:49] [Server thread/INFO]: [_ThePlexyZzZ_: Set own game mode to Spectator Mode]
+[05:15:50] [Server thread/INFO]: _ThePlexyZzZ_ issued server command: /gamemode creative
+[05:15:50] [Server thread/INFO]: [_ThePlexyZzZ_: Set own game mode to Creative Mode]
+[05:15:53] [Async Chat Thread - #2/INFO]: <SoySander> y guarda todas tus cosas
+[05:15:57] [Async Chat Thread - #2/INFO]: <SoySander> y las metes en el ender
+[05:16:07] [Async Chat Thread - #2/INFO]: <SoySander> asitrabajas con el espacio del inv libre
+[05:16:16] [Async Chat Thread - #2/INFO]: <_ThePlexyZzZ_> son del
+[05:16:20] [Async Chat Thread - #2/INFO]: <_ThePlexyZzZ_> del pvp
+[05:16:21] [Async Chat Thread - #2/INFO]: <_ThePlexyZzZ_> esas
+[05:16:55] [Async Chat Thread - #2/INFO]: <_ThePlexyZzZ_> xd
+[05:16:56] [Server thread/INFO]: SoySander issued server command: /tp _ThePlexyZzZ_ SoySander
+[05:16:56] [Server thread/INFO]: [SoySander: Teleported _ThePlexyZzZ_ to SoySander]
+[05:16:59] [Server thread/INFO]: SoySander issued server command: /tp _ThePlexyZzZ_ SoySander
+[05:16:59] [Server thread/INFO]: [SoySander: Teleported _ThePlexyZzZ_ to SoySander]
+[05:17:27] [Server thread/INFO]: SoySander issued server command: /gamemode spectator
+[05:17:27] [Server thread/INFO]: [SoySander: Set own game mode to Spectator Mode]
+[05:17:29] [Server thread/INFO]: SoySander issued server command: /gamemode survival
+[05:17:29] [Server thread/INFO]: [SoySander: Set own game mode to Survival Mode]
+[05:17:38] [Server thread/INFO]: _ThePlexyZzZ_ issued server command: //hpyramid 7 red_concrete
+[05:17:44] [Server thread/INFO]: _ThePlexyZzZ_ issued server command: //hpyramid red_concrete 7
+[05:17:48] [Async Chat Thread - #2/INFO]: <_ThePlexyZzZ_> no anda
+[05:17:50] [Server thread/INFO]: SoySander issued server command: /tp _ThePlexyZzZ_ SoySander
+[05:17:50] [Server thread/INFO]: [SoySander: Teleported _ThePlexyZzZ_ to SoySander]
+[05:17:51] [Async Chat Thread - #2/INFO]: <_ThePlexyZzZ_> el world edit
+[05:17:54] [Async Chat Thread - #2/INFO]: <SoySander> que cosa
+[05:17:55] [Async Chat Thread - #2/INFO]: <SoySander> pq
+[05:17:55] [Async Chat Thread - #2/INFO]: <_ThePlexyZzZ_> tenes que instalar otra version
+[05:17:57] [Async Chat Thread - #2/INFO]: <SoySander> ?
+[05:18:01] [Async Chat Thread - #2/INFO]: <_ThePlexyZzZ_> de el world edit
+[05:18:05] [Server thread/INFO]: SoySander issued server command: /gamemode creative
+[05:18:05] [Server thread/INFO]: [SoySander: Set own game mode to Creative Mode]
+[05:18:13] [Async Chat Thread - #2/INFO]: <SoySander> voty
+[05:18:15] [Async Chat Thread - #2/INFO]: <SoySander> voy
+[05:18:25] [Async Chat Thread - #2/INFO]: <_ThePlexyZzZ_> de paso descarga el conditional events
+[05:18:36] [Async Chat Thread - #2/INFO]: <_ThePlexyZzZ_> y mythic mobs para futuros bosses
+[05:18:53] [Async Chat Thread - #2/INFO]: <_ThePlexyZzZ_> y luckperms esta no?
+[05:18:54] [Async Chat Thread - #2/INFO]: <SoySander> el conditional events esta
+[05:18:56] [Server thread/INFO]: _ThePlexyZzZ_ issued server command: /pl
+[05:18:57] [Async Chat Thread - #2/INFO]: <SoySander> pero no funciona
+[05:19:15] [Async Chat Thread - #2/INFO]: <_ThePlexyZzZ_> descargale otra version
+[05:19:19] [Async Chat Thread - #2/INFO]: <SoySander> voyu
+[05:19:20] [Async Chat Thread - #2/INFO]: <_ThePlexyZzZ_> decarga el luckperms si no esta
+[05:19:21] [Async Chat Thread - #2/INFO]: <SoySander> voy
+[05:19:26] [Async Chat Thread - #2/INFO]: <SoySander> mandame la lista de plugins al dm
+[05:19:29] [Async Chat Thread - #2/INFO]: <_ThePlexyZzZ_> oks
+[05:19:32] [Async Chat Thread - #2/INFO]: <SoySander> para instalarlos todos de una
